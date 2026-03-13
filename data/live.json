@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T20:51:25Z",
+    "last_updated": "2026-03-13T21:25:43Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -12,7 +12,8 @@
     "2026-03-14"
   ],
   "_known_finals": [
-    "Result"
+    "Result",
+    "Men Weight"
   ],
   "women": {
     "team_scores": [
@@ -21,10 +22,10 @@
         "actual": 0.0,
         "seed_projection": 43.0,
         "ceiling": 38.0,
-        "mc_forecast": 37.7,
+        "mc_forecast": 37.5,
         "premeet_projection": 0.0,
-        "win_probability": 53.4,
-        "top4_probability": 96.7,
+        "win_probability": 51.9,
+        "top4_probability": 97.0,
         "events_scored": []
       },
       {
@@ -32,10 +33,10 @@
         "actual": 0.0,
         "seed_projection": 35.3,
         "ceiling": 36.0,
-        "mc_forecast": 36.1,
+        "mc_forecast": 36.0,
         "premeet_projection": 77.0,
-        "win_probability": 29.8,
-        "top4_probability": 91.9,
+        "win_probability": 31.4,
+        "top4_probability": 91.2,
         "events_scored": []
       },
       {
@@ -45,7 +46,7 @@
         "ceiling": 31.0,
         "mc_forecast": 32.5,
         "premeet_projection": 72.0,
-        "win_probability": 11.6,
+        "win_probability": 11.2,
         "top4_probability": 76.6,
         "events_scored": []
       },
@@ -54,10 +55,10 @@
         "actual": 0.0,
         "seed_projection": 30.5,
         "ceiling": 29.0,
-        "mc_forecast": 28.9,
+        "mc_forecast": 28.8,
         "premeet_projection": 19.0,
-        "win_probability": 2.2,
-        "top4_probability": 51.0,
+        "win_probability": 2.7,
+        "top4_probability": 48.9,
         "events_scored": []
       },
       {
@@ -65,10 +66,10 @@
         "actual": 0.0,
         "seed_projection": 29.0,
         "ceiling": 27.0,
-        "mc_forecast": 27.6,
+        "mc_forecast": 28.0,
         "premeet_projection": 0.0,
-        "win_probability": 1.2,
-        "top4_probability": 33.1,
+        "win_probability": 1.0,
+        "top4_probability": 37.5,
         "events_scored": []
       },
       {
@@ -79,7 +80,7 @@
         "mc_forecast": 27.0,
         "premeet_projection": 0.0,
         "win_probability": 1.6,
-        "top4_probability": 31.6,
+        "top4_probability": 32.0,
         "events_scored": []
       },
       {
@@ -87,10 +88,10 @@
         "actual": 0.0,
         "seed_projection": 23.0,
         "ceiling": 23.0,
-        "mc_forecast": 20.9,
+        "mc_forecast": 21.0,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
-        "top4_probability": 1.9,
+        "top4_probability": 1.6,
         "events_scored": []
       },
       {
@@ -100,8 +101,8 @@
         "ceiling": 21.0,
         "mc_forecast": 22.4,
         "premeet_projection": 38.0,
-        "win_probability": 0.0,
-        "top4_probability": 6.2,
+        "win_probability": 0.1,
+        "top4_probability": 6.0,
         "events_scored": []
       },
       {
@@ -109,10 +110,10 @@
         "actual": 0.0,
         "seed_projection": 21.8,
         "ceiling": 23.0,
-        "mc_forecast": 22.0,
+        "mc_forecast": 21.8,
         "premeet_projection": 28.0,
         "win_probability": 0.1,
-        "top4_probability": 6.5,
+        "top4_probability": 4.7,
         "events_scored": []
       },
       {
@@ -120,10 +121,10 @@
         "actual": 0.0,
         "seed_projection": 21.0,
         "ceiling": 16.0,
-        "mc_forecast": 19.9,
+        "mc_forecast": 19.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.7,
+        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -142,10 +143,10 @@
         "actual": 0.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 20.7,
+        "mc_forecast": 20.8,
         "premeet_projection": 0.0,
         "win_probability": 0.1,
-        "top4_probability": 3.1,
+        "top4_probability": 3.2,
         "events_scored": []
       },
       {
@@ -156,7 +157,7 @@
         "mc_forecast": 17.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -164,10 +165,10 @@
         "actual": 0.0,
         "seed_projection": 17.0,
         "ceiling": 17.0,
-        "mc_forecast": 16.7,
+        "mc_forecast": 16.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -186,10 +187,10 @@
         "actual": 0.0,
         "seed_projection": 15.0,
         "ceiling": 14.0,
-        "mc_forecast": 16.1,
+        "mc_forecast": 16.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -197,7 +198,7 @@
         "actual": 0.0,
         "seed_projection": 15.0,
         "ceiling": 16.0,
-        "mc_forecast": 13.8,
+        "mc_forecast": 13.9,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -219,10 +220,10 @@
         "actual": 0.0,
         "seed_projection": 12.5,
         "ceiling": 12.0,
-        "mc_forecast": 12.8,
+        "mc_forecast": 12.7,
         "premeet_projection": 30.0,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -230,10 +231,10 @@
         "actual": 0.0,
         "seed_projection": 11.0,
         "ceiling": 12.0,
-        "mc_forecast": 13.8,
+        "mc_forecast": 13.7,
         "premeet_projection": 62.0,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -263,7 +264,7 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 12.0,
-        "mc_forecast": 11.2,
+        "mc_forecast": 11.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -307,7 +308,7 @@
         "actual": 0.0,
         "seed_projection": 8.0,
         "ceiling": 9.0,
-        "mc_forecast": 8.1,
+        "mc_forecast": 8.2,
         "premeet_projection": 38.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -329,7 +330,7 @@
         "actual": 0.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 7.5,
+        "mc_forecast": 7.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -340,7 +341,7 @@
         "actual": 0.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 7.4,
+        "mc_forecast": 7.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -351,7 +352,7 @@
         "actual": 0.0,
         "seed_projection": 7.0,
         "ceiling": 7.0,
-        "mc_forecast": 7.3,
+        "mc_forecast": 7.4,
         "premeet_projection": 40.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -362,7 +363,7 @@
         "actual": 0.0,
         "seed_projection": 6.3,
         "ceiling": 7.0,
-        "mc_forecast": 6.0,
+        "mc_forecast": 5.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -395,7 +396,7 @@
         "actual": 0.0,
         "seed_projection": 5.5,
         "ceiling": 7.0,
-        "mc_forecast": 5.6,
+        "mc_forecast": 5.7,
         "premeet_projection": 18.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -406,7 +407,7 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.2,
+        "mc_forecast": 5.3,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -439,7 +440,7 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.5,
+        "mc_forecast": 5.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -505,7 +506,7 @@
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.0,
+        "mc_forecast": 3.1,
         "premeet_projection": 21.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -516,7 +517,7 @@
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 4.0,
-        "mc_forecast": 3.0,
+        "mc_forecast": 3.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -538,7 +539,7 @@
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.1,
+        "mc_forecast": 3.0,
         "premeet_projection": 3.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -549,7 +550,7 @@
         "actual": 0.0,
         "seed_projection": 2.0,
         "ceiling": 2.0,
-        "mc_forecast": 2.1,
+        "mc_forecast": 2.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -571,7 +572,7 @@
         "actual": 0.0,
         "seed_projection": 2.0,
         "ceiling": 3.0,
-        "mc_forecast": 2.1,
+        "mc_forecast": 2.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -593,7 +594,7 @@
         "actual": 0.0,
         "seed_projection": 1.5,
         "ceiling": 3.0,
-        "mc_forecast": 2.7,
+        "mc_forecast": 2.6,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -736,7 +737,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.2,
+        "mc_forecast": 0.1,
         "premeet_projection": 1.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -758,7 +759,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 2.0,
-        "mc_forecast": 0.8,
+        "mc_forecast": 0.7,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -835,7 +836,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.4,
         "premeet_projection": 7.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -978,7 +979,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4660,8 +4661,8 @@
         "ceiling": 39.0,
         "mc_forecast": 39.3,
         "premeet_projection": 67.0,
-        "win_probability": 42.8,
-        "top4_probability": 99.0,
+        "win_probability": 43.4,
+        "top4_probability": 98.8,
         "events_scored": []
       },
       {
@@ -4669,10 +4670,10 @@
         "actual": 0.0,
         "seed_projection": 38.0,
         "ceiling": 37.0,
-        "mc_forecast": 39.7,
+        "mc_forecast": 39.6,
         "premeet_projection": 23.0,
-        "win_probability": 52.0,
-        "top4_probability": 98.5,
+        "win_probability": 50.6,
+        "top4_probability": 98.1,
         "events_scored": []
       },
       {
@@ -4682,19 +4683,8 @@
         "ceiling": 27.0,
         "mc_forecast": 31.5,
         "premeet_projection": 0.0,
-        "win_probability": 5.0,
-        "top4_probability": 86.7,
-        "events_scored": []
-      },
-      {
-        "team": "Kansas State",
-        "actual": 0.0,
-        "seed_projection": 25.0,
-        "ceiling": 25.0,
-        "mc_forecast": 25.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 34.2,
+        "win_probability": 5.8,
+        "top4_probability": 85.0,
         "events_scored": []
       },
       {
@@ -4702,11 +4692,24 @@
         "actual": 0.0,
         "seed_projection": 24.0,
         "ceiling": 23.0,
-        "mc_forecast": 20.9,
+        "mc_forecast": 20.8,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
-        "top4_probability": 5.8,
+        "top4_probability": 5.0,
         "events_scored": []
+      },
+      {
+        "team": "Kansas State",
+        "actual": 4.0,
+        "seed_projection": 23.0,
+        "ceiling": 23.0,
+        "mc_forecast": 22.9,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 18.5,
+        "events_scored": [
+          "Men Weight (4.0pt)"
+        ]
       },
       {
         "team": "Oregon",
@@ -4716,18 +4719,31 @@
         "mc_forecast": 23.4,
         "premeet_projection": 77.0,
         "win_probability": 0.1,
-        "top4_probability": 23.4,
+        "top4_probability": 23.6,
         "events_scored": []
+      },
+      {
+        "team": "Tennessee",
+        "actual": 2.0,
+        "seed_projection": 22.5,
+        "ceiling": 22.0,
+        "mc_forecast": 24.4,
+        "premeet_projection": 30.0,
+        "win_probability": 0.1,
+        "top4_probability": 35.1,
+        "events_scored": [
+          "Men Weight (2.0pt)"
+        ]
       },
       {
         "team": "Oklahoma",
         "actual": 0.0,
         "seed_projection": 22.0,
         "ceiling": 18.0,
-        "mc_forecast": 20.8,
+        "mc_forecast": 20.9,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
-        "top4_probability": 7.6,
+        "top4_probability": 7.8,
         "events_scored": []
       },
       {
@@ -4738,18 +4754,7 @@
         "mc_forecast": 21.9,
         "premeet_projection": 0.0,
         "win_probability": 0.1,
-        "top4_probability": 17.1,
-        "events_scored": []
-      },
-      {
-        "team": "Tennessee",
-        "actual": 0.0,
-        "seed_projection": 20.5,
-        "ceiling": 20.0,
-        "mc_forecast": 22.5,
-        "premeet_projection": 30.0,
-        "win_probability": 0.1,
-        "top4_probability": 20.2,
+        "top4_probability": 14.9,
         "events_scored": []
       },
       {
@@ -4757,22 +4762,24 @@
         "actual": 0.0,
         "seed_projection": 20.0,
         "ceiling": 20.0,
-        "mc_forecast": 18.5,
+        "mc_forecast": 18.6,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 1.8,
-        "events_scored": []
-      },
-      {
-        "team": "Virginia",
-        "actual": 0.0,
-        "seed_projection": 18.0,
-        "ceiling": 16.0,
-        "mc_forecast": 17.9,
-        "premeet_projection": 5.0,
         "win_probability": 0.0,
         "top4_probability": 2.5,
         "events_scored": []
+      },
+      {
+        "team": "Texas A&M",
+        "actual": 5.0,
+        "seed_projection": 19.5,
+        "ceiling": 21.0,
+        "mc_forecast": 19.8,
+        "premeet_projection": 25.0,
+        "win_probability": 0.0,
+        "top4_probability": 9.0,
+        "events_scored": [
+          "Men Weight (5.0pt)"
+        ]
       },
       {
         "team": "Texas",
@@ -4782,18 +4789,31 @@
         "mc_forecast": 15.8,
         "premeet_projection": 23.0,
         "win_probability": 0.0,
-        "top4_probability": 1.0,
+        "top4_probability": 0.2,
         "events_scored": []
+      },
+      {
+        "team": "Virginia",
+        "actual": 9.0,
+        "seed_projection": 16.0,
+        "ceiling": 17.0,
+        "mc_forecast": 16.0,
+        "premeet_projection": 5.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.2,
+        "events_scored": [
+          "Men Weight (9.0pt)"
+        ]
       },
       {
         "team": "Washington",
         "actual": 0.0,
         "seed_projection": 16.0,
         "ceiling": 12.0,
-        "mc_forecast": 16.5,
+        "mc_forecast": 16.4,
         "premeet_projection": 3.0,
         "win_probability": 0.0,
-        "top4_probability": 1.3,
+        "top4_probability": 1.1,
         "events_scored": []
       },
       {
@@ -4801,21 +4821,10 @@
         "actual": 0.0,
         "seed_projection": 15.0,
         "ceiling": 15.0,
-        "mc_forecast": 14.7,
+        "mc_forecast": 14.9,
         "premeet_projection": 5.0,
         "win_probability": 0.0,
         "top4_probability": 0.1,
-        "events_scored": []
-      },
-      {
-        "team": "Texas A&M",
-        "actual": 0.0,
-        "seed_projection": 14.5,
-        "ceiling": 16.0,
-        "mc_forecast": 14.9,
-        "premeet_projection": 25.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.8,
         "events_scored": []
       },
       {
@@ -4823,19 +4832,8 @@
         "actual": 0.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 13.5,
+        "mc_forecast": 13.4,
         "premeet_projection": 20.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Ole Miss",
-        "actual": 0.0,
-        "seed_projection": 14.0,
-        "ceiling": 14.0,
-        "mc_forecast": 12.9,
-        "premeet_projection": 12.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -4845,7 +4843,7 @@
         "actual": 0.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 12.4,
+        "mc_forecast": 12.6,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4859,15 +4857,28 @@
         "mc_forecast": 12.6,
         "premeet_projection": 22.0,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "Iowa",
+        "actual": 10.0,
+        "seed_projection": 13.0,
+        "ceiling": 13.0,
+        "mc_forecast": 13.4,
+        "premeet_projection": 1.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight (10.0pt)"
+        ]
       },
       {
         "team": "New Mexico",
         "actual": 0.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 12.7,
+        "mc_forecast": 12.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4878,7 +4889,7 @@
         "actual": 0.0,
         "seed_projection": 13.0,
         "ceiling": 14.0,
-        "mc_forecast": 12.8,
+        "mc_forecast": 13.0,
         "premeet_projection": 14.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4889,7 +4900,7 @@
         "actual": 0.0,
         "seed_projection": 12.0,
         "ceiling": 13.0,
-        "mc_forecast": 10.5,
+        "mc_forecast": 10.7,
         "premeet_projection": 53.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4911,7 +4922,7 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.6,
+        "mc_forecast": 8.5,
         "premeet_projection": 23.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4929,11 +4940,24 @@
         "events_scored": []
       },
       {
+        "team": "Ole Miss",
+        "actual": 6.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.4,
+        "premeet_projection": 12.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight (6.0pt)"
+        ]
+      },
+      {
         "team": "Samford",
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.4,
+        "mc_forecast": 8.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4988,19 +5012,8 @@
         "actual": 0.0,
         "seed_projection": 7.0,
         "ceiling": 8.0,
-        "mc_forecast": 7.1,
+        "mc_forecast": 7.0,
         "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Iowa",
-        "actual": 0.0,
-        "seed_projection": 7.0,
-        "ceiling": 7.0,
-        "mc_forecast": 7.4,
-        "premeet_projection": 1.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -5010,7 +5023,7 @@
         "actual": 0.0,
         "seed_projection": 7.0,
         "ceiling": 7.0,
-        "mc_forecast": 7.7,
+        "mc_forecast": 7.6,
         "premeet_projection": 2.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5021,7 +5034,7 @@
         "actual": 0.0,
         "seed_projection": 6.0,
         "ceiling": 6.0,
-        "mc_forecast": 6.3,
+        "mc_forecast": 6.4,
         "premeet_projection": 21.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5054,7 +5067,7 @@
         "actual": 0.0,
         "seed_projection": 5.5,
         "ceiling": 5.0,
-        "mc_forecast": 5.1,
+        "mc_forecast": 5.0,
         "premeet_projection": 2.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5065,7 +5078,7 @@
         "actual": 0.0,
         "seed_projection": 5.5,
         "ceiling": 6.0,
-        "mc_forecast": 6.3,
+        "mc_forecast": 6.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5098,7 +5111,7 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.5,
+        "mc_forecast": 5.4,
         "premeet_projection": 32.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5116,22 +5129,11 @@
         "events_scored": []
       },
       {
-        "team": "SIU Edwardsville",
-        "actual": 0.0,
-        "seed_projection": 5.0,
-        "ceiling": 5.0,
-        "mc_forecast": 5.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Tarleton State",
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.3,
+        "mc_forecast": 5.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5153,7 +5155,7 @@
         "actual": 0.0,
         "seed_projection": 4.5,
         "ceiling": 6.0,
-        "mc_forecast": 6.1,
+        "mc_forecast": 6.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5164,7 +5166,7 @@
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.0,
+        "mc_forecast": 4.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5186,30 +5188,32 @@
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 5.2,
+        "mc_forecast": 5.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "Missouri",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight (3.0pt)"
+        ]
       },
       {
         "team": "Nebraska",
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.1,
+        "mc_forecast": 3.0,
         "premeet_projection": 4.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Air Force",
-        "actual": 0.0,
-        "seed_projection": 2.0,
-        "ceiling": 3.0,
-        "mc_forecast": 2.2,
-        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -5237,23 +5241,23 @@
         "events_scored": []
       },
       {
-        "team": "Purdue",
+        "team": "Wisconsin",
         "actual": 0.0,
         "seed_projection": 1.0,
-        "ceiling": 2.0,
-        "mc_forecast": 1.7,
-        "premeet_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.3,
+        "premeet_projection": 6.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Wisconsin",
+        "team": "Air Force",
         "actual": 0.0,
-        "seed_projection": 1.0,
-        "ceiling": 1.0,
-        "mc_forecast": 1.4,
-        "premeet_projection": 6.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -5362,7 +5366,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 1.2,
+        "mc_forecast": 1.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5373,7 +5377,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5385,17 +5389,6 @@
         "seed_projection": 0.0,
         "ceiling": 0.0,
         "mc_forecast": 0.7,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Missouri",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5490,6 +5483,17 @@
         "events_scored": []
       },
       {
+        "team": "Purdue",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.4,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
         "team": "Rice",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5534,17 +5538,6 @@
         "events_scored": []
       },
       {
-        "team": "UCLA",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 1.0,
-        "mc_forecast": 0.8,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "UNLV",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5578,7 +5571,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 0,
+    "completed_finals": 1,
     "total_finals": 22,
     "events": [
       {
@@ -6421,99 +6414,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/016-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/016-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Bryson Smith",
-            "team": "Ole Miss",
-            "seed": "22.29m73-1\u00be"
-          },
-          {
-            "name": "Jeremiah Nubbe",
-            "team": "Virginia",
-            "seed": "23.80m78-1"
-          },
-          {
-            "name": "Kade McCall",
-            "team": "Kansas State",
-            "seed": "22.63m74-3"
-          },
-          {
-            "name": "Grant Milbrath",
-            "team": "SIU Edwardsville",
-            "seed": "22.34m73-3\u00bd"
-          },
-          {
+            "place": 1,
             "name": "Ryan Johnson",
             "team": "Iowa",
-            "seed": "25.66m84-2\u00bc"
+            "mark": ""
           },
           {
-            "name": "Keyandre Davis",
+            "place": 2,
+            "name": "Jeremiah Nubbe",
             "team": "Virginia",
-            "seed": "23.04m75-7\u00bc"
+            "mark": ""
           },
           {
-            "name": "Texas Tanner",
-            "team": "Air Force",
-            "seed": "24.18m79-4"
-          },
-          {
-            "name": "Seamus Malaski",
-            "team": "Purdue",
-            "seed": "22.52m73-10\u00be"
-          },
-          {
-            "name": "Michael Pinckney",
-            "team": "UCLA",
-            "seed": "22.72m74-6\u00bd"
-          },
-          {
-            "name": "Nikolaos Polychroniou",
-            "team": "Virginia",
-            "seed": "23.06m75-8"
-          },
-          {
+            "place": 3,
             "name": "Tarik Robinson-O'Hagan",
             "team": "Ole Miss",
-            "seed": "23.78m78-\u00bc"
+            "mark": ""
           },
           {
-            "name": "Gary Moore",
-            "team": "Kansas State",
-            "seed": "23.54m77-2\u00be"
-          },
-          {
-            "name": "Aidan Ifkovits",
-            "team": "Tennessee",
-            "seed": "22.63m74-3"
-          },
-          {
-            "name": "Benjamin Pable",
-            "team": "Notre Dame",
-            "seed": "22.94m75-3\u00bc"
-          },
-          {
-            "name": "Sam Innes",
-            "team": "Missouri",
-            "seed": "22.68m74-5"
-          },
-          {
+            "place": 4,
             "name": "Henry Zimmerman",
             "team": "Texas A&M",
-            "seed": "22.96m75-4"
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Kade McCall",
+            "team": "Kansas State",
+            "mark": "PB"
+          },
+          {
+            "place": 6,
+            "name": "Sam Innes",
+            "team": "Missouri",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Aidan Ifkovits",
+            "team": "Tennessee",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Nikolaos Polychroniou",
+            "team": "Virginia",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Ole Miss": 10.0,
-          "Virginia": 11.0,
-          "Kansas State": 6.0,
-          "SIU Edwardsville": 5.0,
-          "Iowa": 4.0,
-          "Air Force": 2.0,
-          "Purdue": 1.0
+          "Iowa": 10.0,
+          "Virginia": 9.0,
+          "Ole Miss": 6.0,
+          "Texas A&M": 5.0,
+          "Kansas State": 4.0,
+          "Missouri": 3.0,
+          "Tennessee": 2.0
         }
       },
       {
@@ -7344,7 +7305,24 @@
         }
       }
     ],
-    "timeline": [],
+    "timeline": [
+      {
+        "event": "Men Weight",
+        "winner": "Ryan Johnson",
+        "team": "Iowa",
+        "mark": "",
+        "timestamp": "2026-03-13T21:25:43Z",
+        "points_awarded": {
+          "Iowa": 10.0,
+          "Virginia": 9.0,
+          "Ole Miss": 6.0,
+          "Texas A&M": 5.0,
+          "Kansas State": 4.0,
+          "Missouri": 3.0,
+          "Tennessee": 2.0
+        }
+      }
+    ],
     "leverage": [
       {
         "event": "Men 1 Mile",
@@ -7441,18 +7419,6 @@
           "Virginia"
         ],
         "n_entries": 12
-      },
-      {
-        "event": "Men Weight",
-        "total_points": 39,
-        "top_teams": [
-          "Ole Miss",
-          "Virginia",
-          "Kansas State",
-          "SIU Edwardsville",
-          "Iowa"
-        ],
-        "n_entries": 16
       },
       {
         "event": "Men Pole Vault",
@@ -8403,8 +8369,8 @@
       },
       "Iowa": {
         "team": "Iowa",
-        "current": 0.0,
-        "scenario_a": 7.0,
+        "current": 10.0,
+        "scenario_a": 13.0,
         "scenario_b": 30.0,
         "scenario_c": 0.0,
         "breakdown": [
@@ -8433,21 +8399,6 @@
                 "seed_mark": "6.54"
               }
             ]
-          },
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Ryan Johnson",
-                "seed_mark": "25.66m84-2\u00bc",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
           },
           {
             "event": "Men Long Jump",
@@ -8501,6 +8452,89 @@
               {
                 "athlete": "Ashton Barkdull",
                 "seed_mark": "5.71m18-8\u00be"
+              }
+            ]
+          }
+        ]
+      },
+      "Kansas State": {
+        "team": "Kansas State",
+        "current": 4.0,
+        "scenario_a": 24.0,
+        "scenario_b": 34.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men Long Jump",
+            "athletes": [
+              {
+                "athlete": "Tafadzwa Chikomba",
+                "seed_mark": "8.09m26-6\u00bd",
+                "proj_place": 2,
+                "seed_pts": 8
+              },
+              {
+                "athlete": "Uroy Ryan",
+                "seed_mark": "7.90m25-11",
+                "proj_place": 16,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 8.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          },
+          {
+            "event": "Men High Jump",
+            "athletes": [
+              {
+                "athlete": "Alan Hanna",
+                "seed_mark": "2.25m7-4\u00bd",
+                "proj_place": 1,
+                "seed_pts": 10
+              },
+              {
+                "athlete": "Devin Loudermilk",
+                "seed_mark": "2.25m7-4\u00bd",
+                "proj_place": 8,
+                "seed_pts": 1
+              }
+            ],
+            "scenario_a_pts": 11.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          },
+          {
+            "event": "Men Triple Jump",
+            "athletes": [
+              {
+                "athlete": "Selva Prabhu",
+                "seed_mark": "16.63m54-6\u00be",
+                "proj_place": 8,
+                "seed_pts": 1
+              },
+              {
+                "athlete": "Trevon Hamer",
+                "seed_mark": "16.47m54-\u00bd",
+                "proj_place": 10,
+                "seed_pts": 0
+              },
+              {
+                "athlete": "Aaron Antoine",
+                "seed_mark": "16.40m53-9\u00be",
+                "proj_place": 13,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 1.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": [
+              {
+                "athlete": "Trevon Hamer",
+                "seed_mark": "16.47m54-\u00bd"
               }
             ]
           }
@@ -8673,6 +8707,14 @@
           }
         ]
       },
+      "Missouri": {
+        "team": "Missouri",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "NC State": {
         "team": "NC State",
         "current": 0.0,
@@ -8791,25 +8833,9 @@
         "team": "Notre Dame",
         "current": 0.0,
         "scenario_a": 0.0,
-        "scenario_b": 10.0,
+        "scenario_b": 0.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Benjamin Pable",
-                "seed_mark": "22.94m75-3\u00bc",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Ohio St.": {
         "team": "Ohio St.",
@@ -8903,37 +8929,11 @@
       },
       "Ole Miss": {
         "team": "Ole Miss",
-        "current": 0.0,
-        "scenario_a": 14.0,
-        "scenario_b": 40.0,
+        "current": 6.0,
+        "scenario_a": 10.0,
+        "scenario_b": 36.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Bryson Smith",
-                "seed_mark": "22.29m73-1\u00be",
-                "proj_place": 1,
-                "seed_pts": 10
-              },
-              {
-                "athlete": "Tarik Robinson-O'Hagan",
-                "seed_mark": "23.78m78-\u00bc",
-                "proj_place": 11,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Tarik Robinson-O'Hagan",
-                "seed_mark": "23.78m78-\u00bc"
-              }
-            ]
-          },
           {
             "event": "Men Shot Put",
             "athletes": [
@@ -9292,9 +9292,9 @@
       },
       "Tennessee": {
         "team": "Tennessee",
-        "current": 0.0,
-        "scenario_a": 21.0,
-        "scenario_b": 70.0,
+        "current": 2.0,
+        "scenario_a": 23.0,
+        "scenario_b": 62.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -9319,21 +9319,6 @@
                 "athlete": "Davonte Howell",
                 "seed_mark": "20.58",
                 "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Aidan Ifkovits",
-                "seed_mark": "22.63m74-3",
-                "proj_place": 13,
                 "seed_pts": 0
               }
             ],
@@ -9508,9 +9493,9 @@
       },
       "Texas A&M": {
         "team": "Texas A&M",
-        "current": 0.0,
-        "scenario_a": 13.0,
-        "scenario_b": 80.0,
+        "current": 5.0,
+        "scenario_a": 18.0,
+        "scenario_b": 75.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -9579,21 +9564,6 @@
               }
             ],
             "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Henry Zimmerman",
-                "seed_mark": "22.96m75-4",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
             "scenario_b_pts": 10,
             "scenario_c_pts": 0,
             "swing_athletes": []
@@ -9783,9 +9753,9 @@
       },
       "Virginia": {
         "team": "Virginia",
-        "current": 0.0,
-        "scenario_a": 18.0,
-        "scenario_b": 40.0,
+        "current": 9.0,
+        "scenario_a": 16.0,
+        "scenario_b": 39.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -9832,38 +9802,6 @@
             "scenario_b_pts": 10,
             "scenario_c_pts": 0,
             "swing_athletes": []
-          },
-          {
-            "event": "Men Weight",
-            "athletes": [
-              {
-                "athlete": "Jeremiah Nubbe",
-                "seed_mark": "23.80m78-1",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Keyandre Davis",
-                "seed_mark": "23.04m75-7\u00bc",
-                "proj_place": 6,
-                "seed_pts": 3
-              },
-              {
-                "athlete": "Nikolaos Polychroniou",
-                "seed_mark": "23.06m75-8",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 11.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Nikolaos Polychroniou",
-                "seed_mark": "23.06m75-8"
-              }
-            ]
           }
         ]
       },
