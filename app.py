@@ -5,9 +5,9 @@ public data repo every 300 seconds and updates the display.
 """
 
 import os
-import time
 from typing import Any
 
+import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import requests
@@ -21,7 +21,7 @@ _DEFAULT_RAW_BASE = (
 )
 try:
     _RAW_BASE = st.secrets.get("GITHUB_RAW_BASE", _DEFAULT_RAW_BASE)
-except Exception:  # noqa: BLE001
+except (AttributeError, KeyError):
     _RAW_BASE = os.environ.get("GITHUB_RAW_BASE", _DEFAULT_RAW_BASE)
 
 LIVE_JSON_URL = f"{_RAW_BASE}/live.json"
@@ -98,7 +98,7 @@ def load_json(url: str) -> dict:
         resp = requests.get(url, timeout=10)
         resp.raise_for_status()
         return resp.json()
-    except Exception as exc:  # noqa: BLE001
+    except (requests.RequestException, ValueError) as exc:
         st.warning(f"Could not load {url}: {exc}")
         return {}
 
@@ -163,7 +163,6 @@ def render_leaderboard(live: dict, gender: str) -> None:
             }
         )
 
-    import pandas as pd  # noqa: PLC0415
 
     df = pd.DataFrame(rows)
 
@@ -180,7 +179,6 @@ def render_leaderboard(live: dict, gender: str) -> None:
     )
 
     # Bar chart: seed projections
-    import pandas as pd  # noqa: F811,PLC0415
 
     top20 = scores[:20]
     fig = go.Figure(
@@ -245,7 +243,6 @@ def render_events(live: dict, gender: str) -> None:
             if status == "final":
                 results = ev.get("results", [])
                 if results:
-                    import pandas as pd  # noqa: PLC0415
 
                     st.dataframe(
                         pd.DataFrame(results)[["place", "name", "team", "mark"]],
@@ -255,7 +252,6 @@ def render_events(live: dict, gender: str) -> None:
             else:
                 proj = ev.get("seed_projection", {})
                 if proj:
-                    import pandas as pd  # noqa: PLC0415
 
                     proj_rows = sorted(proj.items(), key=lambda x: -x[1])
                     st.caption("Seed Projection")
@@ -380,7 +376,6 @@ def render_leverage(live: dict, gender: str) -> None:
         st.info("No upcoming events or leverage data available.")
         return
 
-    import pandas as pd  # noqa: PLC0415
 
     rows = []
     for item in lev:
@@ -467,9 +462,14 @@ def main() -> None:
         "Data sourced from FlashResults via the NCAA Indoor scraper."
     )
 
-    # Auto-refresh using Streamlit's rerun mechanism
-    time.sleep(REFRESH_SECONDS)
-    st.rerun()
+    # Non-blocking auto-refresh: st.cache_data(ttl=REFRESH_SECONDS) already
+    # expires the cache after REFRESH_SECONDS. We trigger a rerun via the
+    # Streamlit fragment timer so the UI stays responsive between refreshes.
+    with st.empty():
+        st.markdown(
+            f"<meta http-equiv='refresh' content='{REFRESH_SECONDS}'>",
+            unsafe_allow_html=True,
+        )
 
 
 if __name__ == "__main__":

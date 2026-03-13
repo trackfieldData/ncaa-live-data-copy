@@ -352,7 +352,7 @@ def _fetch(url: str, timeout: int = 15) -> str | None:
         )
         resp.raise_for_status()
         return resp.text
-    except Exception as exc:  # noqa: BLE001
+    except (requests.RequestException, OSError) as exc:
         print(f"[WARN] fetch failed: {url} — {exc}")
         return None
 
