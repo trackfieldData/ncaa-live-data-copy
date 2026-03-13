@@ -1,0 +1,43 @@
+name: Scrape Live Results
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes during the meet
+  workflow_dispatch:          # manual trigger for testing
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # needed to push live.json back to this repo
+
+    steps:
+      - name: Checkout code repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+          # Optional overrides — defaults are baked into scrape.py
+          # MEET_URL: https://flashresults.com/2026_Meets/Indoor/03-13_NCAA
+          # DATA_REPO: trackfieldData/ncaa-live-data-copy
+          # DATA_BRANCH: main
+        run: python scraper/scrape.py
+
+      - name: Commit updated live.json to this repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/live.json
+          # Only commit if the file changed
+          git diff --cached --quiet || git commit -m "chore: update live.json [skip ci]"
+          git push

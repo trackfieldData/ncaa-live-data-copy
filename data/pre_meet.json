@@ -1,0 +1,1857 @@
+{
+  "women": {
+    "events": [
+      {
+        "event_name": "Women 60 Meter Dash",
+        "entries": [
+          {
+            "name": "Tamari Davis",
+            "team": "Texas",
+            "seed": "7.08"
+          },
+          {
+            "name": "Celera Barnes",
+            "team": "Texas A&M",
+            "seed": "7.10"
+          },
+          {
+            "name": "Kemba Nelson",
+            "team": "Oregon",
+            "seed": "7.11"
+          },
+          {
+            "name": "Favour Ofili",
+            "team": "LSU",
+            "seed": "7.13"
+          },
+          {
+            "name": "Abby Steiner",
+            "team": "Kentucky",
+            "seed": "7.15"
+          },
+          {
+            "name": "Twanisha Terry",
+            "team": "USC",
+            "seed": "7.18"
+          },
+          {
+            "name": "Jayla Jamison",
+            "team": "Baylor",
+            "seed": "7.19"
+          },
+          {
+            "name": "Kennedy Wade",
+            "team": "Arkansas",
+            "seed": "7.20"
+          },
+          {
+            "name": "Alicia Burnett",
+            "team": "Ole Miss",
+            "seed": "7.22"
+          },
+          {
+            "name": "Symone Mason",
+            "team": "Louisville",
+            "seed": "7.23"
+          },
+          {
+            "name": "Alia Armstrong",
+            "team": "LSU",
+            "seed": "7.24"
+          },
+          {
+            "name": "Kayla White",
+            "team": "NC State",
+            "seed": "7.25"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 200 Meter Dash",
+        "entries": [
+          {
+            "name": "Favour Ofili",
+            "team": "LSU",
+            "seed": "22.32"
+          },
+          {
+            "name": "Tamari Davis",
+            "team": "Texas",
+            "seed": "22.35"
+          },
+          {
+            "name": "Kemba Nelson",
+            "team": "Oregon",
+            "seed": "22.40"
+          },
+          {
+            "name": "Abby Steiner",
+            "team": "Kentucky",
+            "seed": "22.45"
+          },
+          {
+            "name": "Celera Barnes",
+            "team": "Texas A&M",
+            "seed": "22.50"
+          },
+          {
+            "name": "Twanisha Terry",
+            "team": "USC",
+            "seed": "22.60"
+          },
+          {
+            "name": "Adaejah Hodge",
+            "team": "Texas",
+            "seed": "22.65"
+          },
+          {
+            "name": "Kennedy Wade",
+            "team": "Arkansas",
+            "seed": "22.70"
+          },
+          {
+            "name": "Jayla Jamison",
+            "team": "Baylor",
+            "seed": "22.75"
+          },
+          {
+            "name": "Symone Mason",
+            "team": "Louisville",
+            "seed": "22.80"
+          },
+          {
+            "name": "Kayla White",
+            "team": "NC State",
+            "seed": "22.85"
+          },
+          {
+            "name": "Alicia Burnett",
+            "team": "Ole Miss",
+            "seed": "22.90"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 400 Meter Dash",
+        "entries": [
+          {
+            "name": "Rhasidat Adeleke",
+            "team": "Texas",
+            "seed": "50.52"
+          },
+          {
+            "name": "Talitha Diggs",
+            "team": "Florida",
+            "seed": "50.80"
+          },
+          {
+            "name": "Stacey Williams",
+            "team": "Arkansas",
+            "seed": "51.10"
+          },
+          {
+            "name": "Alexis Holmes",
+            "team": "Kentucky",
+            "seed": "51.25"
+          },
+          {
+            "name": "Aliyah Welch",
+            "team": "Texas A&M",
+            "seed": "51.40"
+          },
+          {
+            "name": "Nathalie Levy-LaRosche",
+            "team": "Stanford",
+            "seed": "51.55"
+          },
+          {
+            "name": "Kayla Jones",
+            "team": "NC State",
+            "seed": "51.85"
+          },
+          {
+            "name": "Aaliyah Miller",
+            "team": "Michigan",
+            "seed": "52.00"
+          },
+          {
+            "name": "Lynna Irby",
+            "team": "Georgia",
+            "seed": "52.10"
+          },
+          {
+            "name": "Morgan Snow",
+            "team": "BYU",
+            "seed": "52.20"
+          },
+          {
+            "name": "Prommyse Hoosier",
+            "team": "Texas",
+            "seed": "52.30"
+          },
+          {
+            "name": "Maya Singletary",
+            "team": "Georgia Tech",
+            "seed": "52.40"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 800 Meter Run",
+        "entries": [
+          {
+            "name": "Athing Mu",
+            "team": "Texas A&M",
+            "seed": "1:59.12"
+          },
+          {
+            "name": "Sammy Watson",
+            "team": "Texas A&M",
+            "seed": "2:00.52"
+          },
+          {
+            "name": "Sage Hurta-Klecker",
+            "team": "Colorado",
+            "seed": "2:00.85"
+          },
+          {
+            "name": "Olivia Baker",
+            "team": "Stanford",
+            "seed": "2:01.10"
+          },
+          {
+            "name": "Brooke Burns",
+            "team": "Arkansas",
+            "seed": "2:01.30"
+          },
+          {
+            "name": "Kaela Edwards",
+            "team": "Washington St.",
+            "seed": "2:01.80"
+          },
+          {
+            "name": "Roisin Willis",
+            "team": "Notre Dame",
+            "seed": "2:02.30"
+          },
+          {
+            "name": "Haley Herberg",
+            "team": "Oregon",
+            "seed": "2:02.50"
+          },
+          {
+            "name": "Cory McGee",
+            "team": "Florida",
+            "seed": "2:02.75"
+          },
+          {
+            "name": "Lauren Ellsworth",
+            "team": "Michigan",
+            "seed": "2:03.00"
+          },
+          {
+            "name": "Avery Evenson",
+            "team": "Minnesota",
+            "seed": "2:03.25"
+          },
+          {
+            "name": "Brandie Williams",
+            "team": "Texas",
+            "seed": "2:03.50"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 1 Mile Run",
+        "entries": [
+          {
+            "name": "Katelyn Tuohy",
+            "team": "NC State",
+            "seed": "4:26.00"
+          },
+          {
+            "name": "Nikki Hiltz",
+            "team": "Arkansas",
+            "seed": "4:27.50"
+          },
+          {
+            "name": "Sinclaire Johnson",
+            "team": "Colorado",
+            "seed": "4:28.00"
+          },
+          {
+            "name": "Dani Jones",
+            "team": "Colorado",
+            "seed": "4:28.50"
+          },
+          {
+            "name": "Elly Henes",
+            "team": "NC State",
+            "seed": "4:29.00"
+          },
+          {
+            "name": "Alicia Monson",
+            "team": "Wisconsin",
+            "seed": "4:29.50"
+          },
+          {
+            "name": "Elise Cranny",
+            "team": "Stanford",
+            "seed": "4:30.00"
+          },
+          {
+            "name": "Claudia Lane",
+            "team": "Villanova",
+            "seed": "4:30.50"
+          },
+          {
+            "name": "Krissy Gear",
+            "team": "Michigan",
+            "seed": "4:31.00"
+          },
+          {
+            "name": "Rachel Pocratsky",
+            "team": "Georgetown",
+            "seed": "4:32.00"
+          },
+          {
+            "name": "Amy-Eloise Markovc",
+            "team": "Washington St.",
+            "seed": "4:32.50"
+          },
+          {
+            "name": "Roisin Willis",
+            "team": "Notre Dame",
+            "seed": "4:33.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 3000 Meter Run",
+        "entries": [
+          {
+            "name": "Katelyn Tuohy",
+            "team": "NC State",
+            "seed": "8:41.62"
+          },
+          {
+            "name": "Parker Valby",
+            "team": "Florida",
+            "seed": "8:45.00"
+          },
+          {
+            "name": "Alicia Monson",
+            "team": "Wisconsin",
+            "seed": "8:48.00"
+          },
+          {
+            "name": "Emily Mackay",
+            "team": "Michigan",
+            "seed": "8:52.00"
+          },
+          {
+            "name": "Dani Jones",
+            "team": "Colorado",
+            "seed": "8:55.00"
+          },
+          {
+            "name": "Elly Henes",
+            "team": "NC State",
+            "seed": "8:58.00"
+          },
+          {
+            "name": "Elise Cranny",
+            "team": "Stanford",
+            "seed": "9:00.00"
+          },
+          {
+            "name": "Ainsley Eckhardt",
+            "team": "Stanford",
+            "seed": "9:05.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 5000 Meter Run",
+        "entries": [
+          {
+            "name": "Parker Valby",
+            "team": "Florida",
+            "seed": "14:55.92"
+          },
+          {
+            "name": "Katelyn Tuohy",
+            "team": "NC State",
+            "seed": "15:00.00"
+          },
+          {
+            "name": "Alicia Monson",
+            "team": "Wisconsin",
+            "seed": "15:06.00"
+          },
+          {
+            "name": "Emily Mackay",
+            "team": "Michigan",
+            "seed": "15:10.00"
+          },
+          {
+            "name": "Elise Cranny",
+            "team": "Stanford",
+            "seed": "15:15.00"
+          },
+          {
+            "name": "Ainsley Eckhardt",
+            "team": "Stanford",
+            "seed": "15:20.00"
+          },
+          {
+            "name": "Grace Forbes",
+            "team": "Notre Dame",
+            "seed": "15:24.00"
+          },
+          {
+            "name": "Amelia Mazza-Engel",
+            "team": "Michigan",
+            "seed": "15:28.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 60 Meter Hurdles",
+        "entries": [
+          {
+            "name": "Alia Armstrong",
+            "team": "LSU",
+            "seed": "7.78"
+          },
+          {
+            "name": "Tara Davis",
+            "team": "Georgia",
+            "seed": "7.82"
+          },
+          {
+            "name": "Masai Russell",
+            "team": "Kentucky",
+            "seed": "7.85"
+          },
+          {
+            "name": "Alaysha Johnson",
+            "team": "Texas",
+            "seed": "7.87"
+          },
+          {
+            "name": "Anna Cockrell",
+            "team": "USC",
+            "seed": "7.90"
+          },
+          {
+            "name": "Jasmine Jones",
+            "team": "Florida",
+            "seed": "7.93"
+          },
+          {
+            "name": "Kayla White",
+            "team": "NC State",
+            "seed": "7.96"
+          },
+          {
+            "name": "Milan Young",
+            "team": "LSU",
+            "seed": "7.99"
+          },
+          {
+            "name": "Grace Stark",
+            "team": "Florida",
+            "seed": "8.02"
+          },
+          {
+            "name": "Brittany Anderson",
+            "team": "Alabama",
+            "seed": "8.05"
+          },
+          {
+            "name": "Yanique Thompson",
+            "team": "Kentucky",
+            "seed": "8.08"
+          },
+          {
+            "name": "Ashley Spencer",
+            "team": "Tennessee",
+            "seed": "8.10"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Distance Medley Relay",
+        "entries": [
+          {
+            "name": "Arkansas Women",
+            "team": "Arkansas",
+            "seed": "11:07.25"
+          },
+          {
+            "name": "Oregon Women",
+            "team": "Oregon",
+            "seed": "11:10.00"
+          },
+          {
+            "name": "Georgetown Women",
+            "team": "Georgetown",
+            "seed": "11:12.00"
+          },
+          {
+            "name": "Michigan Women",
+            "team": "Michigan",
+            "seed": "11:15.00"
+          },
+          {
+            "name": "Stanford Women",
+            "team": "Stanford",
+            "seed": "11:18.00"
+          },
+          {
+            "name": "Notre Dame Women",
+            "team": "Notre Dame",
+            "seed": "11:20.00"
+          },
+          {
+            "name": "Wisconsin Women",
+            "team": "Wisconsin",
+            "seed": "11:22.00"
+          },
+          {
+            "name": "Villanova Women",
+            "team": "Villanova",
+            "seed": "11:25.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Women 4x400 Meter Relay",
+        "entries": [
+          {
+            "name": "Texas Women",
+            "team": "Texas",
+            "seed": "3:26.55"
+          },
+          {
+            "name": "Texas A&M Women",
+            "team": "Texas A&M",
+            "seed": "3:27.50"
+          },
+          {
+            "name": "Arkansas Women",
+            "team": "Arkansas",
+            "seed": "3:28.00"
+          },
+          {
+            "name": "Florida Women",
+            "team": "Florida",
+            "seed": "3:29.00"
+          },
+          {
+            "name": "Georgia Women",
+            "team": "Georgia",
+            "seed": "3:30.00"
+          },
+          {
+            "name": "LSU Women",
+            "team": "LSU",
+            "seed": "3:31.00"
+          },
+          {
+            "name": "Kentucky Women",
+            "team": "Kentucky",
+            "seed": "3:32.00"
+          },
+          {
+            "name": "USC Women",
+            "team": "USC",
+            "seed": "3:33.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Long Jump",
+        "entries": [
+          {
+            "name": "Tara Davis",
+            "team": "Georgia",
+            "seed": "6.87"
+          },
+          {
+            "name": "Quanesha Burks",
+            "team": "Alabama",
+            "seed": "6.78"
+          },
+          {
+            "name": "Jasmine Moore",
+            "team": "Georgia",
+            "seed": "6.75"
+          },
+          {
+            "name": "Chanice Porter",
+            "team": "Florida",
+            "seed": "6.70"
+          },
+          {
+            "name": "Sha'Keela Saunders",
+            "team": "Florida",
+            "seed": "6.65"
+          },
+          {
+            "name": "Brittany Hadley",
+            "team": "Arkansas",
+            "seed": "6.60"
+          },
+          {
+            "name": "Anna Buhler",
+            "team": "Tennessee",
+            "seed": "6.55"
+          },
+          {
+            "name": "Kelli Collins",
+            "team": "NC State",
+            "seed": "6.50"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Triple Jump",
+        "entries": [
+          {
+            "name": "Jasmine Moore",
+            "team": "Georgia",
+            "seed": "14.22"
+          },
+          {
+            "name": "Jess Onyepunuka",
+            "team": "LSU",
+            "seed": "14.10"
+          },
+          {
+            "name": "Chanice Porter",
+            "team": "Florida",
+            "seed": "14.00"
+          },
+          {
+            "name": "Sha'Keela Saunders",
+            "team": "Florida",
+            "seed": "13.88"
+          },
+          {
+            "name": "Naomi Ogbeta",
+            "team": "Oregon",
+            "seed": "13.70"
+          },
+          {
+            "name": "Alissa Brooks-Johnson",
+            "team": "Stanford",
+            "seed": "13.60"
+          },
+          {
+            "name": "Omotoke Oduola",
+            "team": "Tennessee",
+            "seed": "13.50"
+          },
+          {
+            "name": "Keturah Orji",
+            "team": "Georgia",
+            "seed": "13.40"
+          }
+        ]
+      },
+      {
+        "event_name": "Women High Jump",
+        "entries": [
+          {
+            "name": "Vashti Cunningham",
+            "team": "Nevada",
+            "seed": "1.96"
+          },
+          {
+            "name": "Rachel McCoy",
+            "team": "USC",
+            "seed": "1.93"
+          },
+          {
+            "name": "Destinee Hooker",
+            "team": "Texas",
+            "seed": "1.90"
+          },
+          {
+            "name": "Morgan Lake",
+            "team": "Georgia",
+            "seed": "1.87"
+          },
+          {
+            "name": "Amy Carmichael",
+            "team": "Tennessee",
+            "seed": "1.87"
+          },
+          {
+            "name": "Ginger Jones",
+            "team": "Stanford",
+            "seed": "1.85"
+          },
+          {
+            "name": "Danielle Shanahan",
+            "team": "Georgetown",
+            "seed": "1.85"
+          },
+          {
+            "name": "Nicole Greene",
+            "team": "Michigan",
+            "seed": "1.83"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Pole Vault",
+        "entries": [
+          {
+            "name": "Sandi Morris",
+            "team": "Arkansas",
+            "seed": "4.75"
+          },
+          {
+            "name": "Alysha Newman",
+            "team": "Michigan",
+            "seed": "4.55"
+          },
+          {
+            "name": "Demi Payne",
+            "team": "Arkansas",
+            "seed": "4.50"
+          },
+          {
+            "name": "Olivia Gruver",
+            "team": "Oregon",
+            "seed": "4.45"
+          },
+          {
+            "name": "Tina Sutej",
+            "team": "Ohio St.",
+            "seed": "4.40"
+          },
+          {
+            "name": "Lexi Jacobus",
+            "team": "Arkansas",
+            "seed": "4.35"
+          },
+          {
+            "name": "Ellie McCartney",
+            "team": "Kentucky",
+            "seed": "4.30"
+          },
+          {
+            "name": "Sophia Rivera",
+            "team": "LSU",
+            "seed": "4.25"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Shot Put",
+        "entries": [
+          {
+            "name": "Maggie Ewen",
+            "team": "Arizona St.",
+            "seed": "19.23"
+          },
+          {
+            "name": "Chase Ealey",
+            "team": "Oregon",
+            "seed": "19.10"
+          },
+          {
+            "name": "Raven Saunders",
+            "team": "Ole Miss",
+            "seed": "19.00"
+          },
+          {
+            "name": "Alyssa Wilson",
+            "team": "Georgia",
+            "seed": "18.85"
+          },
+          {
+            "name": "Tori Bliss",
+            "team": "Michigan",
+            "seed": "18.50"
+          },
+          {
+            "name": "Emily Curry",
+            "team": "Kentucky",
+            "seed": "18.25"
+          },
+          {
+            "name": "Adelaide Aquilla",
+            "team": "Arkansas",
+            "seed": "18.00"
+          },
+          {
+            "name": "Jessica Ramsey",
+            "team": "Kentucky",
+            "seed": "17.80"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Weight Throw",
+        "entries": [
+          {
+            "name": "Annette Echikunwoke",
+            "team": "Tennessee",
+            "seed": "25.47"
+          },
+          {
+            "name": "Adelaide Aquilla",
+            "team": "Arkansas",
+            "seed": "24.50"
+          },
+          {
+            "name": "Alyssa Wilson",
+            "team": "Georgia",
+            "seed": "24.00"
+          },
+          {
+            "name": "Chelsey Grigsby",
+            "team": "Iowa St.",
+            "seed": "23.50"
+          },
+          {
+            "name": "Karen Gallardo",
+            "team": "Arizona",
+            "seed": "23.00"
+          },
+          {
+            "name": "Haley Shoults",
+            "team": "Arkansas",
+            "seed": "22.80"
+          },
+          {
+            "name": "Brooke Andersen",
+            "team": "Georgia",
+            "seed": "22.50"
+          },
+          {
+            "name": "Katie Donnelly",
+            "team": "Michigan",
+            "seed": "22.20"
+          }
+        ]
+      },
+      {
+        "event_name": "Women Pentathlon",
+        "entries": [
+          {
+            "name": "Anna Hall",
+            "team": "Georgia",
+            "seed": "4635"
+          },
+          {
+            "name": "Adrianna Lamalle",
+            "team": "Florida",
+            "seed": "4520"
+          },
+          {
+            "name": "Taliyah Brooks",
+            "team": "Arkansas",
+            "seed": "4490"
+          },
+          {
+            "name": "Makenzie Dunmore",
+            "team": "Georgia",
+            "seed": "4450"
+          },
+          {
+            "name": "Chari Hawkins",
+            "team": "Idaho",
+            "seed": "4420"
+          },
+          {
+            "name": "Helena Presecan",
+            "team": "Penn St.",
+            "seed": "4380"
+          },
+          {
+            "name": "Vanessa Grimm",
+            "team": "Michigan",
+            "seed": "4350"
+          },
+          {
+            "name": "Lindsay Vollmer",
+            "team": "Iowa",
+            "seed": "4300"
+          }
+        ]
+      }
+    ],
+    "premeet_projections": {
+      "Texas": 51.0,
+      "Texas A&M": 42.0,
+      "Oregon": 38.0,
+      "LSU": 38.0,
+      "Kentucky": 28.0,
+      "USC": 19.0,
+      "Baylor": 2.0,
+      "Arkansas": 77.0,
+      "Florida": 62.0,
+      "Stanford": 30.0,
+      "NC State": 40.0,
+      "Michigan": 33.0,
+      "Colorado": 21.0,
+      "Washington St.": 3.0,
+      "Notre Dame": 7.0,
+      "Wisconsin": 17.0,
+      "Villanova": 2.0,
+      "Georgia": 72.0,
+      "Georgetown": 8.0,
+      "Alabama": 8.0,
+      "Tennessee": 18.0,
+      "Nevada": 10.0,
+      "Ohio St.": 4.0,
+      "Arizona St.": 10.0,
+      "Ole Miss": 6.0,
+      "Iowa St.": 5.0,
+      "Arizona": 4.0,
+      "Idaho": 4.0,
+      "Penn St.": 3.0,
+      "Iowa": 1.0
+    }
+  },
+  "men": {
+    "events": [
+      {
+        "event_name": "Men 60 Meter Dash",
+        "entries": [
+          {
+            "name": "Trayvon Bromell",
+            "team": "Florida",
+            "seed": "6.50"
+          },
+          {
+            "name": "Micah Williams",
+            "team": "Oregon",
+            "seed": "6.52"
+          },
+          {
+            "name": "Elijah Hall",
+            "team": "Houston",
+            "seed": "6.54"
+          },
+          {
+            "name": "Reginald Walker",
+            "team": "Illinois",
+            "seed": "6.56"
+          },
+          {
+            "name": "Christian Coleman",
+            "team": "Tennessee",
+            "seed": "6.57"
+          },
+          {
+            "name": "Cravont Charleston",
+            "team": "South Carolina",
+            "seed": "6.58"
+          },
+          {
+            "name": "Langston Jackson",
+            "team": "LSU",
+            "seed": "6.59"
+          },
+          {
+            "name": "Brandon Hicklin",
+            "team": "Ole Miss",
+            "seed": "6.60"
+          },
+          {
+            "name": "Rodney Heath Jr.",
+            "team": "Kentucky",
+            "seed": "6.61"
+          },
+          {
+            "name": "Favour Ashe",
+            "team": "Tennessee",
+            "seed": "6.62"
+          },
+          {
+            "name": "Tarsis Orogot",
+            "team": "Alabama",
+            "seed": "6.63"
+          },
+          {
+            "name": "Terrance Laird",
+            "team": "LSU",
+            "seed": "6.64"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 200 Meter Dash",
+        "entries": [
+          {
+            "name": "Micah Williams",
+            "team": "Oregon",
+            "seed": "20.51"
+          },
+          {
+            "name": "Elijah Hall",
+            "team": "Houston",
+            "seed": "20.55"
+          },
+          {
+            "name": "Terrance Laird",
+            "team": "LSU",
+            "seed": "20.58"
+          },
+          {
+            "name": "Tarsis Orogot",
+            "team": "Alabama",
+            "seed": "20.60"
+          },
+          {
+            "name": "Favour Ashe",
+            "team": "Tennessee",
+            "seed": "20.65"
+          },
+          {
+            "name": "Brandon Hicklin",
+            "team": "Ole Miss",
+            "seed": "20.70"
+          },
+          {
+            "name": "Matthew Boling",
+            "team": "Georgia",
+            "seed": "20.75"
+          },
+          {
+            "name": "Lance Lang",
+            "team": "Arkansas",
+            "seed": "20.85"
+          },
+          {
+            "name": "Cravont Charleston",
+            "team": "South Carolina",
+            "seed": "20.90"
+          },
+          {
+            "name": "Cameron Burrell",
+            "team": "Houston",
+            "seed": "21.00"
+          },
+          {
+            "name": "Kenny Bednarek",
+            "team": "Wisconsin",
+            "seed": "21.05"
+          },
+          {
+            "name": "Terrance Laird",
+            "team": "Alabama",
+            "seed": "21.10"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 400 Meter Dash",
+        "entries": [
+          {
+            "name": "Bryce Deadmon",
+            "team": "Texas A&M",
+            "seed": "45.60"
+          },
+          {
+            "name": "Robert Gregory",
+            "team": "LSU",
+            "seed": "45.75"
+          },
+          {
+            "name": "Trevor Stewart",
+            "team": "Villanova",
+            "seed": "45.90"
+          },
+          {
+            "name": "Zachary Shinnick",
+            "team": "Florida",
+            "seed": "46.00"
+          },
+          {
+            "name": "Randolph Ross",
+            "team": "NC State",
+            "seed": "46.10"
+          },
+          {
+            "name": "Kahmari Montgomery",
+            "team": "Texas A&M",
+            "seed": "46.30"
+          },
+          {
+            "name": "Myles Lendore",
+            "team": "Texas A&M",
+            "seed": "46.40"
+          },
+          {
+            "name": "Mylik Kerley",
+            "team": "Texas",
+            "seed": "46.50"
+          },
+          {
+            "name": "Kris Boursiquot",
+            "team": "Kansas",
+            "seed": "46.60"
+          },
+          {
+            "name": "Devin Dixon",
+            "team": "Texas Tech",
+            "seed": "46.70"
+          },
+          {
+            "name": "Chris Smith",
+            "team": "Arkansas",
+            "seed": "46.80"
+          },
+          {
+            "name": "Fred Kerley",
+            "team": "Texas A&M",
+            "seed": "46.90"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 800 Meter Run",
+        "entries": [
+          {
+            "name": "Bryce Hoppel",
+            "team": "Kansas",
+            "seed": "1:44.66"
+          },
+          {
+            "name": "Isaiah Harris",
+            "team": "Penn St.",
+            "seed": "1:45.00"
+          },
+          {
+            "name": "Gonzalo Barroilhet",
+            "team": "Stanford",
+            "seed": "1:45.30"
+          },
+          {
+            "name": "Kamar Bailey",
+            "team": "Colorado",
+            "seed": "1:45.60"
+          },
+          {
+            "name": "Aldrich Potgieter",
+            "team": "Oklahoma",
+            "seed": "1:45.90"
+          },
+          {
+            "name": "Sam Tanner",
+            "team": "Washington",
+            "seed": "1:46.20"
+          },
+          {
+            "name": "Benson Kigen",
+            "team": "Arizona",
+            "seed": "1:46.50"
+          },
+          {
+            "name": "Eric Holt",
+            "team": "Georgia",
+            "seed": "1:46.80"
+          },
+          {
+            "name": "Bram Beurskens",
+            "team": "Villanova",
+            "seed": "1:47.10"
+          },
+          {
+            "name": "Cooper Teare",
+            "team": "Oregon",
+            "seed": "1:47.40"
+          },
+          {
+            "name": "Justine Kiprotich",
+            "team": "Alabama",
+            "seed": "1:47.70"
+          },
+          {
+            "name": "Liam Bellamy",
+            "team": "Michigan",
+            "seed": "1:48.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 1 Mile Run",
+        "entries": [
+          {
+            "name": "Cole Hocker",
+            "team": "Oregon",
+            "seed": "3:55.02"
+          },
+          {
+            "name": "Cooper Teare",
+            "team": "Oregon",
+            "seed": "3:56.50"
+          },
+          {
+            "name": "Geordie Beamish",
+            "team": "NC State",
+            "seed": "3:58.50"
+          },
+          {
+            "name": "Josh Kerr",
+            "team": "Colorado",
+            "seed": "3:59.00"
+          },
+          {
+            "name": "Brian Fay",
+            "team": "Georgetown",
+            "seed": "3:59.50"
+          },
+          {
+            "name": "William Paulson",
+            "team": "Notre Dame",
+            "seed": "4:00.00"
+          },
+          {
+            "name": "Joe Waskom",
+            "team": "Stanford",
+            "seed": "4:00.50"
+          },
+          {
+            "name": "Nico Young",
+            "team": "Northern Arizona",
+            "seed": "4:01.00"
+          },
+          {
+            "name": "Drew Hunter",
+            "team": "Virginia",
+            "seed": "4:01.50"
+          },
+          {
+            "name": "Sam Prakel",
+            "team": "Princeton",
+            "seed": "4:02.00"
+          },
+          {
+            "name": "Craig Engels",
+            "team": "Minnesota",
+            "seed": "4:02.50"
+          },
+          {
+            "name": "Thomas Ratcliff",
+            "team": "Arkansas",
+            "seed": "4:03.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 3000 Meter Run",
+        "entries": [
+          {
+            "name": "Nico Young",
+            "team": "Northern Arizona",
+            "seed": "7:43.95"
+          },
+          {
+            "name": "Cole Hocker",
+            "team": "Oregon",
+            "seed": "7:46.00"
+          },
+          {
+            "name": "Geordie Beamish",
+            "team": "NC State",
+            "seed": "7:48.00"
+          },
+          {
+            "name": "Cooper Teare",
+            "team": "Oregon",
+            "seed": "7:50.00"
+          },
+          {
+            "name": "Josh Kerr",
+            "team": "Colorado",
+            "seed": "7:52.00"
+          },
+          {
+            "name": "Luis Grijalva",
+            "team": "Northern Arizona",
+            "seed": "7:54.00"
+          },
+          {
+            "name": "Olin Hacker",
+            "team": "Oregon",
+            "seed": "7:56.00"
+          },
+          {
+            "name": "William Paulson",
+            "team": "Notre Dame",
+            "seed": "7:58.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 5000 Meter Run",
+        "entries": [
+          {
+            "name": "Luis Grijalva",
+            "team": "Northern Arizona",
+            "seed": "13:23.63"
+          },
+          {
+            "name": "Nico Young",
+            "team": "Northern Arizona",
+            "seed": "13:28.00"
+          },
+          {
+            "name": "Olin Hacker",
+            "team": "Oregon",
+            "seed": "13:32.00"
+          },
+          {
+            "name": "Cole Hocker",
+            "team": "Oregon",
+            "seed": "13:36.00"
+          },
+          {
+            "name": "Yared Nuguse",
+            "team": "Notre Dame",
+            "seed": "13:40.00"
+          },
+          {
+            "name": "Josh Kerr",
+            "team": "Colorado",
+            "seed": "13:44.00"
+          },
+          {
+            "name": "Cooper Teare",
+            "team": "Oregon",
+            "seed": "13:48.00"
+          },
+          {
+            "name": "Mike Somers",
+            "team": "Colorado",
+            "seed": "13:52.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 60 Meter Hurdles",
+        "entries": [
+          {
+            "name": "Grant Holloway",
+            "team": "Florida",
+            "seed": "7.44"
+          },
+          {
+            "name": "Trey Cunningham",
+            "team": "Florida St.",
+            "seed": "7.50"
+          },
+          {
+            "name": "Freddie Crittenden",
+            "team": "Texas",
+            "seed": "7.55"
+          },
+          {
+            "name": "Aaron Mallett",
+            "team": "Arkansas",
+            "seed": "7.58"
+          },
+          {
+            "name": "D.J. Brame",
+            "team": "Ole Miss",
+            "seed": "7.61"
+          },
+          {
+            "name": "Isaiah Moore",
+            "team": "South Carolina",
+            "seed": "7.64"
+          },
+          {
+            "name": "Eric Edwards Jr.",
+            "team": "LSU",
+            "seed": "7.67"
+          },
+          {
+            "name": "Nick Anderson",
+            "team": "Tennessee",
+            "seed": "7.70"
+          },
+          {
+            "name": "Daniel Roberts",
+            "team": "Kentucky",
+            "seed": "7.73"
+          },
+          {
+            "name": "James Carter",
+            "team": "Maryland",
+            "seed": "7.76"
+          },
+          {
+            "name": "Cordell Tinch",
+            "team": "Oklahoma",
+            "seed": "7.79"
+          },
+          {
+            "name": "Joshua Abuaku",
+            "team": "Georgia",
+            "seed": "7.82"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Distance Medley Relay",
+        "entries": [
+          {
+            "name": "Oregon Men",
+            "team": "Oregon",
+            "seed": "9:28.56"
+          },
+          {
+            "name": "Georgetown Men",
+            "team": "Georgetown",
+            "seed": "9:30.00"
+          },
+          {
+            "name": "Notre Dame Men",
+            "team": "Notre Dame",
+            "seed": "9:33.00"
+          },
+          {
+            "name": "Michigan Men",
+            "team": "Michigan",
+            "seed": "9:36.00"
+          },
+          {
+            "name": "Arkansas Men",
+            "team": "Arkansas",
+            "seed": "9:39.00"
+          },
+          {
+            "name": "Stanford Men",
+            "team": "Stanford",
+            "seed": "9:42.00"
+          },
+          {
+            "name": "Villanova Men",
+            "team": "Villanova",
+            "seed": "9:45.00"
+          },
+          {
+            "name": "Texas Men",
+            "team": "Texas",
+            "seed": "9:48.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men 4x400 Meter Relay",
+        "entries": [
+          {
+            "name": "Texas A&M Men",
+            "team": "Texas A&M",
+            "seed": "3:02.88"
+          },
+          {
+            "name": "Arkansas Men",
+            "team": "Arkansas",
+            "seed": "3:03.50"
+          },
+          {
+            "name": "Florida Men",
+            "team": "Florida",
+            "seed": "3:04.00"
+          },
+          {
+            "name": "LSU Men",
+            "team": "LSU",
+            "seed": "3:05.00"
+          },
+          {
+            "name": "Georgia Men",
+            "team": "Georgia",
+            "seed": "3:06.00"
+          },
+          {
+            "name": "Texas Men",
+            "team": "Texas",
+            "seed": "3:07.00"
+          },
+          {
+            "name": "Kentucky Men",
+            "team": "Kentucky",
+            "seed": "3:08.00"
+          },
+          {
+            "name": "Alabama Men",
+            "team": "Alabama",
+            "seed": "3:09.00"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Long Jump",
+        "entries": [
+          {
+            "name": "Carey McLeod",
+            "team": "Tennessee",
+            "seed": "8.22"
+          },
+          {
+            "name": "Marquis Dendy",
+            "team": "Florida",
+            "seed": "8.15"
+          },
+          {
+            "name": "Steffin McCarter",
+            "team": "Tennessee",
+            "seed": "8.08"
+          },
+          {
+            "name": "Laquan Nairn",
+            "team": "Auburn",
+            "seed": "8.02"
+          },
+          {
+            "name": "Ja'Mari Ward",
+            "team": "LSU",
+            "seed": "7.96"
+          },
+          {
+            "name": "Darius Riley",
+            "team": "Kansas",
+            "seed": "7.90"
+          },
+          {
+            "name": "Josue Emiliyen",
+            "team": "Florida",
+            "seed": "7.85"
+          },
+          {
+            "name": "Will Williams",
+            "team": "Alabama",
+            "seed": "7.80"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Triple Jump",
+        "entries": [
+          {
+            "name": "Christian Taylor",
+            "team": "Florida",
+            "seed": "17.21"
+          },
+          {
+            "name": "Will Claye",
+            "team": "Florida",
+            "seed": "17.10"
+          },
+          {
+            "name": "Chris Carter",
+            "team": "Ohio St.",
+            "seed": "17.00"
+          },
+          {
+            "name": "Ja'Mari Ward",
+            "team": "LSU",
+            "seed": "16.85"
+          },
+          {
+            "name": "Kevin Ojiaku",
+            "team": "LSU",
+            "seed": "16.70"
+          },
+          {
+            "name": "Keith Moore",
+            "team": "Texas",
+            "seed": "16.55"
+          },
+          {
+            "name": "Carey McLeod",
+            "team": "Tennessee",
+            "seed": "16.40"
+          },
+          {
+            "name": "Troy Jefferson",
+            "team": "Alabama",
+            "seed": "16.25"
+          }
+        ]
+      },
+      {
+        "event_name": "Men High Jump",
+        "entries": [
+          {
+            "name": "JuVaughn Harrison",
+            "team": "LSU",
+            "seed": "2.35"
+          },
+          {
+            "name": "Shelby McEwen",
+            "team": "Alabama",
+            "seed": "2.32"
+          },
+          {
+            "name": "Darius Carbin",
+            "team": "Wake Forest",
+            "seed": "2.28"
+          },
+          {
+            "name": "Randall Cunningham",
+            "team": "USC",
+            "seed": "2.25"
+          },
+          {
+            "name": "Darryl Sullivan",
+            "team": "Illinois",
+            "seed": "2.23"
+          },
+          {
+            "name": "Eric Kovalchik",
+            "team": "Penn St.",
+            "seed": "2.21"
+          },
+          {
+            "name": "Jeron Robinson",
+            "team": "Indiana",
+            "seed": "2.20"
+          },
+          {
+            "name": "Oliver Satlic",
+            "team": "Iowa",
+            "seed": "2.20"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Pole Vault",
+        "entries": [
+          {
+            "name": "Chris Nilsen",
+            "team": "Kansas",
+            "seed": "5.95"
+          },
+          {
+            "name": "KC Lightfoot",
+            "team": "UNLV",
+            "seed": "5.90"
+          },
+          {
+            "name": "Mondo Duplantis",
+            "team": "LSU",
+            "seed": "5.85"
+          },
+          {
+            "name": "Matt Ludwig",
+            "team": "Virginia",
+            "seed": "5.75"
+          },
+          {
+            "name": "Sam Kendricks",
+            "team": "Ole Miss",
+            "seed": "5.70"
+          },
+          {
+            "name": "Cole Walsh",
+            "team": "Tennessee",
+            "seed": "5.65"
+          },
+          {
+            "name": "Andrew Irwin",
+            "team": "Arkansas",
+            "seed": "5.60"
+          },
+          {
+            "name": "Zach Bradford",
+            "team": "LSU",
+            "seed": "5.55"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Shot Put",
+        "entries": [
+          {
+            "name": "Jordan Geist",
+            "team": "Arizona St.",
+            "seed": "21.15"
+          },
+          {
+            "name": "Josh Awotunde",
+            "team": "South Carolina",
+            "seed": "20.98"
+          },
+          {
+            "name": "Payton Otterdahl",
+            "team": "North Dakota St.",
+            "seed": "20.75"
+          },
+          {
+            "name": "Turner Washington",
+            "team": "Arizona St.",
+            "seed": "20.50"
+          },
+          {
+            "name": "Daniel Haugh",
+            "team": "Illinois",
+            "seed": "20.25"
+          },
+          {
+            "name": "Tom Walsh",
+            "team": "Oregon",
+            "seed": "20.00"
+          },
+          {
+            "name": "Josh Boateng",
+            "team": "Rice",
+            "seed": "19.75"
+          },
+          {
+            "name": "Jon Jones",
+            "team": "Arkansas",
+            "seed": "19.50"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Weight Throw",
+        "entries": [
+          {
+            "name": "Rudy Winkler",
+            "team": "Cornell",
+            "seed": "25.70"
+          },
+          {
+            "name": "Daniel Haugh",
+            "team": "Illinois",
+            "seed": "25.30"
+          },
+          {
+            "name": "Sean Donnelly",
+            "team": "Syracuse",
+            "seed": "25.00"
+          },
+          {
+            "name": "Denzel Comenentia",
+            "team": "Florida",
+            "seed": "24.70"
+          },
+          {
+            "name": "Nate Deck",
+            "team": "Nebraska",
+            "seed": "24.40"
+          },
+          {
+            "name": "Patrick Muller",
+            "team": "Ohio St.",
+            "seed": "24.10"
+          },
+          {
+            "name": "Hunter Price",
+            "team": "Arkansas",
+            "seed": "23.80"
+          },
+          {
+            "name": "Tripp Piperi",
+            "team": "Texas",
+            "seed": "23.50"
+          }
+        ]
+      },
+      {
+        "event_name": "Men Heptathlon",
+        "entries": [
+          {
+            "name": "Kyle Garland",
+            "team": "Georgia",
+            "seed": "6225"
+          },
+          {
+            "name": "Devon Williams",
+            "team": "Texas",
+            "seed": "6150"
+          },
+          {
+            "name": "Zachery Ziemek",
+            "team": "Wisconsin",
+            "seed": "6080"
+          },
+          {
+            "name": "Tim Ehrhardt",
+            "team": "Georgia",
+            "seed": "6020"
+          },
+          {
+            "name": "Harrison Williams",
+            "team": "Alabama",
+            "seed": "5960"
+          },
+          {
+            "name": "Ayden Owens-Delerme",
+            "team": "USC",
+            "seed": "5900"
+          },
+          {
+            "name": "Garrett Scantling",
+            "team": "Florida",
+            "seed": "5840"
+          },
+          {
+            "name": "Joe Fahnbulleh",
+            "team": "Florida",
+            "seed": "5780"
+          }
+        ]
+      }
+    ],
+    "premeet_projections": {
+      "Florida": 67.0,
+      "Oregon": 77.0,
+      "Houston": 14.0,
+      "Illinois": 21.0,
+      "Tennessee": 30.0,
+      "South Carolina": 14.0,
+      "LSU": 53.0,
+      "Ole Miss": 12.0,
+      "Alabama": 20.0,
+      "Georgia": 22.0,
+      "Arkansas": 23.0,
+      "Texas A&M": 25.0,
+      "Villanova": 8.0,
+      "NC State": 16.0,
+      "Texas": 23.0,
+      "Kansas": 23.0,
+      "Penn St.": 11.0,
+      "Stanford": 11.0,
+      "Colorado": 18.0,
+      "Oklahoma": 4.0,
+      "Washington": 3.0,
+      "Arizona": 2.0,
+      "Georgetown": 12.0,
+      "Notre Dame": 14.0,
+      "Northern Arizona": 32.0,
+      "Florida St.": 8.0,
+      "Michigan": 5.0,
+      "Kentucky": 2.0,
+      "Auburn": 5.0,
+      "Ohio St.": 9.0,
+      "Wake Forest": 6.0,
+      "USC": 8.0,
+      "Indiana": 2.0,
+      "Iowa": 1.0,
+      "UNLV": 8.0,
+      "Virginia": 5.0,
+      "Arizona St.": 15.0,
+      "North Dakota St.": 6.0,
+      "Rice": 2.0,
+      "Cornell": 10.0,
+      "Syracuse": 6.0,
+      "Nebraska": 4.0,
+      "Wisconsin": 6.0
+    }
+  }
+}
