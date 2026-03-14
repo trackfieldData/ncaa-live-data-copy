@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T23:37:02Z",
+    "last_updated": "2026-03-14T23:58:10Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -42,19 +42,36 @@
     "Women Pole Vault",
     "Men Triple Jump",
     "Women 3000 M",
-    "Men 3000 M"
+    "Men 3000 M",
+    "Women 4x400 Meter Relay"
   ],
   "women": {
     "team_scores": [
       {
-        "team": "Georgia",
-        "actual": 46.0,
+        "team": "Oregon",
+        "actual": 52.0,
         "seed_projection": 52.0,
         "ceiling": 52.0,
-        "mc_forecast": 52.1,
+        "mc_forecast": 52.0,
+        "premeet_projection": 38.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 1 Mile (17.0pt)",
+          "Women 60 M Hurdles (9.0pt)",
+          "Women 1 Mile (17.0pt)",
+          "Women 60 M Hurdles (9.0pt)"
+        ]
+      },
+      {
+        "team": "Georgia",
+        "actual": 46.0,
+        "seed_projection": 46.0,
+        "ceiling": 46.0,
+        "mc_forecast": 46.0,
         "premeet_projection": 72.0,
-        "win_probability": 33.5,
-        "top4_probability": 100.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M (8.0pt)",
           "Women 200 M (10.0pt)",
@@ -65,30 +82,14 @@
         ]
       },
       {
-        "team": "Oregon",
-        "actual": 52.0,
-        "seed_projection": 52.0,
-        "ceiling": 52.0,
-        "mc_forecast": 52.0,
-        "premeet_projection": 38.0,
-        "win_probability": 66.5,
-        "top4_probability": 100.0,
-        "events_scored": [
-          "Women 1 Mile (17.0pt)",
-          "Women 60 M Hurdles (9.0pt)",
-          "Women 1 Mile (17.0pt)",
-          "Women 60 M Hurdles (9.0pt)"
-        ]
-      },
-      {
         "team": "Florida",
         "actual": 34.0,
-        "seed_projection": 39.0,
-        "ceiling": 39.0,
-        "mc_forecast": 39.1,
+        "seed_projection": 34.0,
+        "ceiling": 34.0,
+        "mc_forecast": 34.0,
         "premeet_projection": 62.0,
-        "win_probability": 0.0,
-        "top4_probability": 100.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 1 Mile (4.0pt)",
           "Women 200 M (5.0pt)",
@@ -106,8 +107,8 @@
         "ceiling": 32.6,
         "mc_forecast": 32.6,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 73.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (7.1pt)",
           "Women Pole Vault (3.5pt)",
@@ -122,8 +123,8 @@
         "ceiling": 32.0,
         "mc_forecast": 32.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 800 M (10.0pt)",
           "Women 60 M Hurdles (1.0pt)",
@@ -133,31 +134,14 @@
         ]
       },
       {
-        "team": "South Carolina",
-        "actual": 24.0,
-        "seed_projection": 32.0,
-        "ceiling": 32.0,
-        "mc_forecast": 31.3,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 26.9,
-        "events_scored": [
-          "Women 200 M (8.0pt)",
-          "Women 60 M Hurdles (3.0pt)",
-          "Women 3000 M (2.0pt)",
-          "Women 60 M Hurdles (3.0pt)",
-          "Women 200 M (8.0pt)"
-        ]
-      },
-      {
         "team": "Nebraska",
         "actual": 30.1,
         "seed_projection": 30.1,
         "ceiling": 30.1,
         "mc_forecast": 30.1,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (7.1pt)",
           "Women Triple Jump (8.0pt)",
@@ -171,8 +155,8 @@
         "ceiling": 30.0,
         "mc_forecast": 30.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 1 Mile (5.0pt)",
           "Women 3000 M (10.0pt)",
@@ -187,8 +171,8 @@
         "ceiling": 27.5,
         "mc_forecast": 27.5,
         "premeet_projection": 30.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 800 M (8.0pt)",
           "Women High Jump (3.5pt)",
@@ -203,8 +187,8 @@
         "ceiling": 27.5,
         "mc_forecast": 27.5,
         "premeet_projection": 42.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 200 M (4.0pt)",
           "Women 60 M Hurdles (6.0pt)",
@@ -215,33 +199,35 @@
         ]
       },
       {
-        "team": "Arkansas",
-        "actual": 17.0,
-        "seed_projection": 27.0,
-        "ceiling": 27.0,
-        "mc_forecast": 25.5,
-        "premeet_projection": 77.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 800 M (8.0pt)",
-          "Women 800 M (8.0pt)",
-          "Women 5000 M (1.0pt)"
-        ]
-      },
-      {
         "team": "Iowa State",
         "actual": 25.0,
         "seed_projection": 25.0,
         "ceiling": 25.0,
         "mc_forecast": 25.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 400 M (10.0pt)",
           "Women 3000 M (5.0pt)",
           "Women 400 M (10.0pt)"
+        ]
+      },
+      {
+        "team": "South Carolina",
+        "actual": 24.0,
+        "seed_projection": 24.0,
+        "ceiling": 24.0,
+        "mc_forecast": 24.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 200 M (8.0pt)",
+          "Women 60 M Hurdles (3.0pt)",
+          "Women 3000 M (2.0pt)",
+          "Women 60 M Hurdles (3.0pt)",
+          "Women 200 M (8.0pt)"
         ]
       },
       {
@@ -251,8 +237,8 @@
         "ceiling": 22.0,
         "mc_forecast": 22.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M (8.0pt)",
           "Women 60 M (8.0pt)",
@@ -264,10 +250,10 @@
         "actual": 21.5,
         "seed_projection": 21.5,
         "ceiling": 21.5,
-        "mc_forecast": 21.9,
+        "mc_forecast": 21.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M Hurdles (9.0pt)",
           "Women High Jump (3.5pt)",
@@ -281,8 +267,8 @@
         "ceiling": 21.0,
         "mc_forecast": 21.0,
         "premeet_projection": 6.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M (4.0pt)",
           "Women Shot Put (8.0pt)",
@@ -297,8 +283,8 @@
         "ceiling": 20.0,
         "mc_forecast": 20.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M (10.0pt)",
           "Women 60 M (10.0pt)"
@@ -311,8 +297,8 @@
         "ceiling": 20.0,
         "mc_forecast": 20.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 3000 M (14.0pt)",
           "Women 5000 M (6.0pt)"
@@ -325,8 +311,8 @@
         "ceiling": 20.0,
         "mc_forecast": 20.0,
         "premeet_projection": 3.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 1 Mile (10.0pt)",
           "Women 1 Mile (10.0pt)"
@@ -339,12 +325,27 @@
         "ceiling": 18.0,
         "mc_forecast": 18.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 800 M (4.0pt)",
           "Women 800 M (4.0pt)",
           "Women Weight (10.0pt)"
+        ]
+      },
+      {
+        "team": "Arkansas",
+        "actual": 17.0,
+        "seed_projection": 17.0,
+        "ceiling": 17.0,
+        "mc_forecast": 17.0,
+        "premeet_projection": 77.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 800 M (8.0pt)",
+          "Women 800 M (8.0pt)",
+          "Women 5000 M (1.0pt)"
         ]
       },
       {
@@ -354,8 +355,8 @@
         "ceiling": 16.0,
         "mc_forecast": 16.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 400 M (8.0pt)",
           "Women 400 M (8.0pt)"
@@ -368,8 +369,8 @@
         "ceiling": 15.5,
         "mc_forecast": 15.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 1 Mile (2.0pt)",
           "Women Pole Vault (11.5pt)",
@@ -383,43 +384,12 @@
         "ceiling": 14.5,
         "mc_forecast": 14.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (3.5pt)",
           "Women Triple Jump (6.0pt)",
           "Women Long Jump (5.0pt)"
-        ]
-      },
-      {
-        "team": "USC",
-        "actual": 10.0,
-        "seed_projection": 14.0,
-        "ceiling": 14.0,
-        "mc_forecast": 14.1,
-        "premeet_projection": 19.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 60 M (4.0pt)",
-          "Women 200 M (1.0pt)",
-          "Women 60 M (4.0pt)",
-          "Women 200 M (1.0pt)"
-        ]
-      },
-      {
-        "team": "Texas",
-        "actual": 10.0,
-        "seed_projection": 13.0,
-        "ceiling": 13.0,
-        "mc_forecast": 13.1,
-        "premeet_projection": 51.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 200 M (2.0pt)",
-          "Women 200 M (2.0pt)",
-          "Women Weight (6.0pt)"
         ]
       },
       {
@@ -429,8 +399,8 @@
         "ceiling": 12.1,
         "mc_forecast": 12.1,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (7.1pt)",
           "Women Triple Jump (5.0pt)"
@@ -443,27 +413,11 @@
         "ceiling": 12.0,
         "mc_forecast": 12.0,
         "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 200 M (6.0pt)",
           "Women 200 M (6.0pt)"
-        ]
-      },
-      {
-        "team": "Kentucky",
-        "actual": 10.0,
-        "seed_projection": 12.0,
-        "ceiling": 12.0,
-        "mc_forecast": 12.1,
-        "premeet_projection": 28.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 800 M (1.0pt)",
-          "Women 60 M Hurdles (4.0pt)",
-          "Women 800 M (1.0pt)",
-          "Women 60 M Hurdles (4.0pt)"
         ]
       },
       {
@@ -471,10 +425,10 @@
         "actual": 12.0,
         "seed_projection": 12.0,
         "ceiling": 12.0,
-        "mc_forecast": 12.8,
+        "mc_forecast": 12.0,
         "premeet_projection": 18.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 400 M (6.0pt)",
           "Women 400 M (6.0pt)"
@@ -487,8 +441,8 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M Hurdles (2.0pt)",
           "Women Shot Put (6.0pt)",
@@ -502,11 +456,27 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 800 M (5.0pt)",
           "Women 800 M (5.0pt)"
+        ]
+      },
+      {
+        "team": "Kentucky",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 28.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 800 M (1.0pt)",
+          "Women 60 M Hurdles (4.0pt)",
+          "Women 800 M (1.0pt)",
+          "Women 60 M Hurdles (4.0pt)"
         ]
       },
       {
@@ -516,10 +486,54 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (10.0pt)"
+        ]
+      },
+      {
+        "team": "TEXAS12Texas",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (10.0pt)"
+        ]
+      },
+      {
+        "team": "Texas",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 51.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 200 M (2.0pt)",
+          "Women 200 M (2.0pt)",
+          "Women Weight (6.0pt)"
+        ]
+      },
+      {
+        "team": "USC",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 19.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 60 M (4.0pt)",
+          "Women 200 M (1.0pt)",
+          "Women 60 M (4.0pt)",
+          "Women 200 M (1.0pt)"
         ]
       },
       {
@@ -529,8 +543,8 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 60 M (5.0pt)",
           "Women 60 M (5.0pt)"
@@ -543,10 +557,23 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 8.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 5000 M (8.0pt)"
+        ]
+      },
+      {
+        "team": "KENTUCKY13Kentucky",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (8.0pt)"
         ]
       },
       {
@@ -556,8 +583,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Pole Vault (8.0pt)"
         ]
@@ -569,8 +596,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (8.0pt)"
         ]
@@ -582,8 +609,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Pole Vault (8.0pt)"
         ]
@@ -595,8 +622,8 @@
         "ceiling": 6.0,
         "mc_forecast": 6.0,
         "premeet_projection": 21.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 800 M (3.0pt)",
           "Women 800 M (3.0pt)"
@@ -609,8 +636,8 @@
         "ceiling": 6.0,
         "mc_forecast": 6.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (6.0pt)"
         ]
@@ -622,11 +649,24 @@
         "ceiling": 6.0,
         "mc_forecast": 6.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 200 M (3.0pt)",
           "Women 200 M (3.0pt)"
+        ]
+      },
+      {
+        "team": "UCLA18UCLA",
+        "actual": 6.0,
+        "seed_projection": 6.0,
+        "ceiling": 6.0,
+        "mc_forecast": 6.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (6.0pt)"
         ]
       },
       {
@@ -636,11 +676,24 @@
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Shot Put (2.0pt)",
           "Women Weight (3.0pt)"
+        ]
+      },
+      {
+        "team": "DUKE21Duke",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (5.0pt)"
         ]
       },
       {
@@ -650,10 +703,23 @@
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (5.0pt)"
+        ]
+      },
+      {
+        "team": "IOWA17Iowa",
+        "actual": 4.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (4.0pt)"
         ]
       },
       {
@@ -663,8 +729,8 @@
         "ceiling": 4.0,
         "mc_forecast": 4.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 3000 M (4.0pt)"
         ]
@@ -676,8 +742,8 @@
         "ceiling": 4.0,
         "mc_forecast": 4.0,
         "premeet_projection": 33.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Shot Put (4.0pt)"
         ]
@@ -689,8 +755,8 @@
         "ceiling": 4.0,
         "mc_forecast": 4.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (4.0pt)"
         ]
@@ -702,8 +768,8 @@
         "ceiling": 3.5,
         "mc_forecast": 3.5,
         "premeet_projection": 4.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (3.5pt)"
         ]
@@ -715,8 +781,8 @@
         "ceiling": 3.5,
         "mc_forecast": 3.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Pole Vault (3.5pt)"
         ]
@@ -728,8 +794,8 @@
         "ceiling": 3.5,
         "mc_forecast": 3.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women High Jump (3.5pt)"
         ]
@@ -741,8 +807,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (3.0pt)"
         ]
@@ -754,8 +820,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 5000 M (3.0pt)"
         ]
@@ -767,10 +833,23 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 3000 M (3.0pt)"
+        ]
+      },
+      {
+        "team": "UCF14UCF",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (3.0pt)"
         ]
       },
       {
@@ -780,8 +859,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Long Jump (3.0pt)"
         ]
@@ -793,10 +872,23 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Long Jump (2.0pt)"
+        ]
+      },
+      {
+        "team": "USC11USC",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Women 4x400 Meter Relay (2.0pt)"
         ]
       },
       {
@@ -806,8 +898,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (2.0pt)"
         ]
@@ -819,8 +911,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 1 Mile (1.0pt)",
           "Women 1 Mile (1.0pt)"
@@ -833,8 +925,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 5000 M (2.0pt)"
         ]
@@ -846,8 +938,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 17.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Weight (2.0pt)"
         ]
@@ -859,8 +951,8 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Weight (1.0pt)"
         ]
@@ -872,8 +964,8 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Distance Medley Relay (1.0pt)"
         ]
@@ -885,8 +977,8 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women 3000 M (1.0pt)"
         ]
@@ -898,22 +990,11 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Shot Put (1.0pt)"
         ]
-      },
-      {
-        "team": "UCF",
-        "actual": 0.0,
-        "seed_projection": 1.0,
-        "ceiling": 1.0,
-        "mc_forecast": 1.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
       },
       {
         "team": "Cal Poly",
@@ -922,8 +1003,8 @@
         "ceiling": 0.5,
         "mc_forecast": 0.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Pole Vault (0.5pt)"
         ]
@@ -933,10 +1014,10 @@
         "actual": 0.5,
         "seed_projection": 0.5,
         "ceiling": 0.5,
-        "mc_forecast": 0.6,
+        "mc_forecast": 0.5,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Women Pole Vault (0.5pt)"
         ]
@@ -979,7 +1060,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.2,
+        "mc_forecast": 0.0,
         "premeet_projection": 1.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -1074,7 +1155,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 21,
+    "completed_finals": 22,
     "total_finals": 22,
     "events": [
       {
@@ -1572,80 +1653,61 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/025-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/025-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Duke",
-            "team": "Duke",
-            "seed": "3:30.35"
+            "place": 1,
+            "name": "",
+            "team": "TEXAS12Texas",
+            "mark": "SB"
           },
           {
-            "name": "UCLA",
-            "team": "UCLA",
-            "seed": "3:29.43"
+            "place": 2,
+            "name": "",
+            "team": "KENTUCKY13Kentucky",
+            "mark": "SB"
           },
           {
-            "name": "Tennessee",
-            "team": "Tennessee",
-            "seed": "3:29.31"
+            "place": 3,
+            "name": "",
+            "team": "UCLA18UCLA",
+            "mark": ""
           },
           {
-            "name": "Iowa",
-            "team": "Iowa",
-            "seed": "3:29.69"
+            "place": 4,
+            "name": "",
+            "team": "DUKE21Duke",
+            "mark": "SB"
           },
           {
-            "name": "UCF",
-            "team": "UCF",
-            "seed": "3:29.21"
+            "place": 5,
+            "name": "",
+            "team": "IOWA17Iowa",
+            "mark": "SB"
           },
           {
-            "name": "Kentucky",
-            "team": "Kentucky",
-            "seed": "3:29.14"
+            "place": 6,
+            "name": "",
+            "team": "UCF14UCF",
+            "mark": ""
           },
           {
-            "name": "USC",
-            "team": "USC",
-            "seed": "3:28.89"
-          },
-          {
-            "name": "Texas",
-            "team": "Texas",
-            "seed": "3:28.97"
-          },
-          {
-            "name": "Florida",
-            "team": "Florida",
-            "seed": "3:28.37"
-          },
-          {
-            "name": "Georgia",
-            "team": "Georgia",
-            "seed": "3:26.88"
-          },
-          {
-            "name": "Arkansas",
-            "team": "Arkansas",
-            "seed": "3:25.82"
-          },
-          {
-            "name": "South Carolina",
-            "team": "South Carolina",
-            "seed": "3:26.85"
+            "place": 7,
+            "name": "",
+            "team": "USC11USC",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Arkansas": 10.0,
-          "South Carolina": 8.0,
-          "Georgia": 6.0,
-          "Florida": 5.0,
-          "USC": 4.0,
-          "Texas": 3.0,
-          "Kentucky": 2.0,
-          "UCF": 1.0
+          "TEXAS12Texas": 10.0,
+          "KENTUCKY13Kentucky": 8.0,
+          "UCLA18UCLA": 6.0,
+          "DUKE21Duke": 5.0,
+          "IOWA17Iowa": 4.0,
+          "UCF14UCF": 3.0,
+          "USC11USC": 2.0
         }
       },
       {
@@ -2889,22 +2951,25 @@
           "South Carolina": 2.0,
           "Oklahoma State": 1.0
         }
-      }
-    ],
-    "leverage": [
+      },
       {
         "event": "Women 4x400 Meter Relay",
-        "total_points": 39,
-        "top_teams": [
-          "Arkansas",
-          "South Carolina",
-          "Georgia",
-          "Florida",
-          "USC"
-        ],
-        "n_entries": 12
+        "winner": "",
+        "team": "TEXAS12Texas",
+        "mark": "SB",
+        "timestamp": "2026-03-14T23:58:10Z",
+        "points_awarded": {
+          "TEXAS12Texas": 10.0,
+          "KENTUCKY13Kentucky": 8.0,
+          "UCLA18UCLA": 6.0,
+          "DUKE21Duke": 5.0,
+          "IOWA17Iowa": 4.0,
+          "UCF14UCF": 3.0,
+          "USC11USC": 2.0
+        }
       }
     ],
+    "leverage": [],
     "scenarios": {
       "Alabama": {
         "team": "Alabama",
@@ -2933,26 +2998,10 @@
       "Arkansas": {
         "team": "Arkansas",
         "current": 17.0,
-        "scenario_a": 27.0,
-        "scenario_b": 27.0,
+        "scenario_a": 17.0,
+        "scenario_b": 17.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Arkansas",
-                "seed_mark": "3:25.82",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Auburn": {
         "team": "Auburn",
@@ -3026,34 +3075,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "DUKE21Duke": {
+        "team": "DUKE21Duke",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Duke": {
         "team": "Duke",
         "current": 0.5,
         "scenario_a": 0.5,
-        "scenario_b": 10.5,
+        "scenario_b": 0.5,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Duke",
-                "seed_mark": "3:30.35",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Duke",
-                "seed_mark": "3:30.35"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Duquesne": {
         "team": "Duquesne",
@@ -3082,26 +3118,10 @@
       "Florida": {
         "team": "Florida",
         "current": 34.0,
-        "scenario_a": 39.0,
-        "scenario_b": 44.0,
+        "scenario_a": 34.0,
+        "scenario_b": 34.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Florida",
-                "seed_mark": "3:28.37",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Florida State": {
         "team": "Florida State",
@@ -3122,26 +3142,10 @@
       "Georgia": {
         "team": "Georgia",
         "current": 46.0,
-        "scenario_a": 52.0,
-        "scenario_b": 56.0,
+        "scenario_a": 46.0,
+        "scenario_b": 46.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Georgia",
-                "seed_mark": "3:26.88",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Harvard": {
         "team": "Harvard",
@@ -3156,6 +3160,14 @@
         "current": 6.0,
         "scenario_a": 6.0,
         "scenario_b": 6.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "IOWA17Iowa": {
+        "team": "IOWA17Iowa",
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 4.0,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -3179,30 +3191,9 @@
         "team": "Iowa",
         "current": 0.0,
         "scenario_a": 0.0,
-        "scenario_b": 10.0,
+        "scenario_b": 0.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Iowa",
-                "seed_mark": "3:29.69",
-                "proj_place": 11,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Iowa",
-                "seed_mark": "3:29.69"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Iowa St.": {
         "team": "Iowa St.",
@@ -3217,6 +3208,14 @@
         "current": 25.0,
         "scenario_a": 25.0,
         "scenario_b": 25.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "KENTUCKY13Kentucky": {
+        "team": "KENTUCKY13Kentucky",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -3247,26 +3246,10 @@
       "Kentucky": {
         "team": "Kentucky",
         "current": 10.0,
-        "scenario_a": 12.0,
-        "scenario_b": 20.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Kentucky",
-                "seed_mark": "3:29.14",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "LSU": {
         "team": "LSU",
@@ -3447,26 +3430,10 @@
       "South Carolina": {
         "team": "South Carolina",
         "current": 24.0,
-        "scenario_a": 32.0,
-        "scenario_b": 34.0,
+        "scenario_a": 24.0,
+        "scenario_b": 24.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "South Carolina",
-                "seed_mark": "3:26.85",
-                "proj_place": 2,
-                "seed_pts": 8
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "South Dakota": {
         "team": "South Dakota",
@@ -3492,6 +3459,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "TEXAS12Texas": {
+        "team": "TEXAS12Texas",
+        "current": 10.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Tarleton State": {
         "team": "Tarleton State",
         "current": 22.0,
@@ -3504,54 +3479,17 @@
         "team": "Tennessee",
         "current": 12.0,
         "scenario_a": 12.0,
-        "scenario_b": 22.0,
+        "scenario_b": 12.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Tennessee",
-                "seed_mark": "3:29.31",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Tennessee",
-                "seed_mark": "3:29.31"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Texas": {
         "team": "Texas",
         "current": 10.0,
-        "scenario_a": 13.0,
-        "scenario_b": 20.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Texas",
-                "seed_mark": "3:28.97",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Texas A&M": {
         "team": "Texas A&M",
@@ -3569,58 +3507,45 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "UCF14UCF": {
+        "team": "UCF14UCF",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "UCLA": {
         "team": "UCLA",
         "current": 21.545454545454547,
         "scenario_a": 21.5,
-        "scenario_b": 31.5,
+        "scenario_b": 21.5,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "UCLA",
-                "seed_mark": "3:29.43",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "UCLA",
-                "seed_mark": "3:29.43"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
+      },
+      "UCLA18UCLA": {
+        "team": "UCLA18UCLA",
+        "current": 6.0,
+        "scenario_a": 6.0,
+        "scenario_b": 6.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "USC": {
         "team": "USC",
         "current": 10.0,
-        "scenario_a": 14.0,
-        "scenario_b": 20.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "USC",
-                "seed_mark": "3:28.89",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
+      },
+      "USC11USC": {
+        "team": "USC11USC",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "UT-Rio Grande Valley": {
         "team": "UT-Rio Grande Valley",
@@ -3817,7 +3742,7 @@
         "actual": 20.0,
         "seed_projection": 30.0,
         "ceiling": 30.0,
-        "mc_forecast": 28.4,
+        "mc_forecast": 28.5,
         "premeet_projection": 14.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -3900,7 +3825,7 @@
         "actual": 20.0,
         "seed_projection": 24.0,
         "ceiling": 24.0,
-        "mc_forecast": 24.1,
+        "mc_forecast": 24.0,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -3914,7 +3839,7 @@
         "actual": 16.0,
         "seed_projection": 22.0,
         "ceiling": 22.0,
-        "mc_forecast": 22.1,
+        "mc_forecast": 22.2,
         "premeet_projection": 20.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4041,7 +3966,7 @@
         "actual": 11.7,
         "seed_projection": 12.7,
         "ceiling": 12.7,
-        "mc_forecast": 13.1,
+        "mc_forecast": 13.0,
         "premeet_projection": 22.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4690,7 +4615,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
