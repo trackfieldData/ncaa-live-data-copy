@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T20:58:47Z",
+    "last_updated": "2026-03-14T21:35:24Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -38,7 +38,8 @@
     "Men High Jump",
     "Women High Jump",
     "Women Triple Jump",
-    "Women Shot Put"
+    "Women Shot Put",
+    "Women Pole Vault"
   ],
   "women": {
     "team_scores": [
@@ -47,9 +48,9 @@
         "actual": 52.0,
         "seed_projection": 57.0,
         "ceiling": 57.0,
-        "mc_forecast": 57.1,
+        "mc_forecast": 57.0,
         "premeet_projection": 38.0,
-        "win_probability": 97.3,
+        "win_probability": 96.4,
         "top4_probability": 100.0,
         "events_scored": [
           "Women 1 Mile (17.0pt)",
@@ -65,7 +66,7 @@
         "ceiling": 52.0,
         "mc_forecast": 52.2,
         "premeet_projection": 72.0,
-        "win_probability": 2.7,
+        "win_probability": 3.6,
         "top4_probability": 100.0,
         "events_scored": [
           "Women 60 M (8.0pt)",
@@ -84,7 +85,7 @@
         "mc_forecast": 39.1,
         "premeet_projection": 62.0,
         "win_probability": 0.0,
-        "top4_probability": 93.4,
+        "top4_probability": 98.8,
         "events_scored": [
           "Women 1 Mile (4.0pt)",
           "Women 200 M (5.0pt)",
@@ -103,7 +104,7 @@
         "mc_forecast": 35.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 46.2,
+        "top4_probability": 66.0,
         "events_scored": [
           "Women 200 M (8.0pt)",
           "Women 60 M Hurdles (3.0pt)",
@@ -112,33 +113,34 @@
         ]
       },
       {
-        "team": "Illinois",
-        "actual": 29.1,
-        "seed_projection": 35.1,
-        "ceiling": 35.1,
-        "mc_forecast": 35.3,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 44.9,
-        "events_scored": [
-          "Women High Jump (7.1pt)",
-          "Women Long Jump (10.0pt)",
-          "Women Weight (12.0pt)"
-        ]
-      },
-      {
         "team": "BYU",
         "actual": 20.0,
         "seed_projection": 33.0,
         "ceiling": 28.0,
-        "mc_forecast": 32.6,
+        "mc_forecast": 32.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 15.3,
+        "top4_probability": 28.1,
         "events_scored": [
           "Women 1 Mile (5.0pt)",
           "Women 1 Mile (5.0pt)",
           "Women 5000 M (10.0pt)"
+        ]
+      },
+      {
+        "team": "Illinois",
+        "actual": 32.6,
+        "seed_projection": 32.6,
+        "ceiling": 32.6,
+        "mc_forecast": 32.6,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 7.2,
+        "events_scored": [
+          "Women High Jump (7.1pt)",
+          "Women Pole Vault (3.5pt)",
+          "Women Long Jump (10.0pt)",
+          "Women Weight (12.0pt)"
         ]
       },
       {
@@ -149,7 +151,7 @@
         "mc_forecast": 32.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": [
           "Women 800 M (10.0pt)",
           "Women 60 M Hurdles (1.0pt)",
@@ -190,6 +192,24 @@
         ]
       },
       {
+        "team": "Texas A&M",
+        "actual": 27.5,
+        "seed_projection": 27.5,
+        "ceiling": 27.5,
+        "mc_forecast": 27.5,
+        "premeet_projection": 42.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 200 M (4.0pt)",
+          "Women 60 M Hurdles (6.0pt)",
+          "Women Pole Vault (3.5pt)",
+          "Women 60 M Hurdles (6.0pt)",
+          "Women 200 M (4.0pt)",
+          "Women Long Jump (4.0pt)"
+        ]
+      },
+      {
         "team": "Arkansas",
         "actual": 17.0,
         "seed_projection": 27.0,
@@ -202,23 +222,6 @@
           "Women 800 M (8.0pt)",
           "Women 800 M (8.0pt)",
           "Women 5000 M (1.0pt)"
-        ]
-      },
-      {
-        "team": "Texas A&M",
-        "actual": 24.0,
-        "seed_projection": 24.0,
-        "ceiling": 24.0,
-        "mc_forecast": 24.0,
-        "premeet_projection": 42.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 200 M (4.0pt)",
-          "Women 60 M Hurdles (6.0pt)",
-          "Women 60 M Hurdles (6.0pt)",
-          "Women 200 M (4.0pt)",
-          "Women Long Jump (4.0pt)"
         ]
       },
       {
@@ -256,7 +259,7 @@
         "actual": 20.0,
         "seed_projection": 21.0,
         "ceiling": 23.0,
-        "mc_forecast": 21.3,
+        "mc_forecast": 21.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -314,7 +317,7 @@
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.3,
+        "mc_forecast": 16.4,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -338,20 +341,6 @@
         ]
       },
       {
-        "team": "Baylor",
-        "actual": 12.0,
-        "seed_projection": 16.0,
-        "ceiling": 17.0,
-        "mc_forecast": 16.1,
-        "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 200 M (6.0pt)",
-          "Women 200 M (6.0pt)"
-        ]
-      },
-      {
         "team": "Boston College",
         "actual": 16.0,
         "seed_projection": 16.0,
@@ -363,6 +352,21 @@
         "events_scored": [
           "Women 400 M (8.0pt)",
           "Women 400 M (8.0pt)"
+        ]
+      },
+      {
+        "team": "Washington",
+        "actual": 15.5,
+        "seed_projection": 15.5,
+        "ceiling": 15.5,
+        "mc_forecast": 15.5,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 1 Mile (2.0pt)",
+          "Women Pole Vault (11.5pt)",
+          "Women 1 Mile (2.0pt)"
         ]
       },
       {
@@ -381,20 +385,6 @@
         ]
       },
       {
-        "team": "Tennessee",
-        "actual": 12.0,
-        "seed_projection": 14.0,
-        "ceiling": 14.0,
-        "mc_forecast": 14.1,
-        "premeet_projection": 18.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 400 M (6.0pt)",
-          "Women 400 M (6.0pt)"
-        ]
-      },
-      {
         "team": "USC",
         "actual": 10.0,
         "seed_projection": 14.0,
@@ -409,31 +399,6 @@
           "Women 60 M (4.0pt)",
           "Women 200 M (1.0pt)"
         ]
-      },
-      {
-        "team": "Washington",
-        "actual": 4.0,
-        "seed_projection": 14.0,
-        "ceiling": 14.0,
-        "mc_forecast": 12.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 1 Mile (2.0pt)",
-          "Women 1 Mile (2.0pt)"
-        ]
-      },
-      {
-        "team": "South Dakota",
-        "actual": 0.0,
-        "seed_projection": 13.0,
-        "ceiling": 8.0,
-        "mc_forecast": 12.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
       },
       {
         "team": "Texas",
@@ -465,11 +430,25 @@
         ]
       },
       {
+        "team": "Baylor",
+        "actual": 12.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 12.0,
+        "premeet_projection": 2.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 200 M (6.0pt)",
+          "Women 200 M (6.0pt)"
+        ]
+      },
+      {
         "team": "Kentucky",
         "actual": 10.0,
         "seed_projection": 12.0,
         "ceiling": 12.0,
-        "mc_forecast": 12.2,
+        "mc_forecast": 12.1,
         "premeet_projection": 28.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -478,6 +457,20 @@
           "Women 60 M Hurdles (4.0pt)",
           "Women 800 M (1.0pt)",
           "Women 60 M Hurdles (4.0pt)"
+        ]
+      },
+      {
+        "team": "Tennessee",
+        "actual": 12.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 12.8,
+        "premeet_projection": 18.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 400 M (6.0pt)",
+          "Women 400 M (6.0pt)"
         ]
       },
       {
@@ -537,6 +530,19 @@
         ]
       },
       {
+        "team": "Louisville",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Pole Vault (8.0pt)"
+        ]
+      },
+      {
         "team": "SOUTH CAROLINA6South Carolina",
         "actual": 8.0,
         "seed_projection": 8.0,
@@ -547,6 +553,19 @@
         "top4_probability": 0.0,
         "events_scored": [
           "Women Distance Medley Relay (8.0pt)"
+        ]
+      },
+      {
+        "team": "South Dakota",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Pole Vault (8.0pt)"
         ]
       },
       {
@@ -581,7 +600,7 @@
         "actual": 6.0,
         "seed_projection": 6.0,
         "ceiling": 7.0,
-        "mc_forecast": 6.6,
+        "mc_forecast": 6.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -681,6 +700,19 @@
         ]
       },
       {
+        "team": "Kansas",
+        "actual": 3.5,
+        "seed_projection": 3.5,
+        "ceiling": 3.5,
+        "mc_forecast": 3.5,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Pole Vault (3.5pt)"
+        ]
+      },
+      {
         "team": "Oklahoma",
         "actual": 3.5,
         "seed_projection": 3.5,
@@ -746,17 +778,6 @@
         ]
       },
       {
-        "team": "Kansas",
-        "actual": 0.0,
-        "seed_projection": 2.0,
-        "ceiling": 3.0,
-        "mc_forecast": 2.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "UTAH12Utah",
         "actual": 2.0,
         "seed_projection": 2.0,
@@ -782,17 +803,6 @@
           "Women 1 Mile (1.0pt)",
           "Women 1 Mile (1.0pt)"
         ]
-      },
-      {
-        "team": "Virginia Tech",
-        "actual": 0.0,
-        "seed_projection": 2.0,
-        "ceiling": 4.0,
-        "mc_forecast": 3.0,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
       },
       {
         "team": "West Virginia",
@@ -864,11 +874,37 @@
         "actual": 0.0,
         "seed_projection": 1.0,
         "ceiling": 1.0,
-        "mc_forecast": 1.3,
+        "mc_forecast": 1.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "Cal Poly",
+        "actual": 0.5,
+        "seed_projection": 0.5,
+        "ceiling": 0.5,
+        "mc_forecast": 0.5,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Pole Vault (0.5pt)"
+        ]
+      },
+      {
+        "team": "Duke",
+        "actual": 0.5,
+        "seed_projection": 0.5,
+        "ceiling": 0.5,
+        "mc_forecast": 0.6,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Pole Vault (0.5pt)"
+        ]
       },
       {
         "team": "Arizona St.",
@@ -877,39 +913,6 @@
         "ceiling": 0.0,
         "mc_forecast": 0.0,
         "premeet_projection": 10.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Cal Poly",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "California",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Duke",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 1.0,
-        "mc_forecast": 0.8,
-        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -974,18 +977,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 2.0,
-        "mc_forecast": 0.8,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Louisville",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.7,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -1080,7 +1072,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 19,
+    "completed_finals": 20,
     "total_finals": 22,
     "events": [
       {
@@ -1917,99 +1909,74 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/028-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/028-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Veronica Vacca",
-            "team": "Washington",
-            "seed": "4.50m14-9"
-          },
-          {
-            "name": "Marleen Mulla",
-            "team": "South Dakota",
-            "seed": "4.63m15-2\u00bc"
-          },
-          {
-            "name": "Mia Morello",
-            "team": "Illinois",
-            "seed": "4.50m14-9"
-          },
-          {
-            "name": "Anna Willis",
-            "team": "South Dakota",
-            "seed": "4.60m15-1"
-          },
-          {
-            "name": "Molly Haywood",
-            "team": "Baylor",
-            "seed": "4.57m15-0"
-          },
-          {
-            "name": "Chiara Sistermann",
-            "team": "Virginia Tech",
-            "seed": "4.47m14-8"
-          },
-          {
-            "name": "Mason Meinershagen",
-            "team": "Kansas",
-            "seed": "4.47m14-8"
-          },
-          {
-            "name": "Mya Strahm",
-            "team": "Tennessee",
-            "seed": "4.47m14-8"
-          },
-          {
-            "name": "Gemma Tutton",
-            "team": "Duke",
-            "seed": "4.52m14-10"
-          },
-          {
+            "place": 1,
             "name": "Ashley Callahan",
             "team": "Louisville",
-            "seed": "4.50m14-9"
+            "mark": ""
           },
           {
-            "name": "Lexi Evans",
-            "team": "Cal Poly",
-            "seed": "4.51m14-9\u00bd"
+            "place": 1,
+            "name": "Anna Willis",
+            "team": "South Dakota",
+            "mark": ""
           },
           {
-            "name": "Ali Sahaida",
-            "team": "California",
-            "seed": "4.49m14-8\u00be"
-          },
-          {
-            "name": "Iliana Triantafyllou",
-            "team": "Louisville",
-            "seed": "4.50m14-9"
-          },
-          {
+            "place": 1,
             "name": "Hana Moll",
             "team": "Washington",
-            "seed": "4.88m16-0"
+            "mark": ""
           },
           {
+            "place": 4,
+            "name": "Mason Meinershagen",
+            "team": "Kansas",
+            "mark": ""
+          },
+          {
+            "place": 4,
             "name": "Lily Carlson",
             "team": "Texas A&M",
-            "seed": "4.47m14-8"
+            "mark": ""
           },
           {
-            "name": "Jathiyah Muhammad",
-            "team": "South Carolina",
-            "seed": "4.50m14-9"
+            "place": 4,
+            "name": "Mia Morello",
+            "team": "Illinois",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Veronica Vacca",
+            "team": "Washington",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Lexi Evans",
+            "team": "Cal Poly",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Gemma Tutton",
+            "team": "Duke",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Washington": 10.0,
-          "South Dakota": 13.0,
-          "Illinois": 6.0,
-          "Baylor": 4.0,
-          "Virginia Tech": 2.0,
-          "Kansas": 2.0,
-          "Tennessee": 2.0
+          "Louisville": 8.0,
+          "South Dakota": 8.0,
+          "Washington": 11.5,
+          "Kansas": 3.5,
+          "Texas A&M": 3.5,
+          "Illinois": 3.5,
+          "Cal Poly": 0.5,
+          "Duke": 0.5
         }
       },
       {
@@ -2918,6 +2885,23 @@
           "Colorado St.": 2.0,
           "Penn": 1.0
         }
+      },
+      {
+        "event": "Women Pole Vault",
+        "winner": "Ashley Callahan",
+        "team": "Louisville",
+        "mark": "",
+        "timestamp": "2026-03-14T21:35:24Z",
+        "points_awarded": {
+          "Louisville": 8.0,
+          "South Dakota": 8.0,
+          "Washington": 11.5,
+          "Kansas": 3.5,
+          "Texas A&M": 3.5,
+          "Illinois": 3.5,
+          "Cal Poly": 0.5,
+          "Duke": 0.5
+        }
       }
     ],
     "leverage": [
@@ -2944,18 +2928,6 @@
           "USC"
         ],
         "n_entries": 12
-      },
-      {
-        "event": "Women Pole Vault",
-        "total_points": 39,
-        "top_teams": [
-          "Washington",
-          "South Dakota",
-          "Illinois",
-          "Baylor",
-          "Virginia Tech"
-        ],
-        "n_entries": 16
       }
     ],
     "scenarios": {
@@ -3078,32 +3050,24 @@
       "Baylor": {
         "team": "Baylor",
         "current": 12.0,
-        "scenario_a": 16.0,
-        "scenario_b": 22.0,
+        "scenario_a": 12.0,
+        "scenario_b": 12.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Molly Haywood",
-                "seed_mark": "4.57m15-0",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Boston College": {
         "team": "Boston College",
         "current": 16.0,
         "scenario_a": 16.0,
         "scenario_b": 16.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "Cal Poly": {
+        "team": "Cal Poly",
+        "current": 0.5,
+        "scenario_a": 0.5,
+        "scenario_b": 0.5,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -3130,6 +3094,35 @@
         "scenario_b": 5.0,
         "scenario_c": 0.0,
         "breakdown": []
+      },
+      "Duke": {
+        "team": "Duke",
+        "current": 0.5,
+        "scenario_a": 0.5,
+        "scenario_b": 10.5,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Women 4x400 Meter Relay",
+            "athletes": [
+              {
+                "athlete": "Duke",
+                "seed_mark": "3:30.35",
+                "proj_place": 12,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 0.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": [
+              {
+                "athlete": "Duke",
+                "seed_mark": "3:30.35"
+              }
+            ]
+          }
+        ]
       },
       "Duquesne": {
         "team": "Duquesne",
@@ -3260,27 +3253,11 @@
       },
       "Illinois": {
         "team": "Illinois",
-        "current": 29.09090909090909,
-        "scenario_a": 35.1,
-        "scenario_b": 39.1,
+        "current": 32.59090909090909,
+        "scenario_a": 32.6,
+        "scenario_b": 32.6,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Mia Morello",
-                "seed_mark": "4.50m14-9",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Iowa": {
         "team": "Iowa",
@@ -3343,6 +3320,14 @@
           }
         ]
       },
+      "Kansas": {
+        "team": "Kansas",
+        "current": 3.5,
+        "scenario_a": 3.5,
+        "scenario_b": 3.5,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Kansas State": {
         "team": "Kansas State",
         "current": 14.545454545454545,
@@ -3388,6 +3373,14 @@
         "current": 0.0,
         "scenario_a": 0.0,
         "scenario_b": 0.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "Louisville": {
+        "team": "Louisville",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -3594,7 +3587,7 @@
         "team": "South Carolina",
         "current": 22.0,
         "scenario_a": 36.0,
-        "scenario_b": 52.0,
+        "scenario_b": 42.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -3626,23 +3619,16 @@
             "scenario_b_pts": 10,
             "scenario_c_pts": 0,
             "swing_athletes": []
-          },
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Jathiyah Muhammad",
-                "seed_mark": "4.50m14-9",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
           }
         ]
+      },
+      "South Dakota": {
+        "team": "South Dakota",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "Stanford": {
         "team": "Stanford",
@@ -3671,8 +3657,8 @@
       "Tennessee": {
         "team": "Tennessee",
         "current": 12.0,
-        "scenario_a": 13.0,
-        "scenario_b": 32.0,
+        "scenario_a": 12.0,
+        "scenario_b": 22.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -3694,21 +3680,6 @@
                 "seed_mark": "3:29.31"
               }
             ]
-          },
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Mya Strahm",
-                "seed_mark": "4.47m14-8",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
           }
         ]
       },
@@ -3738,27 +3709,11 @@
       },
       "Texas A&M": {
         "team": "Texas A&M",
-        "current": 24.0,
-        "scenario_a": 24.0,
-        "scenario_b": 34.0,
+        "current": 27.5,
+        "scenario_a": 27.5,
+        "scenario_b": 27.5,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Lily Carlson",
-                "seed_mark": "4.47m14-8",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Texas Tech": {
         "team": "Texas Tech",
@@ -3879,33 +3834,11 @@
       },
       "Washington": {
         "team": "Washington",
-        "current": 4.0,
-        "scenario_a": 14.0,
-        "scenario_b": 14.0,
+        "current": 15.5,
+        "scenario_a": 15.5,
+        "scenario_b": 15.5,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Pole Vault",
-            "athletes": [
-              {
-                "athlete": "Veronica Vacca",
-                "seed_mark": "4.50m14-9",
-                "proj_place": 1,
-                "seed_pts": 10
-              },
-              {
-                "athlete": "Hana Moll",
-                "seed_mark": "4.88m16-0",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Washington St.": {
         "team": "Washington St.",
@@ -4018,10 +3951,10 @@
         "actual": 30.0,
         "seed_projection": 33.0,
         "ceiling": 32.0,
-        "mc_forecast": 34.3,
+        "mc_forecast": 34.2,
         "premeet_projection": 77.0,
         "win_probability": 0.0,
-        "top4_probability": 3.9,
+        "top4_probability": 3.8,
         "events_scored": [
           "Men 1 Mile (7.0pt)",
           "Men 800 M (3.0pt)",
@@ -4035,7 +3968,7 @@
         "actual": 20.0,
         "seed_projection": 30.0,
         "ceiling": 30.0,
-        "mc_forecast": 28.3,
+        "mc_forecast": 28.4,
         "premeet_projection": 14.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4053,7 +3986,7 @@
         "actual": 26.4,
         "seed_projection": 29.4,
         "ceiling": 29.4,
-        "mc_forecast": 29.6,
+        "mc_forecast": 29.5,
         "premeet_projection": 25.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4101,7 +4034,7 @@
         "actual": 20.0,
         "seed_projection": 24.0,
         "ceiling": 24.0,
-        "mc_forecast": 24.1,
+        "mc_forecast": 24.0,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4115,7 +4048,7 @@
         "actual": 16.0,
         "seed_projection": 22.0,
         "ceiling": 22.0,
-        "mc_forecast": 22.3,
+        "mc_forecast": 22.2,
         "premeet_projection": 20.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4175,7 +4108,7 @@
         "actual": 14.7,
         "seed_projection": 18.7,
         "ceiling": 18.7,
-        "mc_forecast": 18.7,
+        "mc_forecast": 18.8,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4188,7 +4121,7 @@
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.3,
+        "mc_forecast": 16.4,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4201,7 +4134,7 @@
         "actual": 12.9,
         "seed_projection": 17.9,
         "ceiling": 17.9,
-        "mc_forecast": 17.9,
+        "mc_forecast": 18.0,
         "premeet_projection": 30.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4257,7 +4190,7 @@
         "actual": 10.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 13.0,
+        "mc_forecast": 13.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4270,7 +4203,7 @@
         "actual": 13.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 13.4,
+        "mc_forecast": 13.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4367,7 +4300,7 @@
         "actual": 6.0,
         "seed_projection": 9.0,
         "ceiling": 9.0,
-        "mc_forecast": 9.1,
+        "mc_forecast": 9.2,
         "premeet_projection": 23.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4409,7 +4342,7 @@
         "actual": 8.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 8.1,
+        "mc_forecast": 8.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4592,7 +4525,7 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.1,
+        "mc_forecast": 5.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4603,7 +4536,7 @@
         "actual": 2.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.1,
+        "mc_forecast": 4.2,
         "premeet_projection": 53.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4800,7 +4733,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4866,7 +4799,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.8,
+        "mc_forecast": 0.7,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4932,7 +4865,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
