@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T00:00:51Z",
+    "last_updated": "2026-03-14T02:48:02Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -24,119 +24,167 @@
     "Men 400 M",
     "Women 800 M",
     "Men 800 M",
-    "Women 60 M Hurdles"
+    "Women 60 M Hurdles",
+    "Men 60 M Hurdles",
+    "Women 5000 M",
+    "Men 5000 M",
+    "Women 200 M",
+    "Men 200 M",
+    "Women Distance Medley Relay",
+    "Men Distance Medley Relay",
+    "Men Long Jump",
+    "Women Weight"
   ],
   "women": {
     "team_scores": [
       {
         "team": "Oregon",
-        "actual": 43.0,
-        "seed_projection": 48.0,
-        "ceiling": 48.0,
-        "mc_forecast": 48.2,
+        "actual": 52.0,
+        "seed_projection": 57.0,
+        "ceiling": 57.0,
+        "mc_forecast": 57.0,
         "premeet_projection": 38.0,
-        "win_probability": 80.6,
+        "win_probability": 100.0,
         "top4_probability": 100.0,
         "events_scored": [
           "Women 1 Mile (17.0pt)",
           "Women 60 M Hurdles (9.0pt)",
-          "Women 1 Mile (17.0pt)"
+          "Women 1 Mile (17.0pt)",
+          "Women 60 M Hurdles (9.0pt)"
+        ]
+      },
+      {
+        "team": "Georgia",
+        "actual": 36.0,
+        "seed_projection": 43.0,
+        "ceiling": 45.0,
+        "mc_forecast": 43.6,
+        "premeet_projection": 72.0,
+        "win_probability": 0.0,
+        "top4_probability": 100.0,
+        "events_scored": [
+          "Women 60 M (8.0pt)",
+          "Women 60 M Hurdles (5.0pt)",
+          "Women 200 M (10.0pt)",
+          "Women 60 M (8.0pt)",
+          "Women 60 M Hurdles (5.0pt)"
         ]
       },
       {
         "team": "Arkansas",
-        "actual": 16.0,
-        "seed_projection": 44.3,
-        "ceiling": 46.0,
-        "mc_forecast": 44.0,
+        "actual": 17.0,
+        "seed_projection": 33.3,
+        "ceiling": 35.0,
+        "mc_forecast": 32.8,
         "premeet_projection": 77.0,
-        "win_probability": 16.6,
-        "top4_probability": 99.3,
+        "win_probability": 0.0,
+        "top4_probability": 54.5,
         "events_scored": [
           "Women 800 M (8.0pt)",
+          "Women 5000 M (1.0pt)",
           "Women 800 M (8.0pt)"
         ]
       },
       {
         "team": "BYU",
-        "actual": 10.0,
-        "seed_projection": 43.0,
-        "ceiling": 38.0,
-        "mc_forecast": 39.4,
+        "actual": 20.0,
+        "seed_projection": 33.0,
+        "ceiling": 28.0,
+        "mc_forecast": 32.6,
         "premeet_projection": 0.0,
-        "win_probability": 2.7,
-        "top4_probability": 95.5,
+        "win_probability": 0.0,
+        "top4_probability": 55.0,
         "events_scored": [
           "Women 1 Mile (5.0pt)",
+          "Women 5000 M (10.0pt)",
           "Women 1 Mile (5.0pt)"
         ]
       },
       {
-        "team": "Georgia",
-        "actual": 21.0,
-        "seed_projection": 38.0,
-        "ceiling": 40.0,
-        "mc_forecast": 37.0,
-        "premeet_projection": 72.0,
-        "win_probability": 0.1,
-        "top4_probability": 91.2,
+        "team": "Florida",
+        "actual": 22.0,
+        "seed_projection": 31.0,
+        "ceiling": 31.0,
+        "mc_forecast": 31.9,
+        "premeet_projection": 62.0,
+        "win_probability": 0.0,
+        "top4_probability": 41.0,
         "events_scored": [
-          "Women 60 M (8.0pt)",
-          "Women 60 M Hurdles (5.0pt)",
-          "Women 60 M (8.0pt)"
+          "Women 1 Mile (4.0pt)",
+          "Women 5000 M (9.0pt)",
+          "Women 200 M (5.0pt)",
+          "Women 1 Mile (4.0pt)"
         ]
       },
       {
         "team": "Clemson",
-        "actual": 21.0,
-        "seed_projection": 29.0,
-        "ceiling": 29.0,
-        "mc_forecast": 28.4,
+        "actual": 22.0,
+        "seed_projection": 30.0,
+        "ceiling": 30.0,
+        "mc_forecast": 29.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.4,
+        "top4_probability": 7.5,
         "events_scored": [
           "Women 800 M (10.0pt)",
           "Women 60 M Hurdles (1.0pt)",
-          "Women 800 M (10.0pt)"
+          "Women 800 M (10.0pt)",
+          "Women 60 M Hurdles (1.0pt)"
+        ]
+      },
+      {
+        "team": "Illinois",
+        "actual": 22.0,
+        "seed_projection": 30.0,
+        "ceiling": 31.0,
+        "mc_forecast": 32.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 35.0,
+        "events_scored": [
+          "Women Long Jump (10.0pt)",
+          "Women Weight (12.0pt)"
+        ]
+      },
+      {
+        "team": "South Carolina",
+        "actual": 14.0,
+        "seed_projection": 28.0,
+        "ceiling": 28.0,
+        "mc_forecast": 27.6,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 6.8,
+        "events_scored": [
+          "Women 60 M Hurdles (3.0pt)",
+          "Women 200 M (8.0pt)",
+          "Women 60 M Hurdles (3.0pt)"
         ]
       },
       {
         "team": "Minnesota",
-        "actual": 8.0,
-        "seed_projection": 29.0,
-        "ceiling": 24.0,
-        "mc_forecast": 27.8,
+        "actual": 18.0,
+        "seed_projection": 26.0,
+        "ceiling": 26.0,
+        "mc_forecast": 25.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 2.1,
+        "top4_probability": 0.1,
         "events_scored": [
           "Women 800 M (4.0pt)",
+          "Women Weight (10.0pt)",
           "Women 800 M (4.0pt)"
-        ]
-      },
-      {
-        "team": "Kansas State",
-        "actual": 5.0,
-        "seed_projection": 28.0,
-        "ceiling": 26.0,
-        "mc_forecast": 26.9,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 2.2,
-        "events_scored": [
-          "Women Long Jump (5.0pt)"
         ]
       },
       {
         "team": "Stanford",
         "actual": 24.0,
-        "seed_projection": 27.0,
-        "ceiling": 27.0,
-        "mc_forecast": 27.6,
+        "seed_projection": 25.0,
+        "ceiling": 25.0,
+        "mc_forecast": 25.3,
         "premeet_projection": 30.0,
         "win_probability": 0.0,
-        "top4_probability": 0.8,
+        "top4_probability": 0.0,
         "events_scored": [
           "Women 800 M (8.0pt)",
           "Women Long Jump (8.0pt)",
@@ -144,57 +192,31 @@
         ]
       },
       {
+        "team": "Kansas State",
+        "actual": 5.0,
+        "seed_projection": 24.0,
+        "ceiling": 21.0,
+        "mc_forecast": 22.6,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": [
+          "Women Long Jump (5.0pt)"
+        ]
+      },
+      {
         "team": "USC",
-        "actual": 8.0,
-        "seed_projection": 27.0,
-        "ceiling": 25.0,
-        "mc_forecast": 26.2,
+        "actual": 9.0,
+        "seed_projection": 23.0,
+        "ceiling": 23.0,
+        "mc_forecast": 21.3,
         "premeet_projection": 19.0,
         "win_probability": 0.0,
-        "top4_probability": 1.3,
+        "top4_probability": 0.0,
         "events_scored": [
           "Women 60 M (4.0pt)",
+          "Women 200 M (1.0pt)",
           "Women 60 M (4.0pt)"
-        ]
-      },
-      {
-        "team": "Iowa State",
-        "actual": 20.0,
-        "seed_projection": 26.0,
-        "ceiling": 28.0,
-        "mc_forecast": 27.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 1.6,
-        "events_scored": [
-          "Women 400 M (10.0pt)",
-          "Women 400 M (10.0pt)"
-        ]
-      },
-      {
-        "team": "Illinois",
-        "actual": 10.0,
-        "seed_projection": 25.0,
-        "ceiling": 25.0,
-        "mc_forecast": 27.6,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 3.8,
-        "events_scored": [
-          "Women Long Jump (10.0pt)"
-        ]
-      },
-      {
-        "team": "South Carolina",
-        "actual": 3.0,
-        "seed_projection": 25.0,
-        "ceiling": 25.0,
-        "mc_forecast": 24.5,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 1.6,
-        "events_scored": [
-          "Women 60 M Hurdles (3.0pt)"
         ]
       },
       {
@@ -213,6 +235,20 @@
         ]
       },
       {
+        "team": "Iowa State",
+        "actual": 20.0,
+        "seed_projection": 21.0,
+        "ceiling": 23.0,
+        "mc_forecast": 21.3,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 400 M (10.0pt)",
+          "Women 400 M (10.0pt)"
+        ]
+      },
+      {
         "team": "Florida State",
         "actual": 20.0,
         "seed_projection": 20.0,
@@ -224,6 +260,22 @@
         "events_scored": [
           "Women 60 M (10.0pt)",
           "Women 60 M (10.0pt)"
+        ]
+      },
+      {
+        "team": "Texas A&M",
+        "actual": 20.0,
+        "seed_projection": 20.0,
+        "ceiling": 20.0,
+        "mc_forecast": 20.0,
+        "premeet_projection": 42.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 60 M Hurdles (6.0pt)",
+          "Women 200 M (4.0pt)",
+          "Women Long Jump (4.0pt)",
+          "Women 60 M Hurdles (6.0pt)"
         ]
       },
       {
@@ -241,53 +293,57 @@
         ]
       },
       {
-        "team": "Florida",
-        "actual": 8.0,
-        "seed_projection": 19.0,
-        "ceiling": 19.0,
-        "mc_forecast": 20.8,
-        "premeet_projection": 62.0,
+        "team": "Kentucky",
+        "actual": 10.0,
+        "seed_projection": 18.3,
+        "ceiling": 18.0,
+        "mc_forecast": 18.3,
+        "premeet_projection": 28.0,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": [
-          "Women 1 Mile (4.0pt)",
-          "Women 1 Mile (4.0pt)"
+          "Women 800 M (1.0pt)",
+          "Women 60 M Hurdles (4.0pt)",
+          "Women 800 M (1.0pt)",
+          "Women 60 M Hurdles (4.0pt)"
         ]
       },
       {
         "team": "Alabama",
-        "actual": 0.0,
+        "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 15.7,
+        "mc_forecast": 16.5,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women 5000 M (8.0pt)"
+        ]
       },
       {
         "team": "Nebraska",
         "actual": 0.0,
         "seed_projection": 18.0,
-        "ceiling": 19.0,
-        "mc_forecast": 17.5,
+        "ceiling": 18.0,
+        "mc_forecast": 17.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Washington",
-        "actual": 4.0,
+        "team": "UCLA",
+        "actual": 18.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.5,
+        "mc_forecast": 18.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Women 1 Mile (2.0pt)",
-          "Women 1 Mile (2.0pt)"
+          "Women 60 M Hurdles (9.0pt)",
+          "Women 60 M Hurdles (9.0pt)"
         ]
       },
       {
@@ -295,7 +351,7 @@
         "actual": 16.0,
         "seed_projection": 16.0,
         "ceiling": 16.0,
-        "mc_forecast": 16.4,
+        "mc_forecast": 16.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -305,26 +361,11 @@
         ]
       },
       {
-        "team": "Kentucky",
-        "actual": 6.0,
-        "seed_projection": 14.3,
-        "ceiling": 14.0,
-        "mc_forecast": 14.2,
-        "premeet_projection": 28.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 800 M (1.0pt)",
-          "Women 60 M Hurdles (4.0pt)",
-          "Women 800 M (1.0pt)"
-        ]
-      },
-      {
         "team": "Tennessee",
         "actual": 12.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 14.2,
+        "mc_forecast": 14.0,
         "premeet_projection": 18.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -334,17 +375,32 @@
         ]
       },
       {
-        "team": "Texas A&M",
-        "actual": 10.0,
+        "team": "Washington",
+        "actual": 4.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 14.0,
-        "premeet_projection": 42.0,
+        "mc_forecast": 12.4,
+        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Women 60 M Hurdles (6.0pt)",
-          "Women Long Jump (4.0pt)"
+          "Women 1 Mile (2.0pt)",
+          "Women 1 Mile (2.0pt)"
+        ]
+      },
+      {
+        "team": "Ole Miss",
+        "actual": 13.0,
+        "seed_projection": 13.0,
+        "ceiling": 13.0,
+        "mc_forecast": 13.4,
+        "premeet_projection": 6.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 60 M (4.0pt)",
+          "Women Weight (5.0pt)",
+          "Women 60 M (4.0pt)"
         ]
       },
       {
@@ -352,33 +408,38 @@
         "actual": 0.0,
         "seed_projection": 13.0,
         "ceiling": 8.0,
-        "mc_forecast": 12.5,
+        "mc_forecast": 12.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Oklahoma State",
-        "actual": 0.0,
+        "team": "Texas",
+        "actual": 8.0,
         "seed_projection": 11.0,
         "ceiling": 11.0,
-        "mc_forecast": 10.4,
-        "premeet_projection": 0.0,
+        "mc_forecast": 11.1,
+        "premeet_projection": 51.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women 200 M (2.0pt)",
+          "Women Weight (6.0pt)"
+        ]
       },
       {
         "team": "Baylor",
-        "actual": 0.0,
+        "actual": 6.0,
         "seed_projection": 10.0,
         "ceiling": 11.0,
-        "mc_forecast": 10.3,
+        "mc_forecast": 10.1,
         "premeet_projection": 2.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women 200 M (6.0pt)"
+        ]
       },
       {
         "team": "Harvard",
@@ -395,15 +456,17 @@
         ]
       },
       {
-        "team": "Michigan State",
-        "actual": 0.0,
+        "team": "OREGON37Oregon",
+        "actual": 10.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.3,
+        "mc_forecast": 10.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (10.0pt)"
+        ]
       },
       {
         "team": "Texas Tech",
@@ -431,49 +494,37 @@
         ]
       },
       {
-        "team": "UCLA",
-        "actual": 9.0,
-        "seed_projection": 9.0,
-        "ceiling": 9.0,
-        "mc_forecast": 9.5,
+        "team": "Colorado St.",
+        "actual": 3.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Women 60 M Hurdles (9.0pt)"
+          "Women Weight (3.0pt)"
         ]
       },
       {
-        "team": "Ole Miss",
+        "team": "SOUTH CAROLINA6South Carolina",
         "actual": 8.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 8.5,
-        "premeet_projection": 6.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 60 M (4.0pt)",
-          "Women 60 M (4.0pt)"
-        ]
-      },
-      {
-        "team": "TCU",
-        "actual": 0.0,
-        "seed_projection": 8.0,
-        "ceiling": 8.0,
-        "mc_forecast": 7.4,
+        "mc_forecast": 8.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (8.0pt)"
+        ]
       },
       {
         "team": "Oklahoma",
         "actual": 0.0,
         "seed_projection": 6.3,
-        "ceiling": 7.0,
-        "mc_forecast": 5.8,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -494,37 +545,68 @@
         ]
       },
       {
+        "team": "IOWA STATE4Iowa State",
+        "actual": 6.0,
+        "seed_projection": 6.0,
+        "ceiling": 6.0,
+        "mc_forecast": 6.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Distance Medley Relay (6.0pt)"
+        ]
+      },
+      {
+        "team": "New Mexico",
+        "actual": 6.0,
+        "seed_projection": 6.0,
+        "ceiling": 7.0,
+        "mc_forecast": 6.5,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 5000 M (6.0pt)"
+        ]
+      },
+      {
         "team": "Arizona",
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.3,
+        "mc_forecast": 5.2,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Colorado St.",
-        "actual": 0.0,
+        "team": "FLORIDA9Florida",
+        "actual": 5.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (5.0pt)"
+        ]
       },
       {
-        "team": "Eastern Kentucky",
-        "actual": 0.0,
-        "seed_projection": 5.0,
-        "ceiling": 5.0,
-        "mc_forecast": 5.1,
+        "team": "Auburn",
+        "actual": 4.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women 60 M Hurdles (2.0pt)",
+          "Women 60 M Hurdles (2.0pt)"
+        ]
       },
       {
         "team": "Montana State",
@@ -538,48 +620,67 @@
         "events_scored": []
       },
       {
-        "team": "New Mexico",
-        "actual": 0.0,
+        "team": "NC STATE8NC State",
+        "actual": 4.0,
         "seed_projection": 4.0,
-        "ceiling": 5.0,
-        "mc_forecast": 4.5,
+        "ceiling": 4.0,
+        "mc_forecast": 4.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (4.0pt)"
+        ]
       },
       {
         "team": "North Carolina",
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.9,
+        "mc_forecast": 4.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Texas",
-        "actual": 0.0,
-        "seed_projection": 4.0,
-        "ceiling": 5.0,
-        "mc_forecast": 4.5,
-        "premeet_projection": 51.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Kennesaw State",
-        "actual": 0.0,
+        "team": "BYU1BYU",
+        "actual": 3.0,
         "seed_projection": 3.0,
-        "ceiling": 4.0,
-        "mc_forecast": 3.1,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (3.0pt)"
+        ]
+      },
+      {
+        "team": "Eastern Kentucky",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 5000 M (3.0pt)"
+        ]
+      },
+      {
+        "team": "TCU",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 200 M (3.0pt)"
+        ]
       },
       {
         "team": "UNLV",
@@ -606,19 +707,6 @@
         ]
       },
       {
-        "team": "Auburn",
-        "actual": 2.0,
-        "seed_projection": 2.0,
-        "ceiling": 2.0,
-        "mc_forecast": 2.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Women 60 M Hurdles (2.0pt)"
-        ]
-      },
-      {
         "team": "Duquesne",
         "actual": 2.0,
         "seed_projection": 2.0,
@@ -636,17 +724,6 @@
         "actual": 0.0,
         "seed_projection": 2.0,
         "ceiling": 3.0,
-        "mc_forecast": 2.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Miami (Fla.)",
-        "actual": 0.0,
-        "seed_projection": 2.0,
-        "ceiling": 3.0,
         "mc_forecast": 2.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
@@ -654,22 +731,24 @@
         "events_scored": []
       },
       {
-        "team": "NC State",
-        "actual": 0.0,
+        "team": "UTAH12Utah",
+        "actual": 2.0,
         "seed_projection": 2.0,
         "ceiling": 2.0,
-        "mc_forecast": 2.2,
-        "premeet_projection": 40.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Distance Medley Relay (2.0pt)"
+        ]
       },
       {
         "team": "Utah",
         "actual": 2.0,
         "seed_projection": 2.0,
-        "ceiling": 3.0,
-        "mc_forecast": 2.9,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -683,11 +762,63 @@
         "actual": 0.0,
         "seed_projection": 2.0,
         "ceiling": 4.0,
-        "mc_forecast": 3.0,
+        "mc_forecast": 3.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "West Virginia",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women 5000 M (2.0pt)"
+        ]
+      },
+      {
+        "team": "Wisconsin",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 17.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight (2.0pt)"
+        ]
+      },
+      {
+        "team": "Kennesaw State",
+        "actual": 1.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight (1.0pt)"
+        ]
+      },
+      {
+        "team": "OKLAHOMA STATE2Oklahoma State",
+        "actual": 1.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Distance Medley Relay (1.0pt)"
+        ]
       },
       {
         "team": "UCF",
@@ -727,7 +858,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -739,17 +870,6 @@
         "seed_projection": 0.0,
         "ceiling": 1.0,
         "mc_forecast": 0.8,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "East Carolina",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -793,7 +913,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.2,
         "premeet_projection": 1.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -826,7 +946,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 2.0,
-        "mc_forecast": 0.7,
+        "mc_forecast": 0.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -866,23 +986,23 @@
         "events_scored": []
       },
       {
+        "team": "NC State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 40.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
         "team": "Nevada",
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
         "mc_forecast": 0.0,
         "premeet_projection": 10.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "North Dakota",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.0,
-        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -903,7 +1023,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.0,
         "premeet_projection": 7.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -916,6 +1036,17 @@
         "ceiling": 0.0,
         "mc_forecast": 0.0,
         "premeet_projection": 4.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Oklahoma State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -974,31 +1105,9 @@
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
-      },
-      {
-        "team": "West Virginia",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Wisconsin",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.0,
-        "premeet_projection": 17.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
       }
     ],
-    "completed_finals": 11,
+    "completed_finals": 16,
     "total_finals": 22,
     "events": [
       {
@@ -1347,100 +1456,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/023-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/023-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Mercyline Kirwa",
-            "team": "Iowa State",
-            "seed": "15:09.13"
-          },
-          {
+            "place": 1,
             "name": "Jane Hedengren",
             "team": "BYU",
-            "seed": "14:44.79"
+            "mark": "FR"
           },
           {
-            "name": "Joy Naukot",
-            "team": "West Virginia",
-            "seed": "15:11.91"
-          },
-          {
-            "name": "Diana Cherotich",
-            "team": "Oregon",
-            "seed": "15:13.38"
-          },
-          {
-            "name": "Jadyn Keeler",
-            "team": "North Dakota",
-            "seed": "15:14.76"
-          },
-          {
-            "name": "Hilda Olemomoi",
-            "team": "Florida",
-            "seed": "15:08.61"
-          },
-          {
-            "name": "Chloe Thomas",
-            "team": "Washington",
-            "seed": "15:16.93"
-          },
-          {
-            "name": "Pamela Kosgei",
-            "team": "New Mexico",
-            "seed": "15:05.41"
-          },
-          {
-            "name": "Sophia Kennedy",
-            "team": "Stanford",
-            "seed": "15:07.90"
-          },
-          {
-            "name": "Edna Chelulei",
-            "team": "Eastern Kentucky",
-            "seed": "15:05.16"
-          },
-          {
-            "name": "Isca Chelangat",
-            "team": "Oklahoma State",
-            "seed": "15:07.76"
-          },
-          {
-            "name": "Judy Chepkoech",
-            "team": "Florida",
-            "seed": "15:12.57"
-          },
-          {
-            "name": "Sydney Vaught",
-            "team": "Arkansas",
-            "seed": "15:02.52"
-          },
-          {
+            "place": 2,
             "name": "Doris Lemngole",
             "team": "Alabama",
-            "seed": "14:51.21"
+            "mark": ""
           },
           {
-            "name": "Mary Bonner Dalton",
-            "team": "Notre Dame",
-            "seed": "15:11.31"
+            "place": 3,
+            "name": "Pamela Kosgei",
+            "team": "New Mexico",
+            "mark": ""
           },
           {
-            "name": "Caren Kiplagat",
-            "team": "Alabama",
-            "seed": "15:12.56"
+            "place": 4,
+            "name": "Hilda Olemomoi",
+            "team": "Florida",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Judy Chepkoech",
+            "team": "Florida",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Edna Chelulei",
+            "team": "Eastern Kentucky",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Joy Naukot",
+            "team": "West Virginia",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Sydney Vaught",
+            "team": "Arkansas",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
           "BYU": 10.0,
           "Alabama": 8.0,
-          "Arkansas": 6.0,
-          "Eastern Kentucky": 5.0,
-          "New Mexico": 4.0,
-          "Oklahoma State": 3.0,
-          "Stanford": 2.0,
-          "Florida": 1.0
+          "New Mexico": 6.0,
+          "Florida": 9.0,
+          "Eastern Kentucky": 3.0,
+          "West Virginia": 2.0,
+          "Arkansas": 1.0
         }
       },
       {
@@ -1454,99 +1530,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Carleta Bernard",
-            "team": "Texas",
-            "seed": "22.94"
-          },
-          {
-            "name": "Chelsea Amoah",
-            "team": "Utah",
-            "seed": "22.84"
-          },
-          {
-            "name": "Dajaz Defrand",
-            "team": "USC",
-            "seed": "22.79"
-          },
-          {
-            "name": "Elise Cooper",
-            "team": "Texas",
-            "seed": "22.80"
-          },
-          {
-            "name": "Keliza Smith",
-            "team": "LSU",
-            "seed": "22.91"
-          },
-          {
-            "name": "Esther Joseph",
-            "team": "Tennessee",
-            "seed": "22.94"
-          },
-          {
-            "name": "Camryn Dickson",
-            "team": "Texas A&M",
-            "seed": "22.62"
-          },
-          {
-            "name": "Christine Mallard",
-            "team": "USC",
-            "seed": "22.77"
-          },
-          {
-            "name": "Kelly Ufodiama",
-            "team": "East Carolina",
-            "seed": "22.89"
-          },
-          {
-            "name": "Lauren Roy",
-            "team": "Tarleton State",
-            "seed": "22.94"
-          },
-          {
-            "name": "Tiriah Kelley",
-            "team": "Baylor",
-            "seed": "22.53"
-          },
-          {
-            "name": "JaMeesia Ford",
-            "team": "South Carolina",
-            "seed": "22.58"
-          },
-          {
-            "name": "Gabrielle Matthews",
-            "team": "Florida",
-            "seed": "22.87"
-          },
-          {
-            "name": "Mia Brahe-Pedersen",
-            "team": "USC",
-            "seed": "22.85"
-          },
-          {
+            "place": 1,
             "name": "Adaejah Hodge",
             "team": "Georgia",
-            "seed": "22.32"
+            "mark": "PBFR"
           },
           {
+            "place": 2,
+            "name": "JaMeesia Ford",
+            "team": "South Carolina",
+            "mark": "SB"
+          },
+          {
+            "place": 3,
+            "name": "Tiriah Kelley",
+            "team": "Baylor",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Gabrielle Matthews",
+            "team": "Florida",
+            "mark": "PB"
+          },
+          {
+            "place": 5,
+            "name": "Camryn Dickson",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 6,
             "name": "Indya Mayberry",
             "team": "TCU",
-            "seed": "22.50"
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Elise Cooper",
+            "team": "Texas",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Dajaz Defrand",
+            "team": "USC",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
           "Georgia": 10.0,
-          "TCU": 8.0,
+          "South Carolina": 8.0,
           "Baylor": 6.0,
-          "South Carolina": 5.0,
+          "Florida": 5.0,
           "Texas A&M": 4.0,
-          "USC": 5.0,
-          "Texas": 1.0
+          "TCU": 3.0,
+          "Texas": 2.0,
+          "USC": 1.0
         }
       },
       {
@@ -1560,80 +1605,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/026-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/026-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Boston College",
-            "team": "Boston College",
-            "seed": "10:47.53"
+            "place": 1,
+            "name": "",
+            "team": "OREGON37Oregon",
+            "mark": "SB"
           },
           {
-            "name": "Washington",
-            "team": "Washington",
-            "seed": "10:45.03"
+            "place": 2,
+            "name": "",
+            "team": "SOUTH CAROLINA6South Carolina",
+            "mark": ""
           },
           {
-            "name": "Oklahoma State",
-            "team": "Oklahoma State",
-            "seed": "10:43.10"
+            "place": 3,
+            "name": "",
+            "team": "IOWA STATE4Iowa State",
+            "mark": ""
           },
           {
-            "name": "Florida",
-            "team": "Florida",
-            "seed": "10:46.45"
+            "place": 4,
+            "name": "",
+            "team": "FLORIDA9Florida",
+            "mark": ""
           },
           {
-            "name": "Utah",
-            "team": "Utah",
-            "seed": "10:47.98"
+            "place": 5,
+            "name": "",
+            "team": "NC STATE8NC State",
+            "mark": ""
           },
           {
-            "name": "Iowa State",
-            "team": "Iowa State",
-            "seed": "10:44.11"
+            "place": 6,
+            "name": "",
+            "team": "BYU1BYU",
+            "mark": ""
           },
           {
-            "name": "Arkansas",
-            "team": "Arkansas",
-            "seed": "10:44.09"
+            "place": 7,
+            "name": "",
+            "team": "UTAH12Utah",
+            "mark": ""
           },
           {
-            "name": "BYU",
-            "team": "BYU",
-            "seed": "10:41.85"
-          },
-          {
-            "name": "North Carolina",
-            "team": "North Carolina",
-            "seed": "10:46.62"
-          },
-          {
-            "name": "Oregon",
-            "team": "Oregon",
-            "seed": "10:59.74"
-          },
-          {
-            "name": "South Carolina",
-            "team": "South Carolina",
-            "seed": "10:45.64"
-          },
-          {
-            "name": "NC State",
-            "team": "NC State",
-            "seed": "10:46.00"
+            "place": 8,
+            "name": "",
+            "team": "OKLAHOMA STATE2Oklahoma State",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "BYU": 10.0,
-          "Oklahoma State": 8.0,
-          "Arkansas": 6.0,
-          "Iowa State": 5.0,
-          "Washington": 4.0,
-          "South Carolina": 3.0,
-          "NC State": 2.0,
-          "Florida": 1.0
+          "OREGON37Oregon": 10.0,
+          "SOUTH CAROLINA6South Carolina": 8.0,
+          "IOWA STATE4Iowa State": 6.0,
+          "FLORIDA9Florida": 5.0,
+          "NC STATE8NC State": 4.0,
+          "BYU1BYU": 3.0,
+          "UTAH12Utah": 2.0,
+          "OKLAHOMA STATE2Oklahoma State": 1.0
         }
       },
       {
@@ -1715,98 +1748,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/032-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/032-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Elle Adrian",
-            "team": "Michigan State",
-            "seed": "22.50m73-10"
-          },
-          {
+            "place": 1,
             "name": "Anthonett Nabwe",
             "team": "Minnesota",
-            "seed": "24.67m80-11\u00bc"
+            "mark": "PB"
           },
           {
-            "name": "Jordan Koskondy",
-            "team": "Illinois",
-            "seed": "23.59m77-4\u00be"
-          },
-          {
-            "name": "Hadley Streit",
-            "team": "Minnesota",
-            "seed": "22.41m73-6\u00bc"
-          },
-          {
-            "name": "Monique Hardy",
-            "team": "Kansas State",
-            "seed": "22.12m72-7"
-          },
-          {
-            "name": "Kali Terza",
-            "team": "Kennesaw State",
-            "seed": "22.50m73-10"
-          },
-          {
-            "name": "Tania Da Silva",
-            "team": "Miami (Fla.)",
-            "seed": "21.82m71-7\u00bc"
-          },
-          {
-            "name": "Oluwatomilayo Akintunde",
-            "team": "Illinois",
-            "seed": "22.18m72-9\u00bc"
-          },
-          {
-            "name": "Kennedy Clarke",
-            "team": "Oklahoma",
-            "seed": "21.70m71-2\u00bd"
-          },
-          {
-            "name": "Kellyn Kortemeyer",
-            "team": "Nebraska",
-            "seed": "22.00m72-2\u00bc"
-          },
-          {
-            "name": "Akaoma Odeluga",
-            "team": "Ole Miss",
-            "seed": "23.08m75-8\u00be"
-          },
-          {
-            "name": "Giavonna Meeks",
-            "team": "Texas",
-            "seed": "24.49m80-4\u00bc"
-          },
-          {
+            "place": 2,
             "name": "Phethisang Makhethe",
             "team": "Illinois",
-            "seed": "23.70m77-9\u00bc"
+            "mark": "PB"
           },
           {
-            "name": "Taylor Kesner",
-            "team": "Wisconsin",
-            "seed": "22.25m73-0"
+            "place": 3,
+            "name": "Giavonna Meeks",
+            "team": "Texas",
+            "mark": ""
           },
           {
+            "place": 4,
+            "name": "Akaoma Odeluga",
+            "team": "Ole Miss",
+            "mark": "PB"
+          },
+          {
+            "place": 5,
+            "name": "Jordan Koskondy",
+            "team": "Illinois",
+            "mark": ""
+          },
+          {
+            "place": 6,
             "name": "Kajsa Borrman",
             "team": "Colorado St.",
-            "seed": "22.16m72-8\u00bd"
+            "mark": "PB"
           },
           {
-            "name": "Skylar Soli",
-            "team": "Ole Miss",
-            "seed": "22.34m73-3\u00bd"
+            "place": 7,
+            "name": "Taylor Kesner",
+            "team": "Wisconsin",
+            "mark": "SB"
+          },
+          {
+            "place": 8,
+            "name": "Kali Terza",
+            "team": "Kennesaw State",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Michigan State": 10.0,
-          "Minnesota": 13.0,
-          "Illinois": 7.0,
-          "Kansas State": 4.0,
-          "Kennesaw State": 3.0,
-          "Miami (Fla.)": 2.0
+          "Minnesota": 10.0,
+          "Illinois": 12.0,
+          "Texas": 6.0,
+          "Ole Miss": 5.0,
+          "Colorado St.": 3.0,
+          "Wisconsin": 2.0,
+          "Kennesaw State": 1.0
         }
       },
       {
@@ -2080,7 +2082,7 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-2_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-2.htm",
-        "status": "scheduled",
+        "status": "final",
         "results": [],
         "prelim_results": [],
         "start_list_entries": [],
@@ -2098,10 +2100,68 @@
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/024-2.htm",
         "status": "final",
-        "results": [],
+        "results": [
+          {
+            "place": 1,
+            "name": "Yanla Ndjip-Nyemeck",
+            "team": "UCLA",
+            "mark": "=PB"
+          },
+          {
+            "place": 1,
+            "name": "Aaliyah McCormick",
+            "team": "Oregon",
+            "mark": ""
+          },
+          {
+            "place": 3,
+            "name": "Jaiya Covington",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Maddi Cooper",
+            "team": "Georgia",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Emmi Scales",
+            "team": "Kentucky",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Akala Garrett",
+            "team": "South Carolina",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Ana-Liese Torian",
+            "team": "Auburn",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Oneka Wilson",
+            "team": "Clemson",
+            "mark": ""
+          }
+        ],
         "prelim_results": [],
         "start_list_entries": [],
-        "seed_projection": {}
+        "seed_projection": {
+          "UCLA": 9.0,
+          "Oregon": 9.0,
+          "Texas A&M": 6.0,
+          "Georgia": 5.0,
+          "Kentucky": 4.0,
+          "South Carolina": 3.0,
+          "Auburn": 2.0,
+          "Clemson": 1.0
+        }
       },
       {
         "event_name": "Women 3000 M",
@@ -2812,57 +2872,75 @@
           "Auburn": 2.0,
           "Clemson": 1.0
         }
-      }
-    ],
-    "leverage": [
+      },
       {
         "event": "Women 5000 M",
-        "total_points": 39,
-        "top_teams": [
-          "BYU",
-          "Alabama",
-          "Arkansas",
-          "Eastern Kentucky",
-          "New Mexico"
-        ],
-        "n_entries": 16
+        "winner": "Jane Hedengren",
+        "team": "BYU",
+        "mark": "FR",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "BYU": 10.0,
+          "Alabama": 8.0,
+          "New Mexico": 6.0,
+          "Florida": 9.0,
+          "Eastern Kentucky": 3.0,
+          "West Virginia": 2.0,
+          "Arkansas": 1.0
+        }
       },
       {
         "event": "Women 200 M",
-        "total_points": 39,
-        "top_teams": [
-          "Georgia",
-          "TCU",
-          "Baylor",
-          "South Carolina",
-          "Texas A&M"
-        ],
-        "n_entries": 16
+        "winner": "Adaejah Hodge",
+        "team": "Georgia",
+        "mark": "PBFR",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "Georgia": 10.0,
+          "South Carolina": 8.0,
+          "Baylor": 6.0,
+          "Florida": 5.0,
+          "Texas A&M": 4.0,
+          "TCU": 3.0,
+          "Texas": 2.0,
+          "USC": 1.0
+        }
       },
       {
         "event": "Women Distance Medley Relay",
-        "total_points": 39,
-        "top_teams": [
-          "BYU",
-          "Oklahoma State",
-          "Arkansas",
-          "Iowa State",
-          "Washington"
-        ],
-        "n_entries": 12
+        "winner": "",
+        "team": "OREGON37Oregon",
+        "mark": "SB",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "OREGON37Oregon": 10.0,
+          "SOUTH CAROLINA6South Carolina": 8.0,
+          "IOWA STATE4Iowa State": 6.0,
+          "FLORIDA9Florida": 5.0,
+          "NC STATE8NC State": 4.0,
+          "BYU1BYU": 3.0,
+          "UTAH12Utah": 2.0,
+          "OKLAHOMA STATE2Oklahoma State": 1.0
+        }
       },
       {
         "event": "Women Weight",
-        "total_points": 39,
-        "top_teams": [
-          "Michigan State",
-          "Minnesota",
-          "Illinois",
-          "Kansas State",
-          "Kennesaw State"
-        ],
-        "n_entries": 16
-      },
+        "winner": "Anthonett Nabwe",
+        "team": "Minnesota",
+        "mark": "PB",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "Minnesota": 10.0,
+          "Illinois": 12.0,
+          "Texas": 6.0,
+          "Ole Miss": 5.0,
+          "Colorado St.": 3.0,
+          "Wisconsin": 2.0,
+          "Kennesaw State": 1.0
+        }
+      }
+    ],
+    "leverage": [
       {
         "event": "Women 3000 M",
         "total_points": 39,
@@ -2939,37 +3017,11 @@
     "scenarios": {
       "Alabama": {
         "team": "Alabama",
-        "current": 0.0,
+        "current": 8.0,
         "scenario_a": 18.0,
-        "scenario_b": 30.0,
+        "scenario_b": 28.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Doris Lemngole",
-                "seed_mark": "14:51.21",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Caren Kiplagat",
-                "seed_mark": "15:12.56",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Caren Kiplagat",
-                "seed_mark": "15:12.56"
-              }
-            ]
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -3056,41 +3108,11 @@
       },
       "Arkansas": {
         "team": "Arkansas",
-        "current": 16.0,
-        "scenario_a": 46.0,
-        "scenario_b": 56.0,
+        "current": 17.0,
+        "scenario_a": 35.0,
+        "scenario_b": 37.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Sydney Vaught",
-                "seed_mark": "15:02.52",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Arkansas",
-                "seed_mark": "10:44.09",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 4x400 Meter Relay",
             "athletes": [
@@ -3131,9 +3153,9 @@
       },
       "Auburn": {
         "team": "Auburn",
-        "current": 2.0,
-        "scenario_a": 2.0,
-        "scenario_b": 12.0,
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 14.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -3166,41 +3188,11 @@
       },
       "BYU": {
         "team": "BYU",
-        "current": 10.0,
-        "scenario_a": 43.0,
-        "scenario_b": 40.0,
+        "current": 20.0,
+        "scenario_a": 33.0,
+        "scenario_b": 30.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Jane Hedengren",
-                "seed_mark": "14:44.79",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "BYU",
-                "seed_mark": "10:41.85",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -3230,28 +3222,21 @@
           }
         ]
       },
+      "BYU1BYU": {
+        "team": "BYU1BYU",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Baylor": {
         "team": "Baylor",
-        "current": 0.0,
+        "current": 6.0,
         "scenario_a": 10.0,
-        "scenario_b": 20.0,
+        "scenario_b": 16.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Tiriah Kelley",
-                "seed_mark": "22.53",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women Pole Vault",
             "athletes": [
@@ -3273,36 +3258,15 @@
         "team": "Boston College",
         "current": 16.0,
         "scenario_a": 16.0,
-        "scenario_b": 26.0,
+        "scenario_b": 16.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Boston College",
-                "seed_mark": "10:47.53",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Boston College",
-                "seed_mark": "10:47.53"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Clemson": {
         "team": "Clemson",
-        "current": 21.0,
-        "scenario_a": 29.0,
-        "scenario_b": 31.0,
+        "current": 22.0,
+        "scenario_a": 30.0,
+        "scenario_b": 32.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -3330,6 +3294,30 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "Colorado St.": {
+        "team": "Colorado St.",
+        "current": 3.0,
+        "scenario_a": 8.0,
+        "scenario_b": 13.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Women Shot Put",
+            "athletes": [
+              {
+                "athlete": "Makayla Long",
+                "seed_mark": "17.69m58-\u00bd",
+                "proj_place": 4,
+                "seed_pts": 5
+              }
+            ],
+            "scenario_a_pts": 5.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          }
+        ]
+      },
       "Duquesne": {
         "team": "Duquesne",
         "current": 2.0,
@@ -3338,69 +3326,29 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "Eastern Kentucky": {
+        "team": "Eastern Kentucky",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "FLORIDA9Florida": {
+        "team": "FLORIDA9Florida",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Florida": {
         "team": "Florida",
-        "current": 8.0,
-        "scenario_a": 19.0,
-        "scenario_b": 78.0,
+        "current": 22.0,
+        "scenario_a": 31.0,
+        "scenario_b": 62.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Hilda Olemomoi",
-                "seed_mark": "15:08.61",
-                "proj_place": 8,
-                "seed_pts": 1
-              },
-              {
-                "athlete": "Judy Chepkoech",
-                "seed_mark": "15:12.57",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Gabrielle Matthews",
-                "seed_mark": "22.87",
-                "proj_place": 11,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Gabrielle Matthews",
-                "seed_mark": "22.87"
-              }
-            ]
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Florida",
-                "seed_mark": "10:46.45",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -3486,26 +3434,11 @@
       },
       "Georgia": {
         "team": "Georgia",
-        "current": 21.0,
-        "scenario_a": 38.0,
-        "scenario_b": 61.0,
+        "current": 36.0,
+        "scenario_a": 43.0,
+        "scenario_b": 66.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Adaejah Hodge",
-                "seed_mark": "22.32",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 4x400 Meter Relay",
             "athletes": [
@@ -3566,6 +3499,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "IOWA STATE4Iowa State": {
+        "team": "IOWA STATE4Iowa State",
+        "current": 6.0,
+        "scenario_a": 6.0,
+        "scenario_b": 6.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Idaho": {
         "team": "Idaho",
         "current": 0.0,
@@ -3576,38 +3517,11 @@
       },
       "Illinois": {
         "team": "Illinois",
-        "current": 10.0,
-        "scenario_a": 25.0,
-        "scenario_b": 50.0,
+        "current": 22.0,
+        "scenario_a": 30.0,
+        "scenario_b": 52.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Jordan Koskondy",
-                "seed_mark": "23.59m77-4\u00be",
-                "proj_place": 3,
-                "seed_pts": 6
-              },
-              {
-                "athlete": "Oluwatomilayo Akintunde",
-                "seed_mark": "22.18m72-9\u00bc",
-                "proj_place": 8,
-                "seed_pts": 1
-              },
-              {
-                "athlete": "Phethisang Makhethe",
-                "seed_mark": "23.70m77-9\u00bc",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 7.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women High Jump",
             "athletes": [
@@ -3727,45 +3641,10 @@
       "Iowa State": {
         "team": "Iowa State",
         "current": 20.0,
-        "scenario_a": 26.0,
-        "scenario_b": 50.0,
+        "scenario_a": 21.0,
+        "scenario_b": 30.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Mercyline Kirwa",
-                "seed_mark": "15:09.13",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Mercyline Kirwa",
-                "seed_mark": "15:09.13"
-              }
-            ]
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Iowa State",
-                "seed_mark": "10:44.11",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -3786,25 +3665,10 @@
       "Kansas State": {
         "team": "Kansas State",
         "current": 5.0,
-        "scenario_a": 28.0,
-        "scenario_b": 35.0,
+        "scenario_a": 24.0,
+        "scenario_b": 25.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Monique Hardy",
-                "seed_mark": "22.12m72-7",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women High Jump",
             "athletes": [
@@ -3843,11 +3707,19 @@
           }
         ]
       },
+      "Kennesaw State": {
+        "team": "Kennesaw State",
+        "current": 1.0,
+        "scenario_a": 1.0,
+        "scenario_b": 1.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Kentucky": {
         "team": "Kentucky",
-        "current": 6.0,
-        "scenario_a": 14.0,
-        "scenario_b": 26.0,
+        "current": 10.0,
+        "scenario_a": 18.0,
+        "scenario_b": 30.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -3886,25 +3758,9 @@
         "team": "LSU",
         "current": 0.0,
         "scenario_a": 0.0,
-        "scenario_b": 10.0,
+        "scenario_b": 0.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Keliza Smith",
-                "seed_mark": "22.91",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Michigan": {
         "team": "Michigan",
@@ -3932,32 +3788,11 @@
       },
       "Minnesota": {
         "team": "Minnesota",
-        "current": 8.0,
-        "scenario_a": 29.0,
+        "current": 18.0,
+        "scenario_a": 26.0,
         "scenario_b": 38.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Anthonett Nabwe",
-                "seed_mark": "24.67m80-11\u00bc",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Hadley Streit",
-                "seed_mark": "22.41m73-6\u00bc",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 13.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women Shot Put",
             "athletes": [
@@ -3990,28 +3825,21 @@
           }
         ]
       },
+      "NC STATE8NC State": {
+        "team": "NC STATE8NC State",
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 4.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "NC State": {
         "team": "NC State",
         "current": 0.0,
-        "scenario_a": 2.0,
-        "scenario_b": 20.0,
+        "scenario_a": 0.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "NC State",
-                "seed_mark": "10:46.00",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -4037,20 +3865,26 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
-      "Notre Dame": {
-        "team": "Notre Dame",
-        "current": 0.0,
-        "scenario_a": 0.0,
-        "scenario_b": 10.0,
+      "New Mexico": {
+        "team": "New Mexico",
+        "current": 6.0,
+        "scenario_a": 6.0,
+        "scenario_b": 16.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
-            "event": "Women 5000 M",
+            "event": "Women 3000 M",
             "athletes": [
               {
-                "athlete": "Mary Bonner Dalton",
-                "seed_mark": "15:11.31",
+                "athlete": "Pamela Kosgei",
+                "seed_mark": "8:44.91",
                 "proj_place": 10,
+                "seed_pts": 0
+              },
+              {
+                "athlete": "Marion Jepngetich",
+                "seed_mark": "8:45.20",
+                "proj_place": 11,
                 "seed_pts": 0
               }
             ],
@@ -4059,12 +3893,40 @@
             "scenario_c_pts": 0,
             "swing_athletes": [
               {
-                "athlete": "Mary Bonner Dalton",
-                "seed_mark": "15:11.31"
+                "athlete": "Pamela Kosgei",
+                "seed_mark": "8:44.91"
+              },
+              {
+                "athlete": "Marion Jepngetich",
+                "seed_mark": "8:45.20"
               }
             ]
           }
         ]
+      },
+      "Notre Dame": {
+        "team": "Notre Dame",
+        "current": 0.0,
+        "scenario_a": 0.0,
+        "scenario_b": 0.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "OKLAHOMA STATE2Oklahoma State": {
+        "team": "OKLAHOMA STATE2Oklahoma State",
+        "current": 1.0,
+        "scenario_a": 1.0,
+        "scenario_b": 1.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "OREGON37Oregon": {
+        "team": "OREGON37Oregon",
+        "current": 10.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "Ohio St.": {
         "team": "Ohio St.",
@@ -4076,37 +3938,11 @@
       },
       "Ole Miss": {
         "team": "Ole Miss",
-        "current": 8.0,
-        "scenario_a": 8.0,
-        "scenario_b": 28.0,
+        "current": 13.0,
+        "scenario_a": 13.0,
+        "scenario_b": 23.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Akaoma Odeluga",
-                "seed_mark": "23.08m75-8\u00be",
-                "proj_place": 11,
-                "seed_pts": 0
-              },
-              {
-                "athlete": "Skylar Soli",
-                "seed_mark": "22.34m73-3\u00bd",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Akaoma Odeluga",
-                "seed_mark": "23.08m75-8\u00be"
-              }
-            ]
-          },
           {
             "event": "Women Shot Put",
             "athletes": [
@@ -4131,46 +3967,11 @@
       },
       "Oregon": {
         "team": "Oregon",
-        "current": 43.0,
-        "scenario_a": 48.0,
-        "scenario_b": 73.0,
+        "current": 52.0,
+        "scenario_a": 57.0,
+        "scenario_b": 62.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Diana Cherotich",
-                "seed_mark": "15:13.38",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Oregon",
-                "seed_mark": "10:59.74",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Oregon",
-                "seed_mark": "10:59.74"
-              }
-            ]
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -4196,43 +3997,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "SOUTH CAROLINA6South Carolina": {
+        "team": "SOUTH CAROLINA6South Carolina",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "South Carolina": {
         "team": "South Carolina",
-        "current": 3.0,
-        "scenario_a": 25.0,
-        "scenario_b": 53.0,
+        "current": 14.0,
+        "scenario_a": 28.0,
+        "scenario_b": 44.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "JaMeesia Ford",
-                "seed_mark": "22.58",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "South Carolina",
-                "seed_mark": "10:45.64",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -4283,25 +4062,10 @@
       "Stanford": {
         "team": "Stanford",
         "current": 24.0,
-        "scenario_a": 27.0,
-        "scenario_b": 44.0,
+        "scenario_a": 25.0,
+        "scenario_b": 34.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Sophia Kennedy",
-                "seed_mark": "15:07.90",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women High Jump",
             "athletes": [
@@ -4319,52 +4083,29 @@
           }
         ]
       },
+      "TCU": {
+        "team": "TCU",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Tarleton State": {
         "team": "Tarleton State",
         "current": 22.0,
         "scenario_a": 22.0,
-        "scenario_b": 32.0,
+        "scenario_b": 22.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Lauren Roy",
-                "seed_mark": "22.94",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Tennessee": {
         "team": "Tennessee",
         "current": 12.0,
         "scenario_a": 13.0,
-        "scenario_b": 42.0,
+        "scenario_b": 32.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Esther Joseph",
-                "seed_mark": "22.94",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women 4x400 Meter Relay",
             "athletes": [
@@ -4404,52 +4145,11 @@
       },
       "Texas": {
         "team": "Texas",
-        "current": 0.0,
-        "scenario_a": 4.0,
-        "scenario_b": 30.0,
+        "current": 8.0,
+        "scenario_a": 11.0,
+        "scenario_b": 18.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Elise Cooper",
-                "seed_mark": "22.80",
-                "proj_place": 8,
-                "seed_pts": 1
-              },
-              {
-                "athlete": "Carleta Bernard",
-                "seed_mark": "22.94",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Giavonna Meeks",
-                "seed_mark": "24.49m80-4\u00bc",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Giavonna Meeks",
-                "seed_mark": "24.49m80-4\u00bc"
-              }
-            ]
-          },
           {
             "event": "Women 4x400 Meter Relay",
             "athletes": [
@@ -4469,26 +4169,11 @@
       },
       "Texas A&M": {
         "team": "Texas A&M",
-        "current": 10.0,
-        "scenario_a": 14.0,
+        "current": 20.0,
+        "scenario_a": 20.0,
         "scenario_b": 30.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Camryn Dickson",
-                "seed_mark": "22.62",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women Pole Vault",
             "athletes": [
@@ -4508,9 +4193,9 @@
       },
       "UCLA": {
         "team": "UCLA",
-        "current": 9.0,
-        "scenario_a": 9.0,
-        "scenario_b": 29.0,
+        "current": 18.0,
+        "scenario_a": 18.0,
+        "scenario_b": 38.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -4557,43 +4242,11 @@
       },
       "USC": {
         "team": "USC",
-        "current": 8.0,
-        "scenario_a": 27.0,
-        "scenario_b": 38.0,
+        "current": 9.0,
+        "scenario_a": 23.0,
+        "scenario_b": 29.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Christine Mallard",
-                "seed_mark": "22.77",
-                "proj_place": 6,
-                "seed_pts": 3
-              },
-              {
-                "athlete": "Dajaz Defrand",
-                "seed_mark": "22.79",
-                "proj_place": 7,
-                "seed_pts": 2
-              },
-              {
-                "athlete": "Mia Brahe-Pedersen",
-                "seed_mark": "22.85",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Mia Brahe-Pedersen",
-                "seed_mark": "22.85"
-              }
-            ]
-          },
           {
             "event": "Women 4x400 Meter Relay",
             "athletes": [
@@ -4634,6 +4287,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "UTAH12Utah": {
+        "team": "UTAH12Utah",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "UTSA": {
         "team": "UTSA",
         "current": 3.0,
@@ -4646,49 +4307,9 @@
         "team": "Utah",
         "current": 2.0,
         "scenario_a": 2.0,
-        "scenario_b": 32.0,
+        "scenario_b": 12.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 200 M",
-            "athletes": [
-              {
-                "athlete": "Chelsea Amoah",
-                "seed_mark": "22.84",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Chelsea Amoah",
-                "seed_mark": "22.84"
-              }
-            ]
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Utah",
-                "seed_mark": "10:47.98",
-                "proj_place": 11,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Utah",
-                "seed_mark": "10:47.98"
-              }
-            ]
-          },
           {
             "event": "Women 3000 M",
             "athletes": [
@@ -4717,40 +4338,10 @@
       "Washington": {
         "team": "Washington",
         "current": 4.0,
-        "scenario_a": 18.0,
-        "scenario_b": 34.0,
+        "scenario_a": 14.0,
+        "scenario_b": 14.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Women 5000 M",
-            "athletes": [
-              {
-                "athlete": "Chloe Thomas",
-                "seed_mark": "15:16.93",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Women Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Washington",
-                "seed_mark": "10:45.03",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Women Pole Vault",
             "athletes": [
@@ -4782,29 +4373,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "West Virginia": {
+        "team": "West Virginia",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Wisconsin": {
         "team": "Wisconsin",
-        "current": 0.0,
-        "scenario_a": 0.0,
-        "scenario_b": 10.0,
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Women Weight",
-            "athletes": [
-              {
-                "athlete": "Taylor Kesner",
-                "seed_mark": "22.25m73-0",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       }
     },
     "variance": {}
@@ -4813,61 +4396,83 @@
     "team_scores": [
       {
         "team": "Arkansas",
-        "actual": 48.0,
-        "seed_projection": 71.0,
-        "ceiling": 71.0,
-        "mc_forecast": 71.9,
+        "actual": 84.0,
+        "seed_projection": 92.0,
+        "ceiling": 92.0,
+        "mc_forecast": 92.2,
         "premeet_projection": 23.0,
-        "win_probability": 99.7,
+        "win_probability": 100.0,
         "top4_probability": 100.0,
         "events_scored": [
           "Men 60 M (10.0pt)",
           "Men 400 M (6.0pt)",
           "Men 800 M (16.0pt)",
+          "Men 60 M Hurdles (6.0pt)",
+          "Men 5000 M (6.0pt)",
+          "Men 200 M (8.0pt)",
           "Men 60 M (10.0pt)",
-          "Men 400 M (6.0pt)"
+          "Men 400 M (6.0pt)",
+          "Men 800 M (16.0pt)"
         ]
       },
       {
         "team": "Florida",
-        "actual": 22.0,
-        "seed_projection": 56.0,
-        "ceiling": 56.0,
-        "mc_forecast": 54.7,
+        "actual": 31.0,
+        "seed_projection": 54.0,
+        "ceiling": 54.0,
+        "mc_forecast": 51.6,
         "premeet_projection": 67.0,
-        "win_probability": 0.3,
+        "win_probability": 0.0,
         "top4_probability": 100.0,
         "events_scored": [
           "Men 400 M (11.0pt)",
+          "Men 200 M (6.0pt)",
+          "Men Long Jump (3.0pt)",
           "Men 400 M (11.0pt)"
         ]
       },
       {
         "team": "Penn State",
-        "actual": 23.0,
-        "seed_projection": 33.0,
-        "ceiling": 33.0,
-        "mc_forecast": 32.7,
+        "actual": 38.0,
+        "seed_projection": 48.0,
+        "ceiling": 48.0,
+        "mc_forecast": 46.6,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 63.4,
+        "top4_probability": 100.0,
         "events_scored": [
           "Men 60 M (2.0pt)",
           "Men 400 M (2.0pt)",
           "Men 800 M (15.0pt)",
           "Men 60 M (2.0pt)",
-          "Men 400 M (2.0pt)"
+          "Men 400 M (2.0pt)",
+          "Men 800 M (15.0pt)"
+        ]
+      },
+      {
+        "team": "Auburn",
+        "actual": 36.0,
+        "seed_projection": 36.0,
+        "ceiling": 36.0,
+        "mc_forecast": 36.0,
+        "premeet_projection": 5.0,
+        "win_probability": 0.0,
+        "top4_probability": 100.0,
+        "events_scored": [
+          "Men 60 M (13.0pt)",
+          "Men 60 M Hurdles (10.0pt)",
+          "Men 60 M (13.0pt)"
         ]
       },
       {
         "team": "Virginia",
         "actual": 29.0,
-        "seed_projection": 33.0,
-        "ceiling": 33.0,
-        "mc_forecast": 33.0,
+        "seed_projection": 29.0,
+        "ceiling": 29.0,
+        "mc_forecast": 29.0,
         "premeet_projection": 5.0,
         "win_probability": 0.0,
-        "top4_probability": 80.2,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 1 Mile (10.0pt)",
           "Men Weight (9.0pt)",
@@ -4875,28 +4480,14 @@
         ]
       },
       {
-        "team": "Auburn",
-        "actual": 26.0,
-        "seed_projection": 30.5,
-        "ceiling": 31.0,
-        "mc_forecast": 31.1,
-        "premeet_projection": 5.0,
-        "win_probability": 0.0,
-        "top4_probability": 32.4,
-        "events_scored": [
-          "Men 60 M (13.0pt)",
-          "Men 60 M (13.0pt)"
-        ]
-      },
-      {
         "team": "Iowa",
         "actual": 28.0,
         "seed_projection": 28.0,
         "ceiling": 28.0,
-        "mc_forecast": 28.2,
+        "mc_forecast": 28.0,
         "premeet_projection": 1.0,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 60 M (9.0pt)",
           "Men Weight (10.0pt)",
@@ -4904,102 +4495,67 @@
         ]
       },
       {
-        "team": "Oregon",
-        "actual": 17.0,
-        "seed_projection": 28.0,
-        "ceiling": 27.0,
-        "mc_forecast": 28.8,
-        "premeet_projection": 77.0,
-        "win_probability": 0.0,
-        "top4_probability": 14.8,
-        "events_scored": [
-          "Men 1 Mile (7.0pt)",
-          "Men 800 M (3.0pt)",
-          "Men 1 Mile (7.0pt)"
-        ]
-      },
-      {
         "team": "South Carolina",
-        "actual": 16.0,
-        "seed_projection": 27.0,
+        "actual": 18.0,
+        "seed_projection": 28.0,
         "ceiling": 28.0,
         "mc_forecast": 26.5,
         "premeet_projection": 14.0,
         "win_probability": 0.0,
-        "top4_probability": 2.2,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 1 Mile (3.0pt)",
           "Men 400 M (5.0pt)",
+          "Men 200 M (2.0pt)",
           "Men 1 Mile (3.0pt)",
           "Men 400 M (5.0pt)"
         ]
       },
       {
         "team": "Texas A&M",
-        "actual": 14.4,
-        "seed_projection": 26.9,
+        "actual": 22.4,
+        "seed_projection": 25.4,
         "ceiling": 25.4,
-        "mc_forecast": 25.7,
+        "mc_forecast": 25.5,
         "premeet_projection": 25.0,
         "win_probability": 0.0,
-        "top4_probability": 3.9,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 800 M (4.0pt)",
+          "Men 60 M Hurdles (4.0pt)",
           "Men Weight (5.0pt)",
-          "Men Pole Vault (5.4pt)"
-        ]
-      },
-      {
-        "team": "Washington",
-        "actual": 21.4,
-        "seed_projection": 24.4,
-        "ceiling": 24.4,
-        "mc_forecast": 24.5,
-        "premeet_projection": 3.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.3,
-        "events_scored": [
-          "Men 1 Mile (8.0pt)",
           "Men Pole Vault (5.4pt)",
-          "Men 1 Mile (8.0pt)"
+          "Men 800 M (4.0pt)"
         ]
-      },
-      {
-        "team": "Villanova",
-        "actual": 0.0,
-        "seed_projection": 24.0,
-        "ceiling": 23.0,
-        "mc_forecast": 20.8,
-        "premeet_projection": 8.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.1,
-        "events_scored": []
       },
       {
         "team": "Kansas State",
-        "actual": 4.0,
-        "seed_projection": 23.0,
-        "ceiling": 23.0,
-        "mc_forecast": 22.8,
+        "actual": 14.0,
+        "seed_projection": 25.0,
+        "ceiling": 25.0,
+        "mc_forecast": 25.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.4,
+        "top4_probability": 0.0,
         "events_scored": [
-          "Men Weight (4.0pt)"
+          "Men Weight (4.0pt)",
+          "Men Long Jump (10.0pt)"
         ]
       },
       {
-        "team": "Tennessee",
-        "actual": 12.9,
-        "seed_projection": 22.9,
-        "ceiling": 22.9,
-        "mc_forecast": 23.2,
-        "premeet_projection": 30.0,
+        "team": "Oregon",
+        "actual": 20.0,
+        "seed_projection": 23.0,
+        "ceiling": 22.0,
+        "mc_forecast": 24.3,
+        "premeet_projection": 77.0,
         "win_probability": 0.0,
-        "top4_probability": 0.7,
+        "top4_probability": 0.0,
         "events_scored": [
-          "Men Weight (2.0pt)",
-          "Men Pole Vault (10.9pt)"
+          "Men 1 Mile (7.0pt)",
+          "Men 800 M (3.0pt)",
+          "Men 1 Mile (7.0pt)",
+          "Men 800 M (3.0pt)"
         ]
       },
       {
@@ -5017,109 +4573,151 @@
         ]
       },
       {
+        "team": "Washington",
+        "actual": 21.4,
+        "seed_projection": 21.4,
+        "ceiling": 21.4,
+        "mc_forecast": 21.4,
+        "premeet_projection": 3.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 1 Mile (8.0pt)",
+          "Men Pole Vault (5.4pt)",
+          "Men 1 Mile (8.0pt)"
+        ]
+      },
+      {
+        "team": "Tennessee",
+        "actual": 12.9,
+        "seed_projection": 19.9,
+        "ceiling": 19.9,
+        "mc_forecast": 20.1,
+        "premeet_projection": 30.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight (2.0pt)",
+          "Men Pole Vault (10.9pt)"
+        ]
+      },
+      {
+        "team": "Texas Tech",
+        "actual": 14.0,
+        "seed_projection": 18.0,
+        "ceiling": 19.0,
+        "mc_forecast": 18.3,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 60 M (4.0pt)",
+          "Men 60 M Hurdles (6.0pt)",
+          "Men 60 M (4.0pt)"
+        ]
+      },
+      {
+        "team": "Villanova",
+        "actual": 8.0,
+        "seed_projection": 18.0,
+        "ceiling": 18.0,
+        "mc_forecast": 16.4,
+        "premeet_projection": 8.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 M (8.0pt)"
+        ]
+      },
+      {
         "team": "Oklahoma",
         "actual": 0.0,
-        "seed_projection": 22.0,
-        "ceiling": 18.0,
-        "mc_forecast": 20.9,
+        "seed_projection": 16.0,
+        "ceiling": 12.0,
+        "mc_forecast": 14.5,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
-        "top4_probability": 0.4,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
         "team": "Virginia Tech",
         "actual": 12.0,
-        "seed_projection": 22.0,
-        "ceiling": 22.0,
-        "mc_forecast": 22.3,
+        "seed_projection": 16.0,
+        "ceiling": 16.0,
+        "mc_forecast": 16.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.3,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 1 Mile (6.0pt)",
           "Men 1 Mile (6.0pt)"
         ]
       },
       {
-        "team": "Texas Tech",
-        "actual": 8.0,
-        "seed_projection": 21.0,
-        "ceiling": 21.0,
-        "mc_forecast": 21.8,
+        "team": "USC",
+        "actual": 10.0,
+        "seed_projection": 14.0,
+        "ceiling": 14.0,
+        "mc_forecast": 14.1,
+        "premeet_projection": 8.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 200 M (10.0pt)"
+        ]
+      },
+      {
+        "team": "New Mexico",
+        "actual": 10.0,
+        "seed_projection": 13.0,
+        "ceiling": 13.0,
+        "mc_forecast": 13.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 0.9,
+        "top4_probability": 0.0,
         "events_scored": [
-          "Men 60 M (4.0pt)",
-          "Men 60 M (4.0pt)"
+          "Men 5000 M (10.0pt)"
         ]
       },
       {
         "team": "Texas",
-        "actual": 0.0,
-        "seed_projection": 16.5,
-        "ceiling": 16.0,
-        "mc_forecast": 15.8,
+        "actual": 2.0,
+        "seed_projection": 13.0,
+        "ceiling": 13.0,
+        "mc_forecast": 12.5,
         "premeet_projection": 23.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "USC",
-        "actual": 0.0,
-        "seed_projection": 14.0,
-        "ceiling": 14.0,
-        "mc_forecast": 12.6,
-        "premeet_projection": 8.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "New Mexico",
-        "actual": 0.0,
-        "seed_projection": 13.0,
-        "ceiling": 13.0,
-        "mc_forecast": 12.9,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "LSU",
-        "actual": 0.0,
-        "seed_projection": 12.0,
-        "ceiling": 13.0,
-        "mc_forecast": 10.6,
-        "premeet_projection": 53.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Michigan",
-        "actual": 0.0,
-        "seed_projection": 10.0,
-        "ceiling": 10.0,
-        "mc_forecast": 8.4,
-        "premeet_projection": 5.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men 60 M Hurdles (2.0pt)"
+        ]
       },
       {
         "team": "North Carolina",
-        "actual": 0.0,
-        "seed_projection": 10.0,
-        "ceiling": 10.0,
-        "mc_forecast": 9.4,
+        "actual": 4.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 11.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men 5000 M (4.0pt)"
+        ]
+      },
+      {
+        "team": "NORTHERN ARIZONA6Northern Arizona",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Distance Medley Relay (10.0pt)"
+        ]
       },
       {
         "team": "Ole Miss",
@@ -5135,27 +4733,56 @@
         ]
       },
       {
-        "team": "Samford",
-        "actual": 0.0,
+        "team": "Tarleton State",
+        "actual": 10.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.3,
+        "mc_forecast": 10.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Long Jump (10.0pt)"
+        ]
+      },
+      {
+        "team": "Kentucky",
+        "actual": 3.0,
+        "seed_projection": 9.0,
+        "ceiling": 9.0,
+        "mc_forecast": 9.3,
+        "premeet_projection": 2.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 200 M (3.0pt)"
+        ]
+      },
+      {
+        "team": "ARKANSAS8Arkansas",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Distance Medley Relay (8.0pt)"
+        ]
       },
       {
         "team": "Georgia",
-        "actual": 6.0,
-        "seed_projection": 9.0,
-        "ceiling": 11.0,
-        "mc_forecast": 10.2,
+        "actual": 7.0,
+        "seed_projection": 8.0,
+        "ceiling": 10.0,
+        "mc_forecast": 9.1,
         "premeet_projection": 22.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
           "Men 400 M (3.0pt)",
+          "Men Long Jump (1.0pt)",
           "Men 400 M (3.0pt)"
         ]
       },
@@ -5174,6 +4801,32 @@
         ]
       },
       {
+        "team": "Samford",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 60 M Hurdles (8.0pt)"
+        ]
+      },
+      {
+        "team": "Southern Miss.",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Long Jump (8.0pt)"
+        ]
+      },
+      {
         "team": "Wake Forest",
         "actual": 8.0,
         "seed_projection": 8.0,
@@ -5188,26 +4841,17 @@
         ]
       },
       {
-        "team": "Kentucky",
-        "actual": 0.0,
+        "team": "BYU",
+        "actual": 1.0,
         "seed_projection": 7.0,
         "ceiling": 7.0,
-        "mc_forecast": 7.6,
-        "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "BYU",
-        "actual": 0.0,
-        "seed_projection": 6.0,
-        "ceiling": 6.0,
-        "mc_forecast": 6.5,
+        "mc_forecast": 7.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men 5000 M (1.0pt)"
+        ]
       },
       {
         "team": "Michigan State",
@@ -5221,22 +4865,24 @@
         "events_scored": []
       },
       {
-        "team": "Oklahoma State",
-        "actual": 0.0,
+        "team": "VIRGINIA TECH3Virginia Tech",
+        "actual": 6.0,
         "seed_projection": 6.0,
         "ceiling": 6.0,
-        "mc_forecast": 6.1,
+        "mc_forecast": 6.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Distance Medley Relay (6.0pt)"
+        ]
       },
       {
         "team": "Miami (Fla.)",
         "actual": 0.0,
         "seed_projection": 5.5,
         "ceiling": 6.0,
-        "mc_forecast": 6.3,
+        "mc_forecast": 6.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5293,18 +4939,70 @@
         ]
       },
       {
+        "team": "Arizona State",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 200 M (5.0pt)"
+        ]
+      },
+      {
+        "team": "Louisville",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 M (5.0pt)"
+        ]
+      },
+      {
+        "team": "MICHIGAN1Michigan",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Distance Medley Relay (5.0pt)"
+        ]
+      },
+      {
         "team": "Northern Arizona",
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.5,
+        "mc_forecast": 5.1,
         "premeet_projection": 32.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
-        "team": "Tarleton State",
+        "team": "Princeton",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 6.1,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Long Jump (5.0pt)"
+        ]
+      },
+      {
+        "team": "UTSA",
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
@@ -5315,40 +5013,33 @@
         "events_scored": []
       },
       {
-        "team": "UTSA",
-        "actual": 0.0,
-        "seed_projection": 5.0,
-        "ceiling": 5.0,
-        "mc_forecast": 5.0,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Baylor",
-        "actual": 0.0,
-        "seed_projection": 4.5,
-        "ceiling": 6.0,
-        "mc_forecast": 6.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Indiana",
-        "actual": 0.0,
+        "team": "Cal St. Fullerton",
+        "actual": 4.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
         "mc_forecast": 4.0,
-        "premeet_projection": 2.0,
+        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men 200 M (4.0pt)"
+        ]
       },
       {
-        "team": "Louisville",
+        "team": "LSU",
+        "actual": 2.0,
+        "seed_projection": 4.0,
+        "ceiling": 5.0,
+        "mc_forecast": 4.2,
+        "premeet_projection": 53.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Long Jump (2.0pt)"
+        ]
+      },
+      {
+        "team": "Miss State",
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
@@ -5359,37 +5050,56 @@
         "events_scored": []
       },
       {
-        "team": "Miss State",
-        "actual": 0.0,
+        "team": "WASHINGTON7Washington",
+        "actual": 4.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 3.9,
+        "mc_forecast": 4.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Distance Medley Relay (4.0pt)"
+        ]
       },
       {
-        "team": "Princeton",
-        "actual": 0.0,
-        "seed_projection": 4.0,
-        "ceiling": 4.0,
-        "mc_forecast": 5.3,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Arizona State",
-        "actual": 0.0,
+        "team": "BYU11BYU",
+        "actual": 3.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Distance Medley Relay (3.0pt)"
+        ]
+      },
+      {
+        "team": "Baylor",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 60 M Hurdles (3.0pt)"
+        ]
+      },
+      {
+        "team": "Iowa State",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 M (3.0pt)"
+        ]
       },
       {
         "team": "Missouri",
@@ -5434,13 +5144,66 @@
         "actual": 2.0,
         "seed_projection": 2.0,
         "ceiling": 2.0,
-        "mc_forecast": 2.1,
+        "mc_forecast": 2.0,
         "premeet_projection": 18.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
           "Men 1 Mile (1.0pt)",
           "Men 1 Mile (1.0pt)"
+        ]
+      },
+      {
+        "team": "OREGON2Oregon",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Distance Medley Relay (2.0pt)"
+        ]
+      },
+      {
+        "team": "Oklahoma State",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 M (2.0pt)"
+        ]
+      },
+      {
+        "team": "Penn",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 800 M (1.0pt)",
+          "Men 800 M (1.0pt)"
+        ]
+      },
+      {
+        "team": "COLORADO12Colorado",
+        "actual": 1.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Distance Medley Relay (1.0pt)"
         ]
       },
       {
@@ -5455,28 +5218,17 @@
         "events_scored": []
       },
       {
-        "team": "Penn",
+        "team": "Indiana",
         "actual": 1.0,
         "seed_projection": 1.0,
         "ceiling": 1.0,
         "mc_forecast": 1.0,
-        "premeet_projection": 0.0,
+        "premeet_projection": 2.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Men 800 M (1.0pt)"
+          "Men 200 M (1.0pt)"
         ]
-      },
-      {
-        "team": "Wisconsin",
-        "actual": 0.0,
-        "seed_projection": 1.0,
-        "ceiling": 1.0,
-        "mc_forecast": 1.3,
-        "premeet_projection": 6.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
       },
       {
         "team": "Air Force",
@@ -5506,28 +5258,6 @@
         "seed_projection": 0.0,
         "ceiling": 1.0,
         "mc_forecast": 0.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Cal St. Fullerton",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Clemson",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5567,17 +5297,6 @@
         "events_scored": []
       },
       {
-        "team": "Florida State",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.0,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Georgetown",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5603,20 +5322,9 @@
         "team": "Houston",
         "actual": 0.0,
         "seed_projection": 0.0,
-        "ceiling": 1.0,
-        "mc_forecast": 0.4,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
         "premeet_projection": 14.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Iowa State",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 1.0,
-        "mc_forecast": 1.0,
-        "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -5644,12 +5352,12 @@
         "events_scored": []
       },
       {
-        "team": "N. Carolina A&T",
+        "team": "Michigan",
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.2,
-        "premeet_projection": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 5.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -5732,17 +5440,6 @@
         "events_scored": []
       },
       {
-        "team": "Southern Miss.",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Stanford",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5774,9 +5471,20 @@
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "Wisconsin",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 6.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
       }
     ],
-    "completed_finals": 10,
+    "completed_finals": 17,
     "total_finals": 22,
     "events": [
       {
@@ -6083,99 +5791,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Jason Holmes",
-            "team": "N. Carolina A&T",
-            "seed": "7.55"
-          },
-          {
-            "name": "Jamar Marshall Jr.",
-            "team": "Houston",
-            "seed": "7.54"
-          },
-          {
-            "name": "Demario Prince",
-            "team": "Baylor",
-            "seed": "7.46"
-          },
-          {
-            "name": "Malachi Snow",
-            "team": "Texas Tech",
-            "seed": "7.43"
-          },
-          {
-            "name": "Jerome Campbell",
-            "team": "Arkansas",
-            "seed": "7.48"
-          },
-          {
+            "place": 1,
             "name": "Ja'Kobe Tharp",
             "team": "Auburn",
-            "seed": "7.46"
+            "mark": "PB"
           },
           {
-            "name": "Abdoul Sysavane",
-            "team": "Arkansas",
-            "seed": "7.55"
-          },
-          {
-            "name": "Jamir Brown",
-            "team": "Syracuse",
-            "seed": "7.56"
-          },
-          {
-            "name": "Christopher Serrao",
-            "team": "Rutgers",
-            "seed": "7.55"
-          },
-          {
-            "name": "Le'Ezra Brown",
-            "team": "Georgia",
-            "seed": "7.57"
-          },
-          {
+            "place": 2,
             "name": "Bradley Franklin",
             "team": "Samford",
-            "seed": "7.41"
+            "mark": ""
           },
           {
-            "name": "Kendrick Smallwood",
-            "team": "Texas",
-            "seed": "7.46"
+            "place": 3,
+            "name": "Malachi Snow",
+            "team": "Texas Tech",
+            "mark": "=PB"
           },
           {
+            "place": 4,
+            "name": "Abdoul Sysavane",
+            "team": "Arkansas",
+            "mark": "PB"
+          },
+          {
+            "place": 5,
             "name": "Ja'Qualon Scott",
             "team": "Texas A&M",
-            "seed": "7.46"
+            "mark": ""
           },
           {
-            "name": "Antoine Andrews",
-            "team": "Texas Tech",
-            "seed": "7.49"
+            "place": 6,
+            "name": "Demario Prince",
+            "team": "Baylor",
+            "mark": ""
           },
           {
-            "name": "Andre Korbmacher",
-            "team": "Florida State",
-            "seed": "7.55"
+            "place": 7,
+            "name": "Kendrick Smallwood",
+            "team": "Texas",
+            "mark": ""
           },
           {
+            "place": 8,
             "name": "Vashaun Vascianna",
             "team": "Arkansas",
-            "seed": "7.53"
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Samford": 10.0,
-          "Texas Tech": 9.0,
-          "Baylor": 4.5,
-          "Auburn": 4.5,
-          "Texas": 4.5,
-          "Texas A&M": 4.5,
-          "Arkansas": 2.0
+          "Auburn": 10.0,
+          "Samford": 8.0,
+          "Texas Tech": 6.0,
+          "Arkansas": 6.0,
+          "Texas A&M": 4.0,
+          "Baylor": 3.0,
+          "Texas": 2.0
         }
       },
       {
@@ -6189,99 +5865,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/007-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/007-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Elsingi Kipruto",
-            "team": "Louisville",
-            "seed": "13:15.74"
-          },
-          {
-            "name": "Creed Thompson",
-            "team": "BYU",
-            "seed": "13:21.43"
-          },
-          {
-            "name": "Colton Sands",
-            "team": "North Carolina",
-            "seed": "13:17.88"
-          },
-          {
-            "name": "Rodgers Kiplimo",
-            "team": "Iowa State",
-            "seed": "13:18.35"
-          },
-          {
-            "name": "Ernest Cheruiyot",
-            "team": "Arkansas",
-            "seed": "13:17.48"
-          },
-          {
-            "name": "Denis Kipngetich",
-            "team": "Oklahoma State",
-            "seed": "13:12.91"
-          },
-          {
-            "name": "Myles Hogan",
-            "team": "Princeton",
-            "seed": "13:21.57"
-          },
-          {
-            "name": "Robin Kwemoi Bera",
-            "team": "Iowa State",
-            "seed": "13:18.72"
-          },
-          {
-            "name": "Abdel Laadjel",
-            "team": "Oregon",
-            "seed": "13:24.17"
-          },
-          {
+            "place": 1,
             "name": "Habtom Samuel",
             "team": "New Mexico",
-            "seed": "13:05.21"
+            "mark": ""
           },
           {
-            "name": "Dismus Lokira",
-            "team": "Alabama",
-            "seed": "13:21.54"
-          },
-          {
-            "name": "Evan Jenkins",
-            "team": "Washington",
-            "seed": "13:22.28"
-          },
-          {
-            "name": "Tayvon Kitchen",
-            "team": "BYU",
-            "seed": "13:19.17"
-          },
-          {
-            "name": "Kelvin Cheruiyot",
-            "team": "Florida",
-            "seed": "13:15.57"
-          },
-          {
-            "name": "Evans Kiplagat",
-            "team": "New Mexico",
-            "seed": "13:18.05"
-          },
-          {
+            "place": 2,
             "name": "Marco Langon",
             "team": "Villanova",
-            "seed": "13:05.21"
+            "mark": ""
+          },
+          {
+            "place": 3,
+            "name": "Ernest Cheruiyot",
+            "team": "Arkansas",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Elsingi Kipruto",
+            "team": "Louisville",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Colton Sands",
+            "team": "North Carolina",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Rodgers Kiplimo",
+            "team": "Iowa State",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Denis Kipngetich",
+            "team": "Oklahoma State",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Tayvon Kitchen",
+            "team": "BYU",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
           "New Mexico": 10.0,
-          "Villanova": 9.0,
-          "Oklahoma State": 6.0,
-          "Florida": 5.0,
-          "Louisville": 4.0,
-          "Arkansas": 3.0,
-          "North Carolina": 2.0
+          "Villanova": 8.0,
+          "Arkansas": 6.0,
+          "Louisville": 5.0,
+          "North Carolina": 4.0,
+          "Iowa State": 3.0,
+          "Oklahoma State": 2.0,
+          "BYU": 1.0
         }
       },
       {
@@ -6295,100 +5940,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Jalen Johnson",
-            "team": "Clemson",
-            "seed": "20.58"
-          },
-          {
-            "name": "Dapriest Hogans",
-            "team": "Arkansas",
-            "seed": "20.63"
-          },
-          {
-            "name": "Tyson Williams",
-            "team": "South Carolina",
-            "seed": "20.47"
-          },
-          {
-            "name": "Amir Thompson",
-            "team": "Arizona State",
-            "seed": "20.40"
-          },
-          {
-            "name": "Tevijon Williams",
-            "team": "Arkansas",
-            "seed": "20.56"
-          },
-          {
-            "name": "Jaiden Reid",
-            "team": "LSU",
-            "seed": "20.62"
-          },
-          {
-            "name": "Auhmad Robinson",
-            "team": "Texas A&M",
-            "seed": "20.33"
-          },
-          {
-            "name": "Denzel Simusialela",
-            "team": "Kentucky",
-            "seed": "20.47"
-          },
-          {
-            "name": "Kamron Neal",
-            "team": "Texas Tech",
-            "seed": "20.47"
-          },
-          {
-            "name": "Ian Dossman",
-            "team": "Cal St. Fullerton",
-            "seed": "20.54"
-          },
-          {
-            "name": "Trelee Banks",
-            "team": "Indiana",
-            "seed": "20.37"
-          },
-          {
-            "name": "Wanya McCoy",
-            "team": "Florida",
-            "seed": "20.31"
-          },
-          {
-            "name": "Davonte Howell",
-            "team": "Tennessee",
-            "seed": "20.58"
-          },
-          {
-            "name": "Ajani Dwyer",
-            "team": "Penn State",
-            "seed": "20.51"
-          },
-          {
-            "name": "Jelani Watkins",
-            "team": "Arkansas",
-            "seed": "20.28"
-          },
-          {
+            "place": 1,
             "name": "Garrett Kaalund",
             "team": "USC",
-            "seed": "20.06"
+            "mark": ""
+          },
+          {
+            "place": 2,
+            "name": "Jelani Watkins",
+            "team": "Arkansas",
+            "mark": "PB"
+          },
+          {
+            "place": 3,
+            "name": "Wanya McCoy",
+            "team": "Florida",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Amir Thompson",
+            "team": "Arizona State",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Ian Dossman",
+            "team": "Cal St. Fullerton",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Denzel Simusialela",
+            "team": "Kentucky",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Tyson Williams",
+            "team": "South Carolina",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Trelee Banks",
+            "team": "Indiana",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
           "USC": 10.0,
           "Arkansas": 8.0,
           "Florida": 6.0,
-          "Texas A&M": 5.0,
-          "Indiana": 4.0,
-          "Arizona State": 3.0,
-          "South Carolina": 1.0,
-          "Kentucky": 1.0
+          "Arizona State": 5.0,
+          "Cal St. Fullerton": 4.0,
+          "Kentucky": 3.0,
+          "South Carolina": 2.0,
+          "Indiana": 1.0
         }
       },
       {
@@ -6402,80 +6015,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/010-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/010-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Arkansas",
-            "team": "Arkansas",
-            "seed": "9:17.30"
+            "place": 1,
+            "name": "",
+            "team": "NORTHERN ARIZONA6Northern Arizona",
+            "mark": "SB"
           },
           {
-            "name": "Northern Arizona",
-            "team": "Northern Arizona",
-            "seed": "9:26.58"
+            "place": 2,
+            "name": "",
+            "team": "ARKANSAS8Arkansas",
+            "mark": ""
           },
           {
-            "name": "Penn State",
-            "team": "Penn State",
-            "seed": "9:18.58"
+            "place": 3,
+            "name": "",
+            "team": "VIRGINIA TECH3Virginia Tech",
+            "mark": ""
           },
           {
-            "name": "Oregon",
-            "team": "Oregon",
-            "seed": "9:14.88"
+            "place": 4,
+            "name": "",
+            "team": "MICHIGAN1Michigan",
+            "mark": ""
           },
           {
-            "name": "Virginia Tech",
-            "team": "Virginia Tech",
-            "seed": "9:15.05"
+            "place": 5,
+            "name": "",
+            "team": "WASHINGTON7Washington",
+            "mark": ""
           },
           {
-            "name": "BYU",
-            "team": "BYU",
-            "seed": "9:28.60"
+            "place": 6,
+            "name": "",
+            "team": "BYU11BYU",
+            "mark": "SB"
           },
           {
-            "name": "Virginia",
-            "team": "Virginia",
-            "seed": "9:16.75"
+            "place": 7,
+            "name": "",
+            "team": "OREGON2Oregon",
+            "mark": ""
           },
           {
-            "name": "Villanova",
-            "team": "Villanova",
-            "seed": "9:16.10"
-          },
-          {
-            "name": "Michigan",
-            "team": "Michigan",
-            "seed": "9:14.80"
-          },
-          {
-            "name": "Colorado",
-            "team": "Colorado",
-            "seed": "9:28.63"
-          },
-          {
-            "name": "Washington",
-            "team": "Washington",
-            "seed": "9:17.03"
-          },
-          {
-            "name": "Wisconsin",
-            "team": "Wisconsin",
-            "seed": "9:18.44"
+            "place": 8,
+            "name": "",
+            "team": "COLORADO12Colorado",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Michigan": 10.0,
-          "Oregon": 8.0,
-          "Virginia Tech": 6.0,
-          "Villanova": 5.0,
-          "Virginia": 4.0,
-          "Washington": 3.0,
-          "Arkansas": 2.0,
-          "Wisconsin": 1.0
+          "NORTHERN ARIZONA6Northern Arizona": 10.0,
+          "ARKANSAS8Arkansas": 8.0,
+          "VIRGINIA TECH3Virginia Tech": 6.0,
+          "MICHIGAN1Michigan": 5.0,
+          "WASHINGTON7Washington": 4.0,
+          "BYU11BYU": 3.0,
+          "OREGON2Oregon": 2.0,
+          "COLORADO12Colorado": 1.0
         }
       },
       {
@@ -6630,100 +6231,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/013-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/013-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Jordan Turner",
-            "team": "LSU",
-            "seed": "8.11m26-7\u00bc"
-          },
-          {
-            "name": "Tafadzwa Chikomba",
-            "team": "Kansas State",
-            "seed": "8.09m26-6\u00bd"
-          },
-          {
-            "name": "Kennedy Stringfellow",
-            "team": "Oklahoma",
-            "seed": "8.29m27-2\u00bd"
-          },
-          {
+            "place": 1,
             "name": "Lokesh Sathyanathan",
             "team": "Tarleton State",
-            "seed": "8.01m26-3\u00bd"
+            "mark": "PB"
           },
           {
-            "name": "Greg Foster",
-            "team": "Princeton",
-            "seed": "8.24m27-\u00bd"
-          },
-          {
-            "name": "Cade Gray",
-            "team": "Tennessee",
-            "seed": "7.97m26-1\u00be"
-          },
-          {
-            "name": "Jayden Keys",
-            "team": "Georgia",
-            "seed": "7.89m25-10\u00be"
-          },
-          {
-            "name": "Kelsey Daniel",
-            "team": "Texas",
-            "seed": "8.21m26-11\u00bc"
-          },
-          {
-            "name": "Temoso Masikane",
-            "team": "Florida",
-            "seed": "8.11m26-7\u00bc"
-          },
-          {
-            "name": "Tyler Nichols",
-            "team": "Southern Miss.",
-            "seed": "7.90m25-11"
-          },
-          {
-            "name": "Emmanuel Njoku",
-            "team": "Iowa",
-            "seed": "7.93m26-\u00bc"
-          },
-          {
-            "name": "Micah Larry",
-            "team": "Texas A&M",
-            "seed": "7.86m25-9\u00bd"
-          },
-          {
-            "name": "Justin Sluijter",
-            "team": "High Point",
-            "seed": "7.89m25-10\u00be"
-          },
-          {
-            "name": "DJ Fillmore",
-            "team": "Ohio State",
-            "seed": "8.23m27-0"
-          },
-          {
+            "place": 2,
             "name": "De'Aundre Ward",
             "team": "Southern Miss.",
-            "seed": "7.84m25-8\u00be"
+            "mark": "PB"
           },
           {
+            "place": 3,
+            "name": "Tafadzwa Chikomba",
+            "team": "Kansas State",
+            "mark": "PB"
+          },
+          {
+            "place": 4,
+            "name": "Greg Foster",
+            "team": "Princeton",
+            "mark": ""
+          },
+          {
+            "place": 5,
             "name": "Uroy Ryan",
             "team": "Kansas State",
-            "seed": "7.90m25-11"
+            "mark": "PB"
+          },
+          {
+            "place": 6,
+            "name": "Temoso Masikane",
+            "team": "Florida",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Jordan Turner",
+            "team": "LSU",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Jayden Keys",
+            "team": "Georgia",
+            "mark": "=SB"
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "LSU": 10.0,
-          "Kansas State": 8.0,
-          "Oklahoma": 6.0,
-          "Tarleton State": 5.0,
-          "Princeton": 4.0,
-          "Tennessee": 3.0,
-          "Georgia": 2.0,
-          "Texas": 1.0
+          "Tarleton State": 10.0,
+          "Southern Miss.": 8.0,
+          "Kansas State": 10.0,
+          "Princeton": 5.0,
+          "Florida": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
         }
       },
       {
@@ -6959,10 +6527,65 @@
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/004-2.htm",
         "status": "final",
-        "results": [],
+        "results": [
+          {
+            "place": 1,
+            "name": "Tyrice Taylor",
+            "team": "Arkansas",
+            "mark": ""
+          },
+          {
+            "place": 2,
+            "name": "Handal Roban",
+            "team": "Penn State",
+            "mark": ""
+          },
+          {
+            "place": 3,
+            "name": "Rivaldo Marshall",
+            "team": "Arkansas",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Yukichi Ishii",
+            "team": "Penn State",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Peter Narumbe",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "James Harding",
+            "team": "Oregon",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Allon Clay",
+            "team": "Penn State",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Joseph Socarras",
+            "team": "Penn",
+            "mark": ""
+          }
+        ],
         "prelim_results": [],
         "start_list_entries": [],
-        "seed_projection": {}
+        "seed_projection": {
+          "Arkansas": 16.0,
+          "Penn State": 15.0,
+          "Texas A&M": 4.0,
+          "Oregon": 3.0,
+          "Penn": 1.0
+        }
       },
       {
         "event_name": "Men 200 M",
@@ -6975,7 +6598,7 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-2_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-2.htm",
-        "status": "scheduled",
+        "status": "final",
         "results": [],
         "prelim_results": [],
         "start_list_entries": [],
@@ -6992,7 +6615,7 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-2_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-2.htm",
-        "status": "scheduled",
+        "status": "final",
         "results": [],
         "prelim_results": [],
         "start_list_entries": [],
@@ -7603,69 +7226,92 @@
           "Oregon": 3.0,
           "Penn": 1.0
         }
-      }
-    ],
-    "leverage": [
+      },
       {
         "event": "Men 60 M Hurdles",
-        "total_points": 39,
-        "top_teams": [
-          "Samford",
-          "Texas Tech",
-          "Baylor",
-          "Auburn",
-          "Texas"
-        ],
-        "n_entries": 16
+        "winner": "Ja'Kobe Tharp",
+        "team": "Auburn",
+        "mark": "PB",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "Auburn": 10.0,
+          "Samford": 8.0,
+          "Texas Tech": 6.0,
+          "Arkansas": 6.0,
+          "Texas A&M": 4.0,
+          "Baylor": 3.0,
+          "Texas": 2.0
+        }
       },
       {
         "event": "Men 5000 M",
-        "total_points": 39,
-        "top_teams": [
-          "New Mexico",
-          "Villanova",
-          "Oklahoma State",
-          "Florida",
-          "Louisville"
-        ],
-        "n_entries": 16
+        "winner": "Habtom Samuel",
+        "team": "New Mexico",
+        "mark": "",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "New Mexico": 10.0,
+          "Villanova": 8.0,
+          "Arkansas": 6.0,
+          "Louisville": 5.0,
+          "North Carolina": 4.0,
+          "Iowa State": 3.0,
+          "Oklahoma State": 2.0,
+          "BYU": 1.0
+        }
       },
       {
         "event": "Men 200 M",
-        "total_points": 39,
-        "top_teams": [
-          "USC",
-          "Arkansas",
-          "Florida",
-          "Texas A&M",
-          "Indiana"
-        ],
-        "n_entries": 16
+        "winner": "Garrett Kaalund",
+        "team": "USC",
+        "mark": "",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "USC": 10.0,
+          "Arkansas": 8.0,
+          "Florida": 6.0,
+          "Arizona State": 5.0,
+          "Cal St. Fullerton": 4.0,
+          "Kentucky": 3.0,
+          "South Carolina": 2.0,
+          "Indiana": 1.0
+        }
       },
       {
         "event": "Men Distance Medley Relay",
-        "total_points": 39,
-        "top_teams": [
-          "Michigan",
-          "Oregon",
-          "Virginia Tech",
-          "Villanova",
-          "Virginia"
-        ],
-        "n_entries": 12
+        "winner": "",
+        "team": "NORTHERN ARIZONA6Northern Arizona",
+        "mark": "SB",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "NORTHERN ARIZONA6Northern Arizona": 10.0,
+          "ARKANSAS8Arkansas": 8.0,
+          "VIRGINIA TECH3Virginia Tech": 6.0,
+          "MICHIGAN1Michigan": 5.0,
+          "WASHINGTON7Washington": 4.0,
+          "BYU11BYU": 3.0,
+          "OREGON2Oregon": 2.0,
+          "COLORADO12Colorado": 1.0
+        }
       },
       {
         "event": "Men Long Jump",
-        "total_points": 39,
-        "top_teams": [
-          "LSU",
-          "Kansas State",
-          "Oklahoma",
-          "Tarleton State",
-          "Princeton"
-        ],
-        "n_entries": 16
-      },
+        "winner": "Lokesh Sathyanathan",
+        "team": "Tarleton State",
+        "mark": "PB",
+        "timestamp": "2026-03-14T02:48:02Z",
+        "points_awarded": {
+          "Tarleton State": 10.0,
+          "Southern Miss.": 8.0,
+          "Kansas State": 10.0,
+          "Princeton": 5.0,
+          "Florida": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
+        }
+      }
+    ],
+    "leverage": [
       {
         "event": "Men 3000 M",
         "total_points": 39,
@@ -7728,28 +7374,21 @@
       }
     ],
     "scenarios": {
+      "ARKANSAS8Arkansas": {
+        "team": "ARKANSAS8Arkansas",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Alabama": {
         "team": "Alabama",
         "current": 16.0,
         "scenario_a": 22.0,
-        "scenario_b": 36.0,
+        "scenario_b": 26.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Dismus Lokira",
-                "seed_mark": "13:21.54",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -7783,111 +7422,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "Arizona State": {
+        "team": "Arizona State",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Arkansas": {
         "team": "Arkansas",
-        "current": 48.0,
-        "scenario_a": 71.0,
-        "scenario_b": 128.0,
+        "current": 84.0,
+        "scenario_a": 92.0,
+        "scenario_b": 124.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Jerome Campbell",
-                "seed_mark": "7.48",
-                "proj_place": 7,
-                "seed_pts": 2
-              },
-              {
-                "athlete": "Vashaun Vascianna",
-                "seed_mark": "7.53",
-                "proj_place": 9,
-                "seed_pts": 0
-              },
-              {
-                "athlete": "Abdoul Sysavane",
-                "seed_mark": "7.55",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Vashaun Vascianna",
-                "seed_mark": "7.53"
-              },
-              {
-                "athlete": "Abdoul Sysavane",
-                "seed_mark": "7.55"
-              }
-            ]
-          },
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Ernest Cheruiyot",
-                "seed_mark": "13:17.48",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Jelani Watkins",
-                "seed_mark": "20.28",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Tevijon Williams",
-                "seed_mark": "20.56",
-                "proj_place": 12,
-                "seed_pts": 0
-              },
-              {
-                "athlete": "Dapriest Hogans",
-                "seed_mark": "20.63",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Tevijon Williams",
-                "seed_mark": "20.56"
-              }
-            ]
-          },
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Arkansas",
-                "seed_mark": "9:17.30",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -7962,56 +7511,81 @@
       },
       "Auburn": {
         "team": "Auburn",
-        "current": 26.0,
-        "scenario_a": 31.0,
+        "current": 36.0,
+        "scenario_a": 36.0,
         "scenario_b": 36.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "BYU": {
+        "team": "BYU",
+        "current": 1.0,
+        "scenario_a": 7.0,
+        "scenario_b": 11.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
-            "event": "Men 60 M Hurdles",
+            "event": "Men 3000 M",
             "athletes": [
               {
-                "athlete": "Ja'Kobe Tharp",
-                "seed_mark": "7.46",
-                "proj_place": 4,
-                "seed_pts": 5
+                "athlete": "Tayvon Kitchen",
+                "seed_mark": "7:36.23",
+                "proj_place": 3,
+                "seed_pts": 6
+              },
+              {
+                "athlete": "Isaac Hedengren",
+                "seed_mark": "7:41.48",
+                "proj_place": 14,
+                "seed_pts": 0
               }
             ],
-            "scenario_a_pts": 5.0,
+            "scenario_a_pts": 6.0,
             "scenario_b_pts": 10,
             "scenario_c_pts": 0,
             "swing_athletes": []
           }
         ]
       },
+      "BYU11BYU": {
+        "team": "BYU11BYU",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "Baylor": {
+        "team": "Baylor",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "COLORADO12Colorado": {
+        "team": "COLORADO12Colorado",
+        "current": 1.0,
+        "scenario_a": 1.0,
+        "scenario_b": 1.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "Cal St. Fullerton": {
+        "team": "Cal St. Fullerton",
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 4.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Colorado": {
         "team": "Colorado",
         "current": 2.0,
         "scenario_a": 2.0,
-        "scenario_b": 12.0,
+        "scenario_b": 2.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Colorado",
-                "seed_mark": "9:28.63",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Colorado",
-                "seed_mark": "9:28.63"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Cornell": {
         "team": "Cornell",
@@ -8023,61 +7597,11 @@
       },
       "Florida": {
         "team": "Florida",
-        "current": 22.0,
-        "scenario_a": 56.0,
-        "scenario_b": 82.0,
+        "current": 31.0,
+        "scenario_a": 54.0,
+        "scenario_b": 61.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Kelvin Cheruiyot",
-                "seed_mark": "13:15.57",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Wanya McCoy",
-                "seed_mark": "20.31",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Temoso Masikane",
-                "seed_mark": "8.11m26-7\u00bc",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Temoso Masikane",
-                "seed_mark": "8.11m26-7\u00bc"
-              }
-            ]
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -8143,41 +7667,11 @@
       },
       "Georgia": {
         "team": "Georgia",
-        "current": 6.0,
-        "scenario_a": 9.0,
-        "scenario_b": 46.0,
+        "current": 7.0,
+        "scenario_a": 8.0,
+        "scenario_b": 27.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Le'Ezra Brown",
-                "seed_mark": "7.57",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Jayden Keys",
-                "seed_mark": "7.89m25-10\u00be",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -8225,53 +7719,17 @@
         "team": "High Point",
         "current": 5.428571428571429,
         "scenario_a": 5.4,
-        "scenario_b": 15.4,
+        "scenario_b": 5.4,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Justin Sluijter",
-                "seed_mark": "7.89m25-10\u00be",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Houston": {
         "team": "Houston",
         "current": 0.0,
         "scenario_a": 0.0,
-        "scenario_b": 20.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Jamar Marshall Jr.",
-                "seed_mark": "7.54",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Jamar Marshall Jr.",
-                "seed_mark": "7.54"
-              }
-            ]
-          },
           {
             "event": "Men High Jump",
             "athletes": [
@@ -8326,56 +7784,27 @@
       },
       "Indiana": {
         "team": "Indiana",
-        "current": 0.0,
-        "scenario_a": 4.0,
-        "scenario_b": 10.0,
+        "current": 1.0,
+        "scenario_a": 1.0,
+        "scenario_b": 1.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Trelee Banks",
-                "seed_mark": "20.37",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Iowa": {
         "team": "Iowa",
         "current": 28.0,
         "scenario_a": 28.0,
-        "scenario_b": 38.0,
+        "scenario_b": 28.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Emmanuel Njoku",
-                "seed_mark": "7.93m26-\u00bc",
-                "proj_place": 11,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Emmanuel Njoku",
-                "seed_mark": "7.93m26-\u00bc"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
+      },
+      "Iowa State": {
+        "team": "Iowa State",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "Kansas": {
         "team": "Kansas",
@@ -8387,32 +7816,11 @@
       },
       "Kansas State": {
         "team": "Kansas State",
-        "current": 4.0,
-        "scenario_a": 24.0,
+        "current": 14.0,
+        "scenario_a": 26.0,
         "scenario_b": 34.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Tafadzwa Chikomba",
-                "seed_mark": "8.09m26-6\u00bd",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Uroy Ryan",
-                "seed_mark": "7.90m25-11",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men High Jump",
             "athletes": [
@@ -8470,26 +7878,11 @@
       },
       "Kentucky": {
         "team": "Kentucky",
-        "current": 0.0,
-        "scenario_a": 7.0,
-        "scenario_b": 20.0,
+        "current": 3.0,
+        "scenario_a": 9.0,
+        "scenario_b": 13.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Denzel Simusialela",
-                "seed_mark": "20.47",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men Triple Jump",
             "athletes": [
@@ -8509,41 +7902,11 @@
       },
       "LSU": {
         "team": "LSU",
-        "current": 0.0,
-        "scenario_a": 12.0,
-        "scenario_b": 40.0,
+        "current": 2.0,
+        "scenario_a": 4.0,
+        "scenario_b": 22.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Jaiden Reid",
-                "seed_mark": "20.62",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Jordan Turner",
-                "seed_mark": "8.11m26-7\u00bc",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -8581,29 +7944,29 @@
           }
         ]
       },
+      "Louisville": {
+        "team": "Louisville",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "MICHIGAN1Michigan": {
+        "team": "MICHIGAN1Michigan",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Michigan": {
         "team": "Michigan",
         "current": 0.0,
-        "scenario_a": 10.0,
-        "scenario_b": 10.0,
+        "scenario_a": 0.0,
+        "scenario_b": 0.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Michigan",
-                "seed_mark": "9:14.80",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Missouri": {
         "team": "Missouri",
@@ -8618,6 +7981,14 @@
         "current": 0.0,
         "scenario_a": 0.0,
         "scenario_b": 0.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "NORTHERN ARIZONA6Northern Arizona": {
+        "team": "NORTHERN ARIZONA6Northern Arizona",
+        "current": 10.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -8645,6 +8016,54 @@
           }
         ]
       },
+      "New Mexico": {
+        "team": "New Mexico",
+        "current": 10.0,
+        "scenario_a": 13.0,
+        "scenario_b": 20.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men 3000 M",
+            "athletes": [
+              {
+                "athlete": "Habtom Samuel",
+                "seed_mark": "7:37.44",
+                "proj_place": 6,
+                "seed_pts": 3
+              }
+            ],
+            "scenario_a_pts": 3.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          }
+        ]
+      },
+      "North Carolina": {
+        "team": "North Carolina",
+        "current": 4.0,
+        "scenario_a": 12.0,
+        "scenario_b": 14.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men 3000 M",
+            "athletes": [
+              {
+                "athlete": "Colton Sands",
+                "seed_mark": "7:34.05",
+                "proj_place": 2,
+                "seed_pts": 8
+              }
+            ],
+            "scenario_a_pts": 8.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          }
+        ]
+      },
       "North Dakota St.": {
         "team": "North Dakota St.",
         "current": 0.0,
@@ -8657,29 +8076,9 @@
         "team": "Northern Arizona",
         "current": 0.0,
         "scenario_a": 5.0,
-        "scenario_b": 20.0,
+        "scenario_b": 10.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Northern Arizona",
-                "seed_mark": "9:26.58",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Northern Arizona",
-                "seed_mark": "9:26.58"
-              }
-            ]
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -8705,6 +8104,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "OREGON2Oregon": {
+        "team": "OREGON2Oregon",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Ohio St.": {
         "team": "Ohio St.",
         "current": 0.0,
@@ -8716,25 +8123,10 @@
       "Oklahoma": {
         "team": "Oklahoma",
         "current": 0.0,
-        "scenario_a": 21.0,
-        "scenario_b": 30.0,
+        "scenario_a": 15.0,
+        "scenario_b": 20.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Kennedy Stringfellow",
-                "seed_mark": "8.29m27-2\u00bd",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men High Jump",
             "athletes": [
@@ -8792,6 +8184,30 @@
                 "seed_mark": "16.81m55-2"
               }
             ]
+          }
+        ]
+      },
+      "Oklahoma State": {
+        "team": "Oklahoma State",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 12.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men Triple Jump",
+            "athletes": [
+              {
+                "athlete": "Kevin Kemboi",
+                "seed_mark": "16.37m53-8\u00bd",
+                "proj_place": 16,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 0.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
           }
         ]
       },
@@ -8856,41 +8272,11 @@
       },
       "Oregon": {
         "team": "Oregon",
-        "current": 17.0,
-        "scenario_a": 28.0,
-        "scenario_b": 57.0,
+        "current": 20.0,
+        "scenario_a": 23.0,
+        "scenario_b": 40.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Abdel Laadjel",
-                "seed_mark": "13:24.17",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Oregon",
-                "seed_mark": "9:14.88",
-                "proj_place": 2,
-                "seed_pts": 8
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -8965,9 +8351,9 @@
       },
       "Penn": {
         "team": "Penn",
-        "current": 1.0,
-        "scenario_a": 1.0,
-        "scenario_b": 1.0,
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
         "scenario_c": 0.0,
         "breakdown": []
       },
@@ -8981,51 +8367,11 @@
       },
       "Penn State": {
         "team": "Penn State",
-        "current": 23.0,
-        "scenario_a": 33.0,
-        "scenario_b": 53.0,
+        "current": 38.0,
+        "scenario_a": 48.0,
+        "scenario_b": 48.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Ajani Dwyer",
-                "seed_mark": "20.51",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Ajani Dwyer",
-                "seed_mark": "20.51"
-              }
-            ]
-          },
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Penn State",
-                "seed_mark": "9:18.58",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Penn State",
-                "seed_mark": "9:18.58"
-              }
-            ]
-          },
           {
             "event": "Men Shot Put",
             "athletes": [
@@ -9054,6 +8400,55 @@
           }
         ]
       },
+      "Princeton": {
+        "team": "Princeton",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 25.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men 4x400 Meter Relay",
+            "athletes": [
+              {
+                "athlete": "Princeton",
+                "seed_mark": "3:03.56",
+                "proj_place": 10,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 0.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": [
+              {
+                "athlete": "Princeton",
+                "seed_mark": "3:03.56"
+              }
+            ]
+          },
+          {
+            "event": "Men Shot Put",
+            "athletes": [
+              {
+                "athlete": "Joe Licata",
+                "seed_mark": "19.71m64-8",
+                "proj_place": 9,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 0.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": [
+              {
+                "athlete": "Joe Licata",
+                "seed_mark": "19.71m64-8"
+              }
+            ]
+          }
+        ]
+      },
       "Purdue": {
         "team": "Purdue",
         "current": 8.0,
@@ -9074,48 +8469,25 @@
         "team": "Rutgers",
         "current": 5.428571428571429,
         "scenario_a": 5.4,
-        "scenario_b": 15.4,
+        "scenario_b": 5.4,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Christopher Serrao",
-                "seed_mark": "7.55",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
+      },
+      "Samford": {
+        "team": "Samford",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
+        "scenario_c": 0.0,
+        "breakdown": []
       },
       "South Carolina": {
         "team": "South Carolina",
-        "current": 16.0,
+        "current": 18.0,
         "scenario_a": 28.0,
-        "scenario_b": 46.0,
+        "scenario_b": 38.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Tyson Williams",
-                "seed_mark": "20.47",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -9148,6 +8520,30 @@
           }
         ]
       },
+      "Southern Miss.": {
+        "team": "Southern Miss.",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 18.0,
+        "scenario_c": 0.0,
+        "breakdown": [
+          {
+            "event": "Men Shot Put",
+            "athletes": [
+              {
+                "athlete": "Piers Cameron",
+                "seed_mark": "19.68m64-6\u00be",
+                "proj_place": 16,
+                "seed_pts": 0
+              }
+            ],
+            "scenario_a_pts": 0.0,
+            "scenario_b_pts": 10,
+            "scenario_c_pts": 0,
+            "swing_athletes": []
+          }
+        ]
+      },
       "Stanford": {
         "team": "Stanford",
         "current": 0.0,
@@ -9160,63 +8556,25 @@
         "team": "Syracuse",
         "current": 0.0,
         "scenario_a": 0.0,
+        "scenario_b": 0.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "Tarleton State": {
+        "team": "Tarleton State",
+        "current": 10.0,
+        "scenario_a": 10.0,
         "scenario_b": 10.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Jamir Brown",
-                "seed_mark": "7.56",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Tennessee": {
         "team": "Tennessee",
         "current": 12.857142857142858,
-        "scenario_a": 22.9,
-        "scenario_b": 52.9,
+        "scenario_a": 19.9,
+        "scenario_b": 32.9,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Davonte Howell",
-                "seed_mark": "20.58",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Cade Gray",
-                "seed_mark": "7.97m26-1\u00be",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -9251,41 +8609,11 @@
       },
       "Texas": {
         "team": "Texas",
-        "current": 0.0,
-        "scenario_a": 16.0,
-        "scenario_b": 40.0,
+        "current": 2.0,
+        "scenario_a": 13.0,
+        "scenario_b": 22.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Kendrick Smallwood",
-                "seed_mark": "7.46",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Kelsey Daniel",
-                "seed_mark": "8.21m26-11\u00bc",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men Shot Put",
             "athletes": [
@@ -9320,61 +8648,11 @@
       },
       "Texas A&M": {
         "team": "Texas A&M",
-        "current": 14.428571428571429,
+        "current": 22.42857142857143,
         "scenario_a": 25.4,
-        "scenario_b": 54.4,
+        "scenario_b": 32.4,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Ja'Qualon Scott",
-                "seed_mark": "7.46",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Auhmad Robinson",
-                "seed_mark": "20.33",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Long Jump",
-            "athletes": [
-              {
-                "athlete": "Micah Larry",
-                "seed_mark": "7.86m25-9\u00bd",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Micah Larry",
-                "seed_mark": "7.86m25-9\u00bd"
-              }
-            ]
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -9394,52 +8672,11 @@
       },
       "Texas Tech": {
         "team": "Texas Tech",
-        "current": 8.0,
-        "scenario_a": 21.0,
-        "scenario_b": 48.0,
+        "current": 14.0,
+        "scenario_a": 18.0,
+        "scenario_b": 34.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 60 M Hurdles",
-            "athletes": [
-              {
-                "athlete": "Malachi Snow",
-                "seed_mark": "7.43",
-                "proj_place": 2,
-                "seed_pts": 8
-              },
-              {
-                "athlete": "Antoine Andrews",
-                "seed_mark": "7.49",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 9.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Kamron Neal",
-                "seed_mark": "20.47",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Kamron Neal",
-                "seed_mark": "20.47"
-              }
-            ]
-          },
           {
             "event": "Men High Jump",
             "athletes": [
@@ -9482,26 +8719,11 @@
       },
       "USC": {
         "team": "USC",
-        "current": 0.0,
+        "current": 10.0,
         "scenario_a": 14.0,
         "scenario_b": 20.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 200 M",
-            "athletes": [
-              {
-                "athlete": "Garrett Kaalund",
-                "seed_mark": "20.06",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 4x400 Meter Relay",
             "athletes": [
@@ -9519,43 +8741,21 @@
           }
         ]
       },
+      "VIRGINIA TECH3Virginia Tech": {
+        "team": "VIRGINIA TECH3Virginia Tech",
+        "current": 6.0,
+        "scenario_a": 6.0,
+        "scenario_b": 6.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Villanova": {
         "team": "Villanova",
-        "current": 0.0,
-        "scenario_a": 23.0,
-        "scenario_b": 30.0,
+        "current": 8.0,
+        "scenario_a": 18.0,
+        "scenario_b": 18.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Marco Langon",
-                "seed_mark": "13:05.21",
-                "proj_place": 2,
-                "seed_pts": 8
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Villanova",
-                "seed_mark": "9:16.10",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -9576,49 +8776,18 @@
       "Virginia": {
         "team": "Virginia",
         "current": 29.0,
-        "scenario_a": 33.0,
-        "scenario_b": 39.0,
+        "scenario_a": 29.0,
+        "scenario_b": 29.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Virginia",
-                "seed_mark": "9:16.75",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Virginia Tech": {
         "team": "Virginia Tech",
         "current": 12.0,
-        "scenario_a": 22.0,
-        "scenario_b": 32.0,
+        "scenario_a": 16.0,
+        "scenario_b": 22.0,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Virginia Tech",
-                "seed_mark": "9:15.05",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -9636,6 +8805,14 @@
           }
         ]
       },
+      "WASHINGTON7Washington": {
+        "team": "WASHINGTON7Washington",
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 4.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Wake Forest": {
         "team": "Wake Forest",
         "current": 8.0,
@@ -9647,40 +8824,10 @@
       "Washington": {
         "team": "Washington",
         "current": 21.42857142857143,
-        "scenario_a": 24.4,
-        "scenario_b": 51.4,
+        "scenario_a": 21.4,
+        "scenario_b": 31.4,
         "scenario_c": 0.0,
         "breakdown": [
-          {
-            "event": "Men 5000 M",
-            "athletes": [
-              {
-                "athlete": "Evan Jenkins",
-                "seed_mark": "13:22.28",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Washington",
-                "seed_mark": "9:17.03",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
           {
             "event": "Men 3000 M",
             "athletes": [
@@ -9701,26 +8848,10 @@
       "Wisconsin": {
         "team": "Wisconsin",
         "current": 0.0,
-        "scenario_a": 1.0,
-        "scenario_b": 10.0,
+        "scenario_a": 0.0,
+        "scenario_b": 0.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Distance Medley Relay",
-            "athletes": [
-              {
-                "athlete": "Wisconsin",
-                "seed_mark": "9:18.44",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       }
     },
     "variance": {}
