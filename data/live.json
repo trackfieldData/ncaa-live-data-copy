@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T21:56:41Z",
+    "last_updated": "2026-03-14T22:33:53Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -39,7 +39,8 @@
     "Women High Jump",
     "Women Triple Jump",
     "Women Shot Put",
-    "Women Pole Vault"
+    "Women Pole Vault",
+    "Men Triple Jump"
   ],
   "women": {
     "team_scores": [
@@ -48,9 +49,9 @@
         "actual": 52.0,
         "seed_projection": 57.0,
         "ceiling": 57.0,
-        "mc_forecast": 57.1,
+        "mc_forecast": 57.2,
         "premeet_projection": 38.0,
-        "win_probability": 95.5,
+        "win_probability": 97.0,
         "top4_probability": 100.0,
         "events_scored": [
           "Women 1 Mile (17.0pt)",
@@ -64,9 +65,9 @@
         "actual": 46.0,
         "seed_projection": 52.0,
         "ceiling": 52.0,
-        "mc_forecast": 52.2,
+        "mc_forecast": 52.1,
         "premeet_projection": 72.0,
-        "win_probability": 4.5,
+        "win_probability": 3.0,
         "top4_probability": 100.0,
         "events_scored": [
           "Women 60 M (8.0pt)",
@@ -85,7 +86,7 @@
         "mc_forecast": 39.1,
         "premeet_projection": 62.0,
         "win_probability": 0.0,
-        "top4_probability": 98.7,
+        "top4_probability": 99.3,
         "events_scored": [
           "Women 1 Mile (4.0pt)",
           "Women 200 M (5.0pt)",
@@ -101,10 +102,10 @@
         "actual": 22.0,
         "seed_projection": 36.0,
         "ceiling": 36.0,
-        "mc_forecast": 35.5,
+        "mc_forecast": 35.6,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 66.2,
+        "top4_probability": 67.2,
         "events_scored": [
           "Women 200 M (8.0pt)",
           "Women 60 M Hurdles (3.0pt)",
@@ -117,10 +118,10 @@
         "actual": 20.0,
         "seed_projection": 33.0,
         "ceiling": 28.0,
-        "mc_forecast": 32.6,
+        "mc_forecast": 32.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 27.6,
+        "top4_probability": 27.2,
         "events_scored": [
           "Women 1 Mile (5.0pt)",
           "Women 1 Mile (5.0pt)",
@@ -135,7 +136,7 @@
         "mc_forecast": 32.6,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 7.4,
+        "top4_probability": 6.3,
         "events_scored": [
           "Women High Jump (7.1pt)",
           "Women Pole Vault (3.5pt)",
@@ -259,7 +260,7 @@
         "actual": 20.0,
         "seed_projection": 21.0,
         "ceiling": 23.0,
-        "mc_forecast": 21.4,
+        "mc_forecast": 21.3,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -317,7 +318,7 @@
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.4,
+        "mc_forecast": 16.5,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -389,7 +390,7 @@
         "actual": 10.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 14.0,
+        "mc_forecast": 14.1,
         "premeet_projection": 19.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -448,7 +449,7 @@
         "actual": 10.0,
         "seed_projection": 12.0,
         "ceiling": 12.0,
-        "mc_forecast": 12.1,
+        "mc_forecast": 12.2,
         "premeet_projection": 28.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -600,7 +601,7 @@
         "actual": 6.0,
         "seed_projection": 6.0,
         "ceiling": 7.0,
-        "mc_forecast": 6.6,
+        "mc_forecast": 6.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -1043,7 +1044,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 0.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -3871,10 +3872,10 @@
     "team_scores": [
       {
         "team": "Arkansas",
-        "actual": 100.3,
-        "seed_projection": 108.3,
-        "ceiling": 108.3,
-        "mc_forecast": 108.6,
+        "actual": 106.3,
+        "seed_projection": 106.3,
+        "ceiling": 106.3,
+        "mc_forecast": 107.3,
         "premeet_projection": 23.0,
         "win_probability": 100.0,
         "top4_probability": 100.0,
@@ -3885,6 +3886,7 @@
           "Men 200 M (8.0pt)",
           "Men 60 M Hurdles (6.0pt)",
           "Men High Jump (2.3pt)",
+          "Men Triple Jump (6.0pt)",
           "Men 60 M (10.0pt)",
           "Men 400 M (6.0pt)",
           "Men 800 M (16.0pt)",
@@ -3896,9 +3898,9 @@
       {
         "team": "Florida",
         "actual": 40.0,
-        "seed_projection": 58.0,
-        "ceiling": 58.0,
-        "mc_forecast": 55.6,
+        "seed_projection": 48.0,
+        "ceiling": 48.0,
+        "mc_forecast": 47.3,
         "premeet_projection": 67.0,
         "win_probability": 0.0,
         "top4_probability": 100.0,
@@ -3935,7 +3937,7 @@
         "mc_forecast": 39.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
-        "top4_probability": 96.5,
+        "top4_probability": 96.7,
         "events_scored": [
           "Men 60 M (2.0pt)",
           "Men 400 M (2.0pt)",
@@ -3947,6 +3949,22 @@
         ]
       },
       {
+        "team": "Kansas State",
+        "actual": 33.7,
+        "seed_projection": 33.7,
+        "ceiling": 33.7,
+        "mc_forecast": 33.7,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men High Jump (4.7pt)",
+          "Men Triple Jump (15.0pt)",
+          "Men Weight (4.0pt)",
+          "Men Long Jump (10.0pt)"
+        ]
+      },
+      {
         "team": "Oregon",
         "actual": 30.0,
         "seed_projection": 33.0,
@@ -3954,7 +3972,7 @@
         "mc_forecast": 34.3,
         "premeet_projection": 77.0,
         "win_probability": 0.0,
-        "top4_probability": 3.5,
+        "top4_probability": 3.4,
         "events_scored": [
           "Men 1 Mile (7.0pt)",
           "Men 800 M (3.0pt)",
@@ -4030,11 +4048,28 @@
         ]
       },
       {
+        "team": "Texas Tech",
+        "actual": 28.0,
+        "seed_projection": 28.0,
+        "ceiling": 28.0,
+        "mc_forecast": 28.0,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 60 M (4.0pt)",
+          "Men 60 M Hurdles (6.0pt)",
+          "Men Triple Jump (8.0pt)",
+          "Men 60 M (4.0pt)",
+          "Men 60 M Hurdles (6.0pt)"
+        ]
+      },
+      {
         "team": "USC",
         "actual": 20.0,
         "seed_projection": 24.0,
         "ceiling": 24.0,
-        "mc_forecast": 24.1,
+        "mc_forecast": 24.0,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4058,22 +4093,6 @@
         ]
       },
       {
-        "team": "Texas Tech",
-        "actual": 20.0,
-        "seed_projection": 22.0,
-        "ceiling": 22.0,
-        "mc_forecast": 22.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men 60 M (4.0pt)",
-          "Men 60 M Hurdles (6.0pt)",
-          "Men 60 M (4.0pt)",
-          "Men 60 M Hurdles (6.0pt)"
-        ]
-      },
-      {
         "team": "Washington",
         "actual": 21.4,
         "seed_projection": 21.4,
@@ -4089,31 +4108,17 @@
         ]
       },
       {
-        "team": "Kansas State",
-        "actual": 18.7,
-        "seed_projection": 19.7,
-        "ceiling": 19.7,
-        "mc_forecast": 20.4,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men High Jump (4.7pt)",
-          "Men Weight (4.0pt)",
-          "Men Long Jump (10.0pt)"
-        ]
-      },
-      {
         "team": "Oklahoma",
-        "actual": 14.7,
+        "actual": 18.7,
         "seed_projection": 18.7,
         "ceiling": 18.7,
-        "mc_forecast": 18.8,
+        "mc_forecast": 18.7,
         "premeet_projection": 4.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Men High Jump (14.7pt)"
+          "Men High Jump (14.7pt)",
+          "Men Triple Jump (4.0pt)"
         ]
       },
       {
@@ -4121,7 +4126,7 @@
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.4,
+        "mc_forecast": 16.3,
         "premeet_projection": 8.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4134,7 +4139,7 @@
         "actual": 12.9,
         "seed_projection": 17.9,
         "ceiling": 17.9,
-        "mc_forecast": 17.9,
+        "mc_forecast": 18.0,
         "premeet_projection": 30.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4176,7 +4181,7 @@
         "actual": 12.0,
         "seed_projection": 16.0,
         "ceiling": 16.0,
-        "mc_forecast": 16.0,
+        "mc_forecast": 16.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4203,7 +4208,7 @@
         "actual": 13.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 13.3,
+        "mc_forecast": 13.4,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4226,20 +4231,6 @@
           "Men High Jump (4.7pt)",
           "Men 400 M (3.0pt)",
           "Men Long Jump (1.0pt)"
-        ]
-      },
-      {
-        "team": "Kentucky",
-        "actual": 6.0,
-        "seed_projection": 12.0,
-        "ceiling": 12.0,
-        "mc_forecast": 12.2,
-        "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men 200 M (3.0pt)",
-          "Men 200 M (3.0pt)"
         ]
       },
       {
@@ -4296,18 +4287,18 @@
         ]
       },
       {
-        "team": "Texas",
-        "actual": 6.0,
+        "team": "Kentucky",
+        "actual": 9.0,
         "seed_projection": 9.0,
         "ceiling": 9.0,
-        "mc_forecast": 9.1,
-        "premeet_projection": 23.0,
+        "mc_forecast": 9.0,
+        "premeet_projection": 2.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
-          "Men 60 M Hurdles (2.0pt)",
-          "Men Shot Put (2.0pt)",
-          "Men 60 M Hurdles (2.0pt)"
+          "Men 200 M (3.0pt)",
+          "Men Triple Jump (3.0pt)",
+          "Men 200 M (3.0pt)"
         ]
       },
       {
@@ -4378,6 +4369,22 @@
         ]
       },
       {
+        "team": "Texas",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 23.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 60 M Hurdles (2.0pt)",
+          "Men Shot Put (2.0pt)",
+          "Men Triple Jump (2.0pt)",
+          "Men 60 M Hurdles (2.0pt)"
+        ]
+      },
+      {
         "team": "Wake Forest",
         "actual": 8.0,
         "seed_projection": 8.0,
@@ -4402,6 +4409,20 @@
         "top4_probability": 0.0,
         "events_scored": [
           "Men 5000 M (1.0pt)"
+        ]
+      },
+      {
+        "team": "Illinois",
+        "actual": 6.4,
+        "seed_projection": 6.4,
+        "ceiling": 6.4,
+        "mc_forecast": 6.4,
+        "premeet_projection": 21.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Triple Jump (1.0pt)",
+          "Men Pole Vault (5.4pt)"
         ]
       },
       {
@@ -4438,19 +4459,6 @@
         "ceiling": 5.4,
         "mc_forecast": 5.4,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men Pole Vault (5.4pt)"
-        ]
-      },
-      {
-        "team": "Illinois",
-        "actual": 5.4,
-        "seed_projection": 5.4,
-        "ceiling": 5.4,
-        "mc_forecast": 5.6,
-        "premeet_projection": 21.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
@@ -4521,22 +4529,11 @@
         "events_scored": []
       },
       {
-        "team": "UTSA",
-        "actual": 0.0,
-        "seed_projection": 5.0,
-        "ceiling": 5.0,
-        "mc_forecast": 5.1,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "LSU",
         "actual": 2.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.2,
+        "mc_forecast": 4.1,
         "premeet_projection": 53.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4795,17 +4792,6 @@
         "events_scored": []
       },
       {
-        "team": "Liberty",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.7,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Michigan",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -4938,7 +4924,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 19,
+    "completed_finals": 20,
     "total_finals": 22,
     "events": [
       {
@@ -5753,100 +5739,67 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/014-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/014-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Temoso Masikane",
-            "team": "Florida",
-            "seed": "16.35m53-7\u00be"
-          },
-          {
-            "name": "Abraham Johnson",
-            "team": "Arkansas",
-            "seed": "16.32m53-6\u00bd"
-          },
-          {
-            "name": "Theo Mudzengerere",
-            "team": "Kentucky",
-            "seed": "16.71m54-10"
-          },
-          {
-            "name": "Jemuel Miller",
-            "team": "UTSA",
-            "seed": "16.42m53-10\u00bd"
-          },
-          {
-            "name": "Floyd Whitaker",
-            "team": "Oklahoma",
-            "seed": "16.44m53-11\u00bc"
-          },
-          {
-            "name": "Kelsey Daniel",
-            "team": "Texas",
-            "seed": "16.51m54-2"
-          },
-          {
-            "name": "Jonathan Seremes",
-            "team": "Texas Tech",
-            "seed": "16.96m55-7\u00be"
-          },
-          {
+            "place": 1,
             "name": "Selva Prabhu",
             "team": "Kansas State",
-            "seed": "16.63m54-6\u00be"
+            "mark": "PB"
           },
           {
-            "name": "Gilles Ouedraogo",
-            "team": "Liberty",
-            "seed": "16.18m53-1"
+            "place": 2,
+            "name": "Jonathan Seremes",
+            "team": "Texas Tech",
+            "mark": ""
           },
           {
-            "name": "Trevon Hamer",
-            "team": "Kansas State",
-            "seed": "16.47m54-\u00bd"
+            "place": 3,
+            "name": "Abraham Johnson",
+            "team": "Arkansas",
+            "mark": "PB"
           },
           {
-            "name": "Zavien Wolfe",
-            "team": "Illinois",
-            "seed": "16.46m54-0"
-          },
-          {
-            "name": "Brandon Green Jr",
-            "team": "Oklahoma",
-            "seed": "16.81m55-2"
-          },
-          {
+            "place": 4,
             "name": "Aaron Antoine",
             "team": "Kansas State",
-            "seed": "16.40m53-9\u00be"
+            "mark": ""
           },
           {
+            "place": 5,
+            "name": "Brandon Green Jr",
+            "team": "Oklahoma",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Theo Mudzengerere",
+            "team": "Kentucky",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Kelsey Daniel",
+            "team": "Texas",
+            "mark": ""
+          },
+          {
+            "place": 8,
             "name": "Viktor Morozov",
             "team": "Illinois",
-            "seed": "16.38m53-9"
-          },
-          {
-            "name": "Sterling Scott",
-            "team": "Ole Miss",
-            "seed": "16.28m53-5"
-          },
-          {
-            "name": "Kevin Kemboi",
-            "team": "Oklahoma State",
-            "seed": "16.37m53-8\u00bd"
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "Florida": 10.0,
-          "Arkansas": 8.0,
-          "Kentucky": 6.0,
-          "UTSA": 5.0,
+          "Kansas State": 15.0,
+          "Texas Tech": 8.0,
+          "Arkansas": 6.0,
           "Oklahoma": 4.0,
-          "Texas": 3.0,
-          "Texas Tech": 2.0,
-          "Kansas State": 1.0
+          "Kentucky": 3.0,
+          "Texas": 2.0,
+          "Illinois": 1.0
         }
       },
       {
@@ -6864,6 +6817,22 @@
           "Kansas State": 4.666666666666667,
           "Texas State": 2.3333333333333335
         }
+      },
+      {
+        "event": "Men Triple Jump",
+        "winner": "Selva Prabhu",
+        "team": "Kansas State",
+        "mark": "PB",
+        "timestamp": "2026-03-14T22:33:53Z",
+        "points_awarded": {
+          "Kansas State": 15.0,
+          "Texas Tech": 8.0,
+          "Arkansas": 6.0,
+          "Oklahoma": 4.0,
+          "Kentucky": 3.0,
+          "Texas": 2.0,
+          "Illinois": 1.0
+        }
       }
     ],
     "leverage": [
@@ -6890,18 +6859,6 @@
           "USC"
         ],
         "n_entries": 12
-      },
-      {
-        "event": "Men Triple Jump",
-        "total_points": 39,
-        "top_teams": [
-          "Florida",
-          "Arkansas",
-          "Kentucky",
-          "UTSA",
-          "Oklahoma"
-        ],
-        "n_entries": 16
       }
     ],
     "scenarios": {
@@ -6963,9 +6920,9 @@
       },
       "Arkansas": {
         "team": "Arkansas",
-        "current": 100.33333333333334,
-        "scenario_a": 108.3,
-        "scenario_b": 130.3,
+        "current": 106.33333333333334,
+        "scenario_a": 106.3,
+        "scenario_b": 126.3,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -7007,21 +6964,6 @@
                 "seed_mark": "3:03.40"
               }
             ]
-          },
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Abraham Johnson",
-                "seed_mark": "16.32m53-6\u00bd",
-                "proj_place": 2,
-                "seed_pts": 8
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
           }
         ]
       },
@@ -7114,8 +7056,8 @@
       "Florida": {
         "team": "Florida",
         "current": 40.0,
-        "scenario_a": 58.0,
-        "scenario_b": 60.0,
+        "scenario_a": 48.0,
+        "scenario_b": 50.0,
         "scenario_c": 0.0,
         "breakdown": [
           {
@@ -7129,21 +7071,6 @@
               }
             ],
             "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          },
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Temoso Masikane",
-                "seed_mark": "16.35m53-7\u00be",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
             "scenario_b_pts": 10,
             "scenario_c_pts": 0,
             "swing_athletes": []
@@ -7208,38 +7135,11 @@
       },
       "Illinois": {
         "team": "Illinois",
-        "current": 5.428571428571429,
-        "scenario_a": 5.4,
-        "scenario_b": 15.4,
+        "current": 6.428571428571429,
+        "scenario_a": 6.4,
+        "scenario_b": 6.4,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Zavien Wolfe",
-                "seed_mark": "16.46m54-0",
-                "proj_place": 11,
-                "seed_pts": 0
-              },
-              {
-                "athlete": "Viktor Morozov",
-                "seed_mark": "16.38m53-9",
-                "proj_place": 14,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Zavien Wolfe",
-                "seed_mark": "16.46m54-0"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Indiana": {
         "team": "Indiana",
@@ -7275,68 +7175,19 @@
       },
       "Kansas State": {
         "team": "Kansas State",
-        "current": 18.666666666666668,
-        "scenario_a": 19.7,
-        "scenario_b": 28.7,
+        "current": 33.66666666666667,
+        "scenario_a": 33.7,
+        "scenario_b": 33.7,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Selva Prabhu",
-                "seed_mark": "16.63m54-6\u00be",
-                "proj_place": 8,
-                "seed_pts": 1
-              },
-              {
-                "athlete": "Trevon Hamer",
-                "seed_mark": "16.47m54-\u00bd",
-                "proj_place": 10,
-                "seed_pts": 0
-              },
-              {
-                "athlete": "Aaron Antoine",
-                "seed_mark": "16.40m53-9\u00be",
-                "proj_place": 13,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Trevon Hamer",
-                "seed_mark": "16.47m54-\u00bd"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Kentucky": {
         "team": "Kentucky",
-        "current": 6.0,
-        "scenario_a": 12.0,
-        "scenario_b": 16.0,
+        "current": 9.0,
+        "scenario_a": 9.0,
+        "scenario_b": 9.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Theo Mudzengerere",
-                "seed_mark": "16.71m54-10",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "LSU": {
         "team": "LSU",
@@ -7553,86 +7404,27 @@
       },
       "Oklahoma": {
         "team": "Oklahoma",
-        "current": 14.666666666666668,
+        "current": 18.666666666666668,
         "scenario_a": 18.7,
-        "scenario_b": 24.7,
+        "scenario_b": 18.7,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Floyd Whitaker",
-                "seed_mark": "16.44m53-11\u00bc",
-                "proj_place": 5,
-                "seed_pts": 4
-              },
-              {
-                "athlete": "Brandon Green Jr",
-                "seed_mark": "16.81m55-2",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Brandon Green Jr",
-                "seed_mark": "16.81m55-2"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Oklahoma State": {
         "team": "Oklahoma State",
         "current": 2.0,
         "scenario_a": 2.0,
-        "scenario_b": 12.0,
+        "scenario_b": 2.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Kevin Kemboi",
-                "seed_mark": "16.37m53-8\u00bd",
-                "proj_place": 16,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Ole Miss": {
         "team": "Ole Miss",
         "current": 16.0,
         "scenario_a": 16.0,
-        "scenario_b": 26.0,
+        "scenario_b": 16.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Sterling Scott",
-                "seed_mark": "16.28m53-5",
-                "proj_place": 15,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Oregon": {
         "team": "Oregon",
@@ -7854,27 +7646,11 @@
       },
       "Texas": {
         "team": "Texas",
-        "current": 6.0,
-        "scenario_a": 9.0,
-        "scenario_b": 16.0,
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Kelsey Daniel",
-                "seed_mark": "16.51m54-2",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Texas A&M": {
         "team": "Texas A&M",
@@ -7910,27 +7686,11 @@
       },
       "Texas Tech": {
         "team": "Texas Tech",
-        "current": 20.0,
-        "scenario_a": 22.0,
-        "scenario_b": 30.0,
+        "current": 28.0,
+        "scenario_a": 28.0,
+        "scenario_b": 28.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men Triple Jump",
-            "athletes": [
-              {
-                "athlete": "Jonathan Seremes",
-                "seed_mark": "16.96m55-7\u00be",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "UNLV": {
         "team": "UNLV",
