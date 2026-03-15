@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T23:58:10Z",
+    "last_updated": "2026-03-15T03:25:44Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -43,7 +43,8 @@
     "Men Triple Jump",
     "Women 3000 M",
     "Men 3000 M",
-    "Women 4x400 Meter Relay"
+    "Women 4x400 Meter Relay",
+    "Men 4x400 Meter Relay"
   ],
   "women": {
     "team_scores": [
@@ -3629,10 +3630,10 @@
         "actual": 110.3,
         "seed_projection": 110.3,
         "ceiling": 110.3,
-        "mc_forecast": 111.1,
+        "mc_forecast": 110.3,
         "premeet_projection": 23.0,
-        "win_probability": 100.0,
-        "top4_probability": 100.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M (10.0pt)",
           "Men 400 M (6.0pt)",
@@ -3651,14 +3652,30 @@
         ]
       },
       {
+        "team": "Auburn",
+        "actual": 46.0,
+        "seed_projection": 46.0,
+        "ceiling": 46.0,
+        "mc_forecast": 46.0,
+        "premeet_projection": 5.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 60 M (13.0pt)",
+          "Men 60 M Hurdles (10.0pt)",
+          "Men 60 M (13.0pt)",
+          "Men 60 M Hurdles (10.0pt)"
+        ]
+      },
+      {
         "team": "Florida",
         "actual": 40.0,
-        "seed_projection": 48.0,
-        "ceiling": 48.0,
-        "mc_forecast": 47.3,
+        "seed_projection": 40.0,
+        "ceiling": 40.0,
+        "mc_forecast": 40.0,
         "premeet_projection": 67.0,
-        "win_probability": 0.0,
-        "top4_probability": 100.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 400 M (11.0pt)",
           "Men 200 M (6.0pt)",
@@ -3669,30 +3686,14 @@
         ]
       },
       {
-        "team": "Auburn",
-        "actual": 46.0,
-        "seed_projection": 46.0,
-        "ceiling": 46.0,
-        "mc_forecast": 46.0,
-        "premeet_projection": 5.0,
-        "win_probability": 0.0,
-        "top4_probability": 100.0,
-        "events_scored": [
-          "Men 60 M (13.0pt)",
-          "Men 60 M Hurdles (10.0pt)",
-          "Men 60 M (13.0pt)",
-          "Men 60 M Hurdles (10.0pt)"
-        ]
-      },
-      {
         "team": "Penn State",
         "actual": 39.0,
         "seed_projection": 39.0,
         "ceiling": 39.0,
         "mc_forecast": 39.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 100.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M (2.0pt)",
           "Men 400 M (2.0pt)",
@@ -3710,8 +3711,8 @@
         "ceiling": 37.0,
         "mc_forecast": 37.0,
         "premeet_projection": 77.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (7.0pt)",
           "Men 800 M (3.0pt)",
@@ -3728,49 +3729,13 @@
         "ceiling": 33.7,
         "mc_forecast": 33.7,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men High Jump (4.7pt)",
           "Men Triple Jump (15.0pt)",
           "Men Weight (4.0pt)",
           "Men Long Jump (10.0pt)"
-        ]
-      },
-      {
-        "team": "South Carolina",
-        "actual": 20.0,
-        "seed_projection": 30.0,
-        "ceiling": 30.0,
-        "mc_forecast": 28.5,
-        "premeet_projection": 14.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men 1 Mile (3.0pt)",
-          "Men 400 M (5.0pt)",
-          "Men 200 M (2.0pt)",
-          "Men 1 Mile (3.0pt)",
-          "Men 400 M (5.0pt)",
-          "Men 200 M (2.0pt)"
-        ]
-      },
-      {
-        "team": "Texas A&M",
-        "actual": 26.4,
-        "seed_projection": 29.4,
-        "ceiling": 29.4,
-        "mc_forecast": 29.5,
-        "premeet_projection": 25.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men 800 M (4.0pt)",
-          "Men 60 M Hurdles (4.0pt)",
-          "Men 800 M (4.0pt)",
-          "Men 60 M Hurdles (4.0pt)",
-          "Men Weight (5.0pt)",
-          "Men Pole Vault (5.4pt)"
         ]
       },
       {
@@ -3780,8 +3745,8 @@
         "ceiling": 29.0,
         "mc_forecast": 29.0,
         "premeet_projection": 5.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (10.0pt)",
           "Men 1 Mile (10.0pt)",
@@ -3795,8 +3760,8 @@
         "ceiling": 28.0,
         "mc_forecast": 28.0,
         "premeet_projection": 1.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M (9.0pt)",
           "Men 60 M (9.0pt)",
@@ -3810,8 +3775,8 @@
         "ceiling": 28.0,
         "mc_forecast": 28.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M (4.0pt)",
           "Men 60 M Hurdles (6.0pt)",
@@ -3821,31 +3786,21 @@
         ]
       },
       {
-        "team": "USC",
-        "actual": 20.0,
-        "seed_projection": 24.0,
-        "ceiling": 24.0,
-        "mc_forecast": 24.0,
-        "premeet_projection": 8.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "team": "Texas A&M",
+        "actual": 26.4,
+        "seed_projection": 26.4,
+        "ceiling": 26.4,
+        "mc_forecast": 26.4,
+        "premeet_projection": 25.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
-          "Men 200 M (10.0pt)",
-          "Men 200 M (10.0pt)"
-        ]
-      },
-      {
-        "team": "Alabama",
-        "actual": 16.0,
-        "seed_projection": 22.0,
-        "ceiling": 22.0,
-        "mc_forecast": 22.2,
-        "premeet_projection": 20.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": [
-          "Men 400 M (8.0pt)",
-          "Men 400 M (8.0pt)"
+          "Men 800 M (4.0pt)",
+          "Men 60 M Hurdles (4.0pt)",
+          "Men 800 M (4.0pt)",
+          "Men 60 M Hurdles (4.0pt)",
+          "Men Weight (5.0pt)",
+          "Men Pole Vault (5.4pt)"
         ]
       },
       {
@@ -3855,8 +3810,8 @@
         "ceiling": 21.4,
         "mc_forecast": 21.4,
         "premeet_projection": 3.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (8.0pt)",
           "Men 1 Mile (8.0pt)",
@@ -3870,11 +3825,43 @@
         "ceiling": 20.0,
         "mc_forecast": 20.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 3000 M (10.0pt)",
           "Men 5000 M (10.0pt)"
+        ]
+      },
+      {
+        "team": "South Carolina",
+        "actual": 20.0,
+        "seed_projection": 20.0,
+        "ceiling": 20.0,
+        "mc_forecast": 20.0,
+        "premeet_projection": 14.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 1 Mile (3.0pt)",
+          "Men 400 M (5.0pt)",
+          "Men 200 M (2.0pt)",
+          "Men 1 Mile (3.0pt)",
+          "Men 400 M (5.0pt)",
+          "Men 200 M (2.0pt)"
+        ]
+      },
+      {
+        "team": "USC",
+        "actual": 20.0,
+        "seed_projection": 20.0,
+        "ceiling": 20.0,
+        "mc_forecast": 20.0,
+        "premeet_projection": 8.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 200 M (10.0pt)",
+          "Men 200 M (10.0pt)"
         ]
       },
       {
@@ -3884,25 +3871,25 @@
         "ceiling": 18.7,
         "mc_forecast": 18.7,
         "premeet_projection": 4.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men High Jump (14.7pt)",
           "Men Triple Jump (4.0pt)"
         ]
       },
       {
-        "team": "Tennessee",
-        "actual": 12.9,
-        "seed_projection": 17.9,
-        "ceiling": 17.9,
-        "mc_forecast": 17.9,
-        "premeet_projection": 30.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "team": "Alabama",
+        "actual": 16.0,
+        "seed_projection": 16.0,
+        "ceiling": 16.0,
+        "mc_forecast": 16.0,
+        "premeet_projection": 20.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
-          "Men Weight (2.0pt)",
-          "Men Pole Vault (10.9pt)"
+          "Men 400 M (8.0pt)",
+          "Men 400 M (8.0pt)"
         ]
       },
       {
@@ -3912,8 +3899,8 @@
         "ceiling": 16.0,
         "mc_forecast": 16.0,
         "premeet_projection": 12.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Shot Put (10.0pt)",
           "Men Weight (6.0pt)"
@@ -3926,8 +3913,8 @@
         "ceiling": 16.0,
         "mc_forecast": 16.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M Hurdles (8.0pt)",
           "Men 60 M Hurdles (8.0pt)"
@@ -3938,10 +3925,10 @@
         "actual": 13.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 13.4,
+        "mc_forecast": 13.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Shot Put (8.0pt)",
           "Men Long Jump (5.0pt)"
@@ -3954,27 +3941,25 @@
         "ceiling": 13.0,
         "mc_forecast": 13.0,
         "premeet_projection": 8.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 3000 M (5.0pt)",
           "Men 5000 M (8.0pt)"
         ]
       },
       {
-        "team": "Georgia",
-        "actual": 11.7,
-        "seed_projection": 12.7,
-        "ceiling": 12.7,
-        "mc_forecast": 13.0,
-        "premeet_projection": 22.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "team": "Tennessee",
+        "actual": 12.9,
+        "seed_projection": 12.9,
+        "ceiling": 12.9,
+        "mc_forecast": 12.9,
+        "premeet_projection": 30.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
-          "Men 400 M (3.0pt)",
-          "Men High Jump (4.7pt)",
-          "Men 400 M (3.0pt)",
-          "Men Long Jump (1.0pt)"
+          "Men Weight (2.0pt)",
+          "Men Pole Vault (10.9pt)"
         ]
       },
       {
@@ -3984,11 +3969,27 @@
         "ceiling": 12.0,
         "mc_forecast": 12.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (6.0pt)",
           "Men 1 Mile (6.0pt)"
+        ]
+      },
+      {
+        "team": "Georgia",
+        "actual": 11.7,
+        "seed_projection": 11.7,
+        "ceiling": 11.7,
+        "mc_forecast": 11.7,
+        "premeet_projection": 22.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 400 M (3.0pt)",
+          "Men High Jump (4.7pt)",
+          "Men 400 M (3.0pt)",
+          "Men Long Jump (1.0pt)"
         ]
       },
       {
@@ -3998,8 +3999,8 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 200 M (5.0pt)",
           "Men 200 M (5.0pt)"
@@ -4012,10 +4013,23 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (10.0pt)"
+        ]
+      },
+      {
+        "team": "SOUTH CAROLINA1South Carolina",
+        "actual": 10.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (10.0pt)"
         ]
       },
       {
@@ -4025,8 +4039,8 @@
         "ceiling": 10.0,
         "mc_forecast": 10.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Long Jump (10.0pt)"
         ]
@@ -4038,12 +4052,25 @@
         "ceiling": 9.0,
         "mc_forecast": 9.0,
         "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 200 M (3.0pt)",
           "Men Triple Jump (3.0pt)",
           "Men 200 M (3.0pt)"
+        ]
+      },
+      {
+        "team": "ALABAMA3Alabama",
+        "actual": 8.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (8.0pt)"
         ]
       },
       {
@@ -4053,8 +4080,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (8.0pt)"
         ]
@@ -4066,8 +4093,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 200 M (4.0pt)",
           "Men 200 M (4.0pt)"
@@ -4078,10 +4105,10 @@
         "actual": 8.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 8.1,
+        "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men High Jump (8.0pt)"
         ]
@@ -4093,8 +4120,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 32.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 3000 M (8.0pt)"
         ]
@@ -4106,8 +4133,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 400 M (4.0pt)",
           "Men 400 M (4.0pt)"
@@ -4120,8 +4147,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Long Jump (8.0pt)"
         ]
@@ -4133,8 +4160,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 23.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M Hurdles (2.0pt)",
           "Men Shot Put (2.0pt)",
@@ -4149,8 +4176,8 @@
         "ceiling": 8.0,
         "mc_forecast": 8.0,
         "premeet_projection": 6.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (4.0pt)",
           "Men 1 Mile (4.0pt)"
@@ -4163,8 +4190,8 @@
         "ceiling": 6.4,
         "mc_forecast": 6.4,
         "premeet_projection": 21.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Triple Jump (1.0pt)",
           "Men Pole Vault (5.4pt)"
@@ -4177,11 +4204,24 @@
         "ceiling": 6.0,
         "mc_forecast": 6.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M Hurdles (3.0pt)",
           "Men 60 M Hurdles (3.0pt)"
+        ]
+      },
+      {
+        "team": "TENNESSEE4Tennessee",
+        "actual": 6.0,
+        "seed_projection": 6.0,
+        "ceiling": 6.0,
+        "mc_forecast": 6.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (6.0pt)"
         ]
       },
       {
@@ -4191,8 +4231,8 @@
         "ceiling": 6.0,
         "mc_forecast": 6.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (6.0pt)"
         ]
@@ -4204,8 +4244,8 @@
         "ceiling": 5.4,
         "mc_forecast": 5.4,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Pole Vault (5.4pt)"
         ]
@@ -4217,10 +4257,23 @@
         "ceiling": 5.4,
         "mc_forecast": 5.4,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Pole Vault (5.4pt)"
+        ]
+      },
+      {
+        "team": "ARKANSAS9Arkansas",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (5.0pt)"
         ]
       },
       {
@@ -4230,8 +4283,8 @@
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 5000 M (5.0pt)"
         ]
@@ -4243,8 +4296,8 @@
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (5.0pt)"
         ]
@@ -4256,23 +4309,23 @@
         "ceiling": 5.0,
         "mc_forecast": 5.0,
         "premeet_projection": 4.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Shot Put (5.0pt)"
         ]
       },
       {
-        "team": "LSU",
-        "actual": 2.0,
+        "team": "FLORIDA2Florida",
+        "actual": 4.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.2,
-        "premeet_projection": 53.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "mc_forecast": 4.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
-          "Men Long Jump (2.0pt)"
+          "Men 4x400 Meter Relay (4.0pt)"
         ]
       },
       {
@@ -4282,8 +4335,8 @@
         "ceiling": 4.0,
         "mc_forecast": 4.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 5000 M (4.0pt)"
         ]
@@ -4295,8 +4348,8 @@
         "ceiling": 4.0,
         "mc_forecast": 4.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (4.0pt)"
         ]
@@ -4308,8 +4361,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (3.0pt)"
         ]
@@ -4321,8 +4374,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 3000 M (3.0pt)"
         ]
@@ -4334,8 +4387,8 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 5000 M (3.0pt)"
         ]
@@ -4347,10 +4400,23 @@
         "ceiling": 3.0,
         "mc_forecast": 3.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Weight (3.0pt)"
+        ]
+      },
+      {
+        "team": "PRINCETON10Princeton",
+        "actual": 3.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (3.0pt)"
         ]
       },
       {
@@ -4360,8 +4426,8 @@
         "ceiling": 2.3,
         "mc_forecast": 2.3,
         "premeet_projection": 14.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men High Jump (2.3pt)"
         ]
@@ -4373,8 +4439,8 @@
         "ceiling": 2.3,
         "mc_forecast": 2.3,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men High Jump (2.3pt)"
         ]
@@ -4386,8 +4452,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 60 M (1.0pt)",
           "Men 60 M (1.0pt)"
@@ -4400,8 +4466,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 3000 M (2.0pt)"
         ]
@@ -4413,8 +4479,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 18.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 1 Mile (1.0pt)",
           "Men 1 Mile (1.0pt)"
@@ -4427,11 +4493,24 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 2.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 200 M (1.0pt)",
           "Men 200 M (1.0pt)"
+        ]
+      },
+      {
+        "team": "LSU",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 53.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men Long Jump (2.0pt)"
         ]
       },
       {
@@ -4441,8 +4520,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (2.0pt)"
         ]
@@ -4454,8 +4533,8 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 5000 M (2.0pt)"
         ]
@@ -4467,11 +4546,24 @@
         "ceiling": 2.0,
         "mc_forecast": 2.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 800 M (1.0pt)",
           "Men 800 M (1.0pt)"
+        ]
+      },
+      {
+        "team": "TEXAS A&M5Texas A&M",
+        "actual": 2.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (2.0pt)"
         ]
       },
       {
@@ -4481,8 +4573,8 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men 5000 M (1.0pt)"
         ]
@@ -4494,10 +4586,23 @@
         "ceiling": 1.0,
         "mc_forecast": 1.0,
         "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
         "events_scored": [
           "Men Distance Medley Relay (1.0pt)"
+        ]
+      },
+      {
+        "team": "OHIO STATE11Ohio State",
+        "actual": 1.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.0,
+        "premeet_projection": 0.0,
+        "win_probability": 1.4,
+        "top4_probability": 5.8,
+        "events_scored": [
+          "Men 4x400 Meter Relay (1.0pt)"
         ]
       },
       {
@@ -4611,17 +4716,6 @@
         "events_scored": []
       },
       {
-        "team": "Ohio State",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 0.0,
-        "mc_forecast": 0.2,
-        "premeet_projection": 0.0,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Penn St.",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -4688,7 +4782,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 21,
+    "completed_finals": 22,
     "total_finals": 22,
     "events": [
       {
@@ -5218,80 +5312,68 @@
         "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/009-1_start.htm",
         "scores_url": null,
         "prelim_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/009-1.htm",
-        "status": "scheduled",
-        "results": [],
-        "prelim_results": [],
-        "start_list_entries": [
+        "status": "final",
+        "results": [
           {
-            "name": "Miami (Fla.)",
-            "team": "Miami (Fla.)",
-            "seed": "3:04.11"
+            "place": 1,
+            "name": "",
+            "team": "SOUTH CAROLINA1South Carolina",
+            "mark": ""
           },
           {
-            "name": "Ohio State",
-            "team": "Ohio State",
-            "seed": "3:03.87"
+            "place": 2,
+            "name": "",
+            "team": "ALABAMA3Alabama",
+            "mark": ""
           },
           {
-            "name": "Arkansas",
-            "team": "Arkansas",
-            "seed": "3:03.40"
+            "place": 3,
+            "name": "",
+            "team": "TENNESSEE4Tennessee",
+            "mark": ""
           },
           {
-            "name": "Princeton",
-            "team": "Princeton",
-            "seed": "3:03.56"
+            "place": 4,
+            "name": "",
+            "team": "ARKANSAS9Arkansas",
+            "mark": ""
           },
           {
-            "name": "Georgia",
-            "team": "Georgia",
-            "seed": "3:03.10"
+            "place": 5,
+            "name": "",
+            "team": "FLORIDA2Florida",
+            "mark": ""
           },
           {
-            "name": "LSU",
-            "team": "LSU",
-            "seed": "3:03.05"
+            "place": 6,
+            "name": "",
+            "team": "PRINCETON10Princeton",
+            "mark": ""
           },
           {
-            "name": "Texas A&M",
-            "team": "Texas A&M",
-            "seed": "3:02.71"
+            "place": 7,
+            "name": "",
+            "team": "TEXAS A&M5Texas A&M",
+            "mark": ""
           },
           {
-            "name": "USC",
-            "team": "USC",
-            "seed": "3:02.55"
-          },
-          {
-            "name": "Tennessee",
-            "team": "Tennessee",
-            "seed": "3:02.46"
-          },
-          {
-            "name": "Alabama",
-            "team": "Alabama",
-            "seed": "3:02.29"
-          },
-          {
-            "name": "South Carolina",
-            "team": "South Carolina",
-            "seed": "3:00.86"
-          },
-          {
-            "name": "Florida",
-            "team": "Florida",
-            "seed": "3:02.15"
+            "place": 8,
+            "name": "",
+            "team": "OHIO STATE11Ohio State",
+            "mark": ""
           }
         ],
+        "prelim_results": [],
+        "start_list_entries": [],
         "seed_projection": {
-          "South Carolina": 10.0,
-          "Florida": 8.0,
-          "Alabama": 6.0,
-          "Tennessee": 5.0,
-          "USC": 4.0,
-          "Texas A&M": 3.0,
-          "LSU": 2.0,
-          "Georgia": 1.0
+          "SOUTH CAROLINA1South Carolina": 10.0,
+          "ALABAMA3Alabama": 8.0,
+          "TENNESSEE4Tennessee": 6.0,
+          "ARKANSAS9Arkansas": 5.0,
+          "FLORIDA2Florida": 4.0,
+          "PRINCETON10Princeton": 3.0,
+          "TEXAS A&M5Texas A&M": 2.0,
+          "OHIO STATE11Ohio State": 1.0
         }
       },
       {
@@ -6581,23 +6663,35 @@
           "Eastern Kentucky": 3.0,
           "Butler": 2.0
         }
-      }
-    ],
-    "leverage": [
+      },
       {
         "event": "Men 4x400 Meter Relay",
-        "total_points": 39,
-        "top_teams": [
-          "South Carolina",
-          "Florida",
-          "Alabama",
-          "Tennessee",
-          "USC"
-        ],
-        "n_entries": 12
+        "winner": "",
+        "team": "SOUTH CAROLINA1South Carolina",
+        "mark": "",
+        "timestamp": "2026-03-15T03:25:44Z",
+        "points_awarded": {
+          "SOUTH CAROLINA1South Carolina": 10.0,
+          "ALABAMA3Alabama": 8.0,
+          "TENNESSEE4Tennessee": 6.0,
+          "ARKANSAS9Arkansas": 5.0,
+          "FLORIDA2Florida": 4.0,
+          "PRINCETON10Princeton": 3.0,
+          "TEXAS A&M5Texas A&M": 2.0,
+          "OHIO STATE11Ohio State": 1.0
+        }
       }
     ],
+    "leverage": [],
     "scenarios": {
+      "ALABAMA3Alabama": {
+        "team": "ALABAMA3Alabama",
+        "current": 8.0,
+        "scenario_a": 8.0,
+        "scenario_b": 8.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "ARKANSAS8Arkansas": {
         "team": "ARKANSAS8Arkansas",
         "current": 8.0,
@@ -6606,29 +6700,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "ARKANSAS9Arkansas": {
+        "team": "ARKANSAS9Arkansas",
+        "current": 5.0,
+        "scenario_a": 5.0,
+        "scenario_b": 5.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Alabama": {
         "team": "Alabama",
         "current": 16.0,
-        "scenario_a": 22.0,
-        "scenario_b": 26.0,
+        "scenario_a": 16.0,
+        "scenario_b": 16.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Alabama",
-                "seed_mark": "3:02.29",
-                "proj_place": 3,
-                "seed_pts": 6
-              }
-            ],
-            "scenario_a_pts": 6.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Arizona": {
         "team": "Arizona",
@@ -6658,30 +6744,9 @@
         "team": "Arkansas",
         "current": 110.33333333333334,
         "scenario_a": 110.3,
-        "scenario_b": 120.3,
+        "scenario_b": 110.3,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Arkansas",
-                "seed_mark": "3:03.40",
-                "proj_place": 9,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Arkansas",
-                "seed_mark": "3:03.40"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Auburn": {
         "team": "Auburn",
@@ -6763,29 +6828,21 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "FLORIDA2Florida": {
+        "team": "FLORIDA2Florida",
+        "current": 4.0,
+        "scenario_a": 4.0,
+        "scenario_b": 4.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Florida": {
         "team": "Florida",
         "current": 40.0,
-        "scenario_a": 48.0,
-        "scenario_b": 50.0,
+        "scenario_a": 40.0,
+        "scenario_b": 40.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Florida",
-                "seed_mark": "3:02.15",
-                "proj_place": 2,
-                "seed_pts": 8
-              }
-            ],
-            "scenario_a_pts": 8.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Florida St.": {
         "team": "Florida St.",
@@ -6806,26 +6863,10 @@
       "Georgia": {
         "team": "Georgia",
         "current": 11.666666666666668,
-        "scenario_a": 12.7,
-        "scenario_b": 21.7,
+        "scenario_a": 11.7,
+        "scenario_b": 11.7,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Georgia",
-                "seed_mark": "3:03.10",
-                "proj_place": 8,
-                "seed_pts": 1
-              }
-            ],
-            "scenario_a_pts": 1.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "High Point": {
         "team": "High Point",
@@ -6902,26 +6943,10 @@
       "LSU": {
         "team": "LSU",
         "current": 2.0,
-        "scenario_a": 4.0,
-        "scenario_b": 12.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "LSU",
-                "seed_mark": "3:03.05",
-                "proj_place": 7,
-                "seed_pts": 2
-              }
-            ],
-            "scenario_a_pts": 2.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Louisville": {
         "team": "Louisville",
@@ -6943,30 +6968,9 @@
         "team": "Miami (Fla.)",
         "current": 8.0,
         "scenario_a": 8.0,
-        "scenario_b": 18.0,
+        "scenario_b": 8.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Miami (Fla.)",
-                "seed_mark": "3:04.11",
-                "proj_place": 12,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Miami (Fla.)",
-                "seed_mark": "3:04.11"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Michigan": {
         "team": "Michigan",
@@ -7048,6 +7052,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "OHIO STATE11Ohio State": {
+        "team": "OHIO STATE11Ohio State",
+        "current": 1.0,
+        "scenario_a": 1.0,
+        "scenario_b": 1.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "OREGON2Oregon": {
         "team": "OREGON2Oregon",
         "current": 2.0,
@@ -7096,6 +7108,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "PRINCETON10Princeton": {
+        "team": "PRINCETON10Princeton",
+        "current": 3.0,
+        "scenario_a": 3.0,
+        "scenario_b": 3.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Penn": {
         "team": "Penn",
         "current": 2.0,
@@ -7124,30 +7144,9 @@
         "team": "Princeton",
         "current": 13.0,
         "scenario_a": 13.0,
-        "scenario_b": 23.0,
+        "scenario_b": 13.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Princeton",
-                "seed_mark": "3:03.56",
-                "proj_place": 10,
-                "seed_pts": 0
-              }
-            ],
-            "scenario_a_pts": 0.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": [
-              {
-                "athlete": "Princeton",
-                "seed_mark": "3:03.56"
-              }
-            ]
-          }
-        ]
+        "breakdown": []
       },
       "Purdue": {
         "team": "Purdue",
@@ -7173,6 +7172,14 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "SOUTH CAROLINA1South Carolina": {
+        "team": "SOUTH CAROLINA1South Carolina",
+        "current": 10.0,
+        "scenario_a": 10.0,
+        "scenario_b": 10.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Samford": {
         "team": "Samford",
         "current": 16.0,
@@ -7184,26 +7191,10 @@
       "South Carolina": {
         "team": "South Carolina",
         "current": 20.0,
-        "scenario_a": 30.0,
-        "scenario_b": 30.0,
+        "scenario_a": 20.0,
+        "scenario_b": 20.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "South Carolina",
-                "seed_mark": "3:00.86",
-                "proj_place": 1,
-                "seed_pts": 10
-              }
-            ],
-            "scenario_a_pts": 10.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Southern Miss.": {
         "team": "Southern Miss.",
@@ -7229,6 +7220,22 @@
         "scenario_c": 0.0,
         "breakdown": []
       },
+      "TENNESSEE4Tennessee": {
+        "team": "TENNESSEE4Tennessee",
+        "current": 6.0,
+        "scenario_a": 6.0,
+        "scenario_b": 6.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
+      "TEXAS A&M5Texas A&M": {
+        "team": "TEXAS A&M5Texas A&M",
+        "current": 2.0,
+        "scenario_a": 2.0,
+        "scenario_b": 2.0,
+        "scenario_c": 0.0,
+        "breakdown": []
+      },
       "Tarleton State": {
         "team": "Tarleton State",
         "current": 10.0,
@@ -7240,26 +7247,10 @@
       "Tennessee": {
         "team": "Tennessee",
         "current": 12.857142857142858,
-        "scenario_a": 17.9,
-        "scenario_b": 22.9,
+        "scenario_a": 12.9,
+        "scenario_b": 12.9,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Tennessee",
-                "seed_mark": "3:02.46",
-                "proj_place": 4,
-                "seed_pts": 5
-              }
-            ],
-            "scenario_a_pts": 5.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Texas": {
         "team": "Texas",
@@ -7272,26 +7263,10 @@
       "Texas A&M": {
         "team": "Texas A&M",
         "current": 26.42857142857143,
-        "scenario_a": 29.4,
-        "scenario_b": 36.4,
+        "scenario_a": 26.4,
+        "scenario_b": 26.4,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "Texas A&M",
-                "seed_mark": "3:02.71",
-                "proj_place": 6,
-                "seed_pts": 3
-              }
-            ],
-            "scenario_a_pts": 3.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "Texas State": {
         "team": "Texas State",
@@ -7320,26 +7295,10 @@
       "USC": {
         "team": "USC",
         "current": 20.0,
-        "scenario_a": 24.0,
-        "scenario_b": 30.0,
+        "scenario_a": 20.0,
+        "scenario_b": 20.0,
         "scenario_c": 0.0,
-        "breakdown": [
-          {
-            "event": "Men 4x400 Meter Relay",
-            "athletes": [
-              {
-                "athlete": "USC",
-                "seed_mark": "3:02.55",
-                "proj_place": 5,
-                "seed_pts": 4
-              }
-            ],
-            "scenario_a_pts": 4.0,
-            "scenario_b_pts": 10,
-            "scenario_c_pts": 0,
-            "swing_athletes": []
-          }
-        ]
+        "breakdown": []
       },
       "VIRGINIA TECH3Virginia Tech": {
         "team": "VIRGINIA TECH3Virginia Tech",
