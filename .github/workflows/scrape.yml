@@ -1,9 +1,9 @@
-name: Scrape Live Results
+##name: Scrape Live Results
 
-on:
-  schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes during the meet
-  workflow_dispatch:          # manual trigger for testing
+## on:
+ ## schedule:
+  ##  - cron: '*/5 * * * *'   # every 5 minutes during the meet
+##  workflow_dispatch:          # manual trigger for testing
 
 jobs:
   scrape:
